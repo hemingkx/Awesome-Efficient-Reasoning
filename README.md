@@ -14,10 +14,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Efficient Self-Consistency](#efficient-self-consistency)
   - [Other Work](#other-work)
   - [Analysis](#analysis)
-- [Blogs](#blogs)
 - [Resources](#resources)
 - [Contribution](#contribution)
-  - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
 
 ## Keywords Convention
@@ -191,12 +189,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - https://github.com/Blueyee/Efficient-CoT-LRMs
 - https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs
 - https://github.com/EIT-NLP/Awesome-Latent-CoT
-
-## Contributors
-
-<a href="https://github.com/hemingkx/Awesome-Efficient-Reasoning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hemingkx/Awesome-Efficient-Reasoning" />
-</a>
 
 ## Contributing to this paper list
 
