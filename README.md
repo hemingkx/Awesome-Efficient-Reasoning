@@ -16,7 +16,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Analysis](#analysis)
 - [Resources](#resources)
 - [Contribution](#contribution)
+  - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
+  
 
 ## Keywords Convention
 
@@ -153,6 +155,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Guangya Wan, Yuqi Wu, Jie Chen, Sheng Li*. [[pdf](https://arxiv.org/pdf/2408.17017)], [[code](https://github.com/wan19990901/RASC/tree/Submission_Code)], 2024.08. ![](https://img.shields.io/badge/NAACL2025-orange) ![](https://img.shields.io/badge/RASC-blue)
 - **Efficient Test-Time Scaling via Self-Calibration**  
   *Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang*. [[pdf](https://arxiv.org/pdf/2503.00031)], [[code](https://github.com/Chengsong-Huang/Self-Calibration)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Calibration-blue)
+- **Confidence Improves Self-Consistency in LLMs**  
+  *Amir Taubenfeld, Tom Sheffer, Eran Ofek, Amir Feder, Ariel Goldstein, Zorik Gekhman, Gal Yona*. [[pdf](https://arxiv.org/pdf/2502.06233)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CISC-blue)
 
 ### Other Work
 
@@ -189,6 +193,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - https://github.com/Blueyee/Efficient-CoT-LRMs
 - https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs
 - https://github.com/EIT-NLP/Awesome-Latent-CoT
+
+## Contributors
+
+<a href="https://github.com/hemingkx/Awesome-Efficient-Reasoning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hemingkx/Awesome-Efficient-Reasoning" />
+</a>
 
 ## Contributing to this paper list
 
