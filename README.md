@@ -184,7 +184,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ## Resources
 
-##### Reading lists related to Efficient Reasoning
+**Reading lists related to Efficient Reasoning**
 
 - https://github.com/Blueyee/Efficient-CoT-LRMs
 - https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs
