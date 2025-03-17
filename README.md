@@ -157,6 +157,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang*. [[pdf](https://arxiv.org/pdf/2503.00031)], [[code](https://github.com/Chengsong-Huang/Self-Calibration)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Calibration-blue)
 - **Confidence Improves Self-Consistency in LLMs**  
   *Amir Taubenfeld, Tom Sheffer, Eran Ofek, Amir Feder, Ariel Goldstein, Zorik Gekhman, Gal Yona*. [[pdf](https://arxiv.org/pdf/2502.06233)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CISC-blue)
+- **Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**  
+  *Zhi Zhou, Tan Yuhao, Zenan Li, Yuan Yao, Lan-Zhe Guo, Xiaoxing Ma, Yu-Feng Li*. [[pdf](https://arxiv.org/pdf/2502.00511)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RPC-blue)
 
 ### Other Work
 
