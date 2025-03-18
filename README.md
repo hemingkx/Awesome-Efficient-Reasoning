@@ -10,6 +10,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Chain-of-Thought Compression](#chain-of-thought-compression)
   - [Balanced Chain-of-Thought](#balanced-chain-of-thought)
   - [Reasoning Shortcuts](#reasoning-shortcuts)
+  - [Reasoning Step Decomposition](#reasoning-step-decomposition)
   - [Efficient Sampling](#efficient-sampling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
   - [Other Work](#other-work)
@@ -130,6 +131,17 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models**  
   *Yingqian Cui, Pengfei He, Jingying Zeng, Hui Liu, Xianfeng Tang, Zhenwei Dai, Yan Han, Chen Luo, Jing Huang, Zhen Li, Suhang Wang, Yue Xing, Jiliang Tang, Qi He*. [[pdf](https://arxiv.org/pdf/2502.13260)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
+### Reasoning Step Decomposition
+
+- **Markov Chain of Thought for Efficient Mathematical Reasoning**  
+  *Wen Yang, Minpeng Liao, Kai Fan*. [[pdf](https://arxiv.org/pdf/2410.17635)], [[code](https://github.com/james-yw/Markov-Chain-of-Thought)], 2024.10. ![](https://img.shields.io/badge/NAACL2025-orange) ![](https://img.shields.io/badge/MCoT-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Summarization-green)
+- **Atom of Thoughts for Markov LLM Test-Time Scaling**  
+  *Fengwei Teng, Zhaoyang Yu, Quan Shi, Jiayi Zhang, Chenglin Wu, Yuyu Luo*. [[pdf](https://arxiv.org/pdf/2502.12018)], [[code](https://github.com/qixucen/atom)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AoT-blue)
+- **DISC: Dynamic Decomposition Improves LLM Inference Scaling**  
+  *Jonathan Light, Wei Cheng, Wu Yue, Masafumi Oyamada, Mengdi Wang, Santiago Paternain, Haifeng Chen*. [[pdf](https://arxiv.org/pdf/2502.16706)], 2025.02. ![](https://img.shields.io/badge/ICLR2025_SSI--FM_workshop-orange) ![](https://img.shields.io/badge/DISC-blue)
+- **Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?**  
+  *Kun Xiang, Zhili Liu, Zihao Jiang, Yunshuang Nie, Kaixin Cai, Yiyang Yin, Runhui Huang, Haoxiang Fan, Hanhui Li, Weiran Huang, Yihan Zeng, Yu-Jie Yuan, Jianhua Han, Lanqing Hong, Hang Xu, Xiaodan Liang*. [[pdf](https://arxiv.org/pdf/2503.06252)], [[code](https://github.com/Quinn777/AtomThink)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SCoT-blue) ![](https://img.shields.io/badge/Multimodal-green)
+
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
@@ -170,18 +182,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xuefei Ning, Zinan Lin, Zixuan Zhou, Zifu Wang, Huazhong Yang, Yu Wang*. [[pdf](https://openreview.net/pdf?id=mqVgBbNCm9)], [[code](https://github.com/imagination-research/sot)], [[homepage](https://sites.google.com/view/sot-llm)], 2023.06. ![](https://img.shields.io/badge/ICLR2024-orange) ![](https://img.shields.io/badge/SoT-blue) ![](https://img.shields.io/badge/Parallel_CoT-green)
 - **Adaptive Skeleton Graph Decoding**  
   *Shuowei Jin, Yongji Wu, Haizhong Zheng, Qingzhao Zhang, Matthew Lentz, Z. Morley Mao, Atul Prakash, Feng Qian, Danyang Zhuo*. [[pdf](https://arxiv.org/pdf/2402.12280)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
-- **Markov Chain of Thought for Efficient Mathematical Reasoning**  
-  *Wen Yang, Minpeng Liao, Kai Fan*. [[pdf](https://arxiv.org/pdf/2410.17635)], [[code](https://github.com/james-yw/Markov-Chain-of-Thought)], 2024.10. ![](https://img.shields.io/badge/NAACL2025-orange) ![](https://img.shields.io/badge/MCoT-blue) ![](https://img.shields.io/badge/Step_Decompostion-green) ![](https://img.shields.io/badge/Intermediate_CoT_Summarization-green)
 - **Reward-Guided Speculative Decoding for Efficient LLM Reasoning**  
   *Baohao Liao, Yuhui Xu, Hanze Dong, Junnan Li, Christof Monz, Silvio Savarese, Doyen Sahoo, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2501.19324)], [[code](https://github.com/BaohaoLiao/RSD)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RSD-blue) ![](https://img.shields.io/badge/Speculative_Decoding-green)
 - **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models**  
   *Yuchen Yan, Yongliang Shen, Yang Liu, Jin Jiang, Mengdi Zhang, Jian Shao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2503.06692)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/InftyThink-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Summarization-green)
-- **DISC: Dynamic Decomposition Improves LLM Inference Scaling**  
-  *Jonathan Light, Wei Cheng, Wu Yue, Masafumi Oyamada, Mengdi Wang, Santiago Paternain, Haifeng Chen*. [[pdf](https://arxiv.org/pdf/2502.16706)], 2025.02. ![](https://img.shields.io/badge/ICLR2025_SSI--FM_workshop-orange) ![](https://img.shields.io/badge/DISC-blue) ![](https://img.shields.io/badge/Step_Decompostion-green)
 - **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**  
   *Pranjal Aggarwal, Sean Welleck*. [[pdf](https://www.arxiv.org/pdf/2503.04697)], [[code](https://github.com/cmu-l3/l1)], [[homepage](https://cmu-l3.github.io/l1/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/L1-blue) ![](https://img.shields.io/badge/Length_Control-green)
-- **Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?**  
-  *Kun Xiang, Zhili Liu, Zihao Jiang, Yunshuang Nie, Kaixin Cai, Yiyang Yin, Runhui Huang, Haoxiang Fan, Hanhui Li, Weiran Huang, Yihan Zeng, Yu-Jie Yuan, Jianhua Han, Lanqing Hong, Hang Xu, Xiaodan Liang*. [[pdf](https://arxiv.org/pdf/2503.06252)], [[code](https://github.com/Quinn777/AtomThink)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SCoT-blue) ![](https://img.shields.io/badge/Step_Decompostion-green) ![](https://img.shields.io/badge/Multimodal-green)
 
 ### Analysis
 
