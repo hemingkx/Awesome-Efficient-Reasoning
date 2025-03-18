@@ -147,7 +147,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Fast Best-of-N Decoding via Speculative Rejection**  
   *Hanshi Sun, Momin Haider, Ruiqi Zhang, Huitao Yang, Jiahao Qiu, Ming Yin, Mengdi Wang, Peter Bartlett, Andrea Zanette*. [[pdf](https://openreview.net/pdf?id=348hfcprUs)], [[code](https://github.com/Zanette-Labs/SpeculativeRejection)], 2024.10. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Speculative_Rejection-blue)
 - **Non-myopic Generation of Language Models for Reasoning and Planning**  
-  *Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong*. [[pdf](https://openreview.net/forum?id=OoNazl6T7D)], [[code](https://github.com/chang-github-00/LLM-Predictive-Decoding)], 2024.10. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Predictive--Decoding-blue)
+  *Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong*. [[pdf](https://openreview.net/forum?id=OoNazl6T7D)], [[code](https://github.com/chang-github-00/LLM-Predictive-Decoding)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Predictive--Decoding-blue)
 - **FastMCTS: A Simple Sampling Strategy for Data Synthesis**  
   *Peiji Li, Kai Lv, Yunfan Shao, Yichuan Ma, Linyang Li, Xiaoqing Zheng, Xipeng Qiu, Qipeng Guo*. [[pdf](https://www.arxiv.org/pdf/2502.11476)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastMCTS-blue)
 - **Dynamic Parallel Tree Search for Efficient LLM Reasoning**  
