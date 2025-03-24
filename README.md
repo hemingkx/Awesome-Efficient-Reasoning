@@ -51,6 +51,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Liang Wen, Yunke Cai, Fenrui Xiao, Xin He, Qi An, Zhenyu Duan, Yimin Du, Junchen Liu, Lifu Tang, Xiaowei Lv, Haosheng Zou, Yongchao Deng, Shousheng Jia, Xiangzheng Zhang*. [[pdf](https://arxiv.org/pdf/2503.10460)], [[code](https://github.com/Qihoo360/Light-R1)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Light--R1-blue)
 - **DAPO: An Open-Source LLM Reinforcement Learning System at Scale**  
   *Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Tiantian Fan, Gaohong Liu, Lingjun Liu, Xin Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Guangming Sheng, Yuxuan Tong, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Jinhua Zhu, Jiaze Chen, Jiangjie Chen, Chengyi Wang, Hongli Yu, Weinan Dai, Yuxuan Song, Xiangpeng Wei, Hao Zhou, Jingjing Liu, Wei-Ying Ma, Ya-Qin Zhang, Lin Yan, Mu Qiao, Yonghui Wu, Mingxuan Wang*. [[pdf](https://arxiv.org/pdf/2503.14476)], [[code](https://github.com/BytedTsinghua-SIA/DAPO)], [[homepage](https://dapo-sia.github.io/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAPO-blue)
+- **FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models**  
+  *Mingyang Song, Mao Zheng, Zheng Li, Wenjie Yang, Xuan Luo, Yue Pan, Feng Zhang*. [[pdf](https://arxiv.org/pdf/2503.17287)], [[code](https://github.com/nick7nlp/FastCuRL)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastCuRL-blue)
 
 ### Latent Chain-of-Thought
 
@@ -201,9 +203,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
-  *Hanshi Sun, Momin Haider, Ruiqi Zhang, Huitao Yang, Jiahao Qiu, Ming Yin, Mengdi Wang, Peter Bartlett, Andrea Zanette*. [[pdf](https://openreview.net/pdf?id=348hfcprUs)], [[code](https://github.com/Zanette-Labs/SpeculativeRejection)], 2024.10. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Speculative_Rejection-blue)
+  *Hanshi Sun, Momin Haider, Ruiqi Zhang, Huitao Yang, Jiahao Qiu, Ming Yin, Mengdi Wang, Peter Bartlett, Andrea Zanette*. [[pdf](https://openreview.net/pdf?id=348hfcprUs)], [[code](https://github.com/Zanette-Labs/SpeculativeRejection)], 2024.10. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Speculative_Rejection-blue) ![](https://img.shields.io/badge/Best--of--N-green)
 - **Non-myopic Generation of Language Models for Reasoning and Planning**  
-  *Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong*. [[pdf](https://openreview.net/forum?id=OoNazl6T7D)], [[code](https://github.com/chang-github-00/LLM-Predictive-Decoding)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Predictive--Decoding-blue)
+  *Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong*. [[pdf](https://openreview.net/pdf?id=OoNazl6T7D)], [[code](https://github.com/chang-github-00/LLM-Predictive-Decoding)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Predictive--Decoding-blue)
 - **FastMCTS: A Simple Sampling Strategy for Data Synthesis**  
   *Peiji Li, Kai Lv, Yunfan Shao, Yichuan Ma, Linyang Li, Xiaoqing Zheng, Xipeng Qiu, Qipeng Guo*. [[pdf](https://www.arxiv.org/pdf/2502.11476)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastMCTS-blue)
 - **Dynamic Parallel Tree Search for Efficient LLM Reasoning**  
@@ -211,7 +213,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Don't Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls**  
   *Ante Wang, Linfeng Song, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu, Jinsong Su, Dong Yu*. [[pdf](https://arxiv.org/pdf/2502.11183)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FETCH-blue)
 - **Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**  
-  *Yiming Wang, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang*. [[pdf](https://arxiv.org/pdf/2503.01422)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ST--BoN-blue)
+  *Yiming Wang, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang*. [[pdf](https://arxiv.org/pdf/2503.01422)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ST--BoN-blue) ![](https://img.shields.io/badge/Best--of--N-green)
 - **Language Models can Self-Improve at State-Value Estimation for Better Search**  
   *Ethan Mendes, Alan Ritter*. [[pdf](https://arxiv.org/pdf/2503.02878)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--taught_Lookahead-blue)
 - **ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation**  
