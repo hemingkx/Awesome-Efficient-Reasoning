@@ -19,6 +19,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Other Work](#other-work)
   - [Benchmarks](#benchmarks)
   - [Analysis](#analysis)
+- [Blogs](#blog--project)
 - [Resources](#resources)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
@@ -271,6 +272,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yue Wang, Qiuzhi Liu, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, Linfeng Song, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu*. [[pdf](https://arxiv.org/pdf/2501.18585)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Under--thinking-green)
 - **The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer**  
   *Marthe Ballon, Andres Algaba, Vincent Ginis*. [[pdf](https://arxiv.org/pdf/2502.15631)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+
+## Blog & Project
+
+**Understanding R1-Zero-Like Training: A Critical Perspective.** Sea AI Lab. 2025.03. [[Paper](https://github.com/sail-sg/understand-r1-zero/blob/main/understand-r1-zero.pdf)] [[Code](https://github.com/sail-sg/understand-r1-zero)]
 
 ## Resources
 
