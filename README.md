@@ -250,6 +250,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Pranjal Aggarwal, Sean Welleck*. [[pdf](https://www.arxiv.org/pdf/2503.04697)], [[code](https://github.com/cmu-l3/l1)], [[homepage](https://cmu-l3.github.io/l1/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/L1-blue) ![](https://img.shields.io/badge/Length_Control-green)
 - **PENCIL: Long Thoughts with Short Memory**  
   *PENCIL: Long Thoughts with Short Memory*. [[pdf](https://arxiv.org/pdf/2503.14337)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PENCIL-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Reduction-green)
+- **OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs**  
+  *Jitai Hao, Yuke Zhu, Tian Wang, Jun Yu, Xin Xin, Bo Zheng, Zhaochun Ren, Sheng Guo*. [[pdf](https://openreview.net/forum?id=ulCAPXYXfa)], 2025.03. ![](https://img.shields.io/badge/ICLR2025-orange)
 
 ### Benchmarks
 
