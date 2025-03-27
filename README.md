@@ -17,6 +17,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Optimal Test-Time Scaling](#optimal-test-time-scaling)
   - [Efficient Sampling](#efficient-sampling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
+  - [Long-Context Reasoning Efficiency](#long-context-reasoning-efficiency)
   - [Other Work](#other-work)
   - [Benchmarks](#benchmarks)
   - [Analysis](#analysis)
@@ -257,6 +258,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**  
   *Zhi Zhou, Tan Yuhao, Zenan Li, Yuan Yao, Lan-Zhe Guo, Xiaoxing Ma, Yu-Feng Li*. [[pdf](https://arxiv.org/pdf/2502.00511)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RPC-blue)
 
+### Long-Context Reasoning Efficiency
+
+- **OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs**  
+  *Jitai Hao, Yuke Zhu, Tian Wang, Jun Yu, Xin Xin, Bo Zheng, Zhaochun Ren, Sheng Guo*. [[pdf](https://openreview.net/pdf?id=ulCAPXYXfa)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/OmniKV-blue)
+- **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models**  
+  *Yuchen Yan, Yongliang Shen, Yang Liu, Jin Jiang, Mengdi Zhang, Jian Shao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2503.06692)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/InftyThink-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Summarization-green)
+
 ### Other Work
 
 - **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**  
@@ -265,8 +273,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Shuowei Jin, Yongji Wu, Haizhong Zheng, Qingzhao Zhang, Matthew Lentz, Z. Morley Mao, Atul Prakash, Feng Qian, Danyang Zhuo*. [[pdf](https://arxiv.org/pdf/2402.12280)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
 - **Reward-Guided Speculative Decoding for Efficient LLM Reasoning**  
   *Baohao Liao, Yuhui Xu, Hanze Dong, Junnan Li, Christof Monz, Silvio Savarese, Doyen Sahoo, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2501.19324)], [[code](https://github.com/BaohaoLiao/RSD)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RSD-blue) ![](https://img.shields.io/badge/Speculative_Decoding-green)
-- **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models**  
-  *Yuchen Yan, Yongliang Shen, Yang Liu, Jin Jiang, Mengdi Zhang, Jian Shao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2503.06692)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/InftyThink-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Summarization-green)
 - **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**  
   *Pranjal Aggarwal, Sean Welleck*. [[pdf](https://www.arxiv.org/pdf/2503.04697)], [[code](https://github.com/cmu-l3/l1)], [[homepage](https://cmu-l3.github.io/l1/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/L1-blue) ![](https://img.shields.io/badge/Length_Control-green)
 - **PENCIL: Long Thoughts with Short Memory**  
@@ -304,13 +310,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ## Blog & Project
 
-**Optimizing LLM Test-Time Compute Involves Solving a Meta-RL Problem.** CMU, University of Toronto. 2025.01. [[Blog](https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/)]
+**Optimizing LLM Test-Time Compute Involves Solving a Meta-RL Problem.** CMU, University of Toronto. [[blog](https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/)], 2025.01.
 
-**Understanding R1-Zero-Like Training: A Critical Perspective.** Sea AI Lab. 2025.03. [[Paper](https://github.com/sail-sg/understand-r1-zero/blob/main/understand-r1-zero.pdf)] [[Code](https://github.com/sail-sg/understand-r1-zero)]
+**Understanding R1-Zero-Like Training: A Critical Perspective.** Sea AI Lab. [[paper](https://github.com/sail-sg/understand-r1-zero/blob/main/understand-r1-zero.pdf)], [[code](https://github.com/sail-sg/understand-r1-zero)], 2025.03.
 
 ## Talks
 
-**The Key Ingredients for Scaling Test-Time Compute.** [Aviral Kumar](https://aviralkumar2907.github.io/). Carnegie Mellon UNiversity. 2025.03. [[homepage](https://www.cs.cmu.edu/calendar/181689023)] [[Video](https://www.bilibili.com/video/BV1suAteHEXS)]
+**The Key Ingredients for Scaling Test-Time Compute.** [Aviral Kumar](https://aviralkumar2907.github.io/). Carnegie Mellon University. [[homepage](https://www.cs.cmu.edu/calendar/181689023)], [[video](https://www.bilibili.com/video/BV1suAteHEXS)], 2025.03.
 
 ## Resources
 
