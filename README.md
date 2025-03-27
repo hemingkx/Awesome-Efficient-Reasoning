@@ -14,12 +14,14 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Reasoning Shortcuts](#reasoning-shortcuts)
   - [Reasoning Step Decomposition](#reasoning-step-decomposition)
   - [Small Reasoning Models & CoT Distillation](#small-reasoning-models--cot-distillation)
+  - [Optimal Test-Time Scaling](#optimal-test-time-scaling)
   - [Efficient Sampling](#efficient-sampling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
   - [Other Work](#other-work)
   - [Benchmarks](#benchmarks)
   - [Analysis](#analysis)
 - [Blogs](#blog--project)
+- [Talks](#talks)
 - [Resources](#resources)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
@@ -53,6 +55,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Tiantian Fan, Gaohong Liu, Lingjun Liu, Xin Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Guangming Sheng, Yuxuan Tong, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Jinhua Zhu, Jiaze Chen, Jiangjie Chen, Chengyi Wang, Hongli Yu, Weinan Dai, Yuxuan Song, Xiangpeng Wei, Hao Zhou, Jingjing Liu, Wei-Ying Ma, Ya-Qin Zhang, Lin Yan, Mu Qiao, Yonghui Wu, Mingxuan Wang*. [[pdf](https://arxiv.org/pdf/2503.14476)], [[code](https://github.com/BytedTsinghua-SIA/DAPO)], [[homepage](https://dapo-sia.github.io/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAPO-blue)
 - **FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models**  
   *Mingyang Song, Mao Zheng, Zheng Li, Wenjie Yang, Xuan Luo, Yue Pan, Feng Zhang*. [[pdf](https://arxiv.org/pdf/2503.17287)], [[code](https://github.com/nick7nlp/FastCuRL)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastCuRL-blue)
+- **Understanding R1-Zero-Like Training: A Critical Perspective**  
+  *Zichen Liu, Changyu Chen, Wenjun Li, Penghui Qi, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[pdf](https://arxiv.org/pdf/2503.20783)], [[code](https://github.com/sail-sg/understand-r1-zero)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dr.GRPO-blue)
 
 ### Latent Chain-of-Thought
 
@@ -104,6 +108,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao*. [[pdf](https://arxiv.org/pdf/2502.12134)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SoftCoT-blue)
 - **Implicit Reasoning in Transformers is Reasoning through Shortcuts**  
   *Tianhe Lin, Jian Xie, Siyu Yuan, Deqing Yang*. [[pdf](https://arxiv.org/pdf/2503.07604)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Analysis-green)
+- **Reasoning to Learn from Latent Thoughts**  
+  *Yangjun Ruan, Neil Band, Chris J. Maddison, Tatsunori Hashimoto*. [[pdf](https://arxiv.org/pdf/2503.18866)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Chain-of-Thought Compression
 
@@ -129,6 +135,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Simon A. Aytes, Jinheon Baek, Sung Ju Hwang*. [[pdf](https://arxiv.org/pdf/2503.05179)], [[code](https://github.com/SimonAytes/SoT)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SoT-blue) ![](https://img.shields.io/badge/Prompt-green)
 - **Adaptive Group Policy Optimization: Towards Stable Training and Token-Efficient Reasoning**  
   *Chen Li, Nazhou Liu, Kai Yang*. [[pdf](https://arxiv.org/pdf/2503.15952)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AGPO-blue) ![](https://img.shields.io/badge/length--based_reward-green)
+- **Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**  
+  *Han Wu, Yuxuan Yao, Shuqi Liu, Zehua Liu, Xiaojin Fu, Xiongwei Han, Xing Li, Hui-Ling Zhen, Tao Zhong, Mingxuan Yuan*. [[pdf](https://arxiv.org/pdf/2503.20641)], [[code](https://github.com/hahahawu/Long-to-Short-via-Model-Merging)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Model_Merging-green)
 
 ### Balanced Chain-of-Thought
 
@@ -199,6 +207,19 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Gaurav Srivastava, Shuxiang Cao, Xuan Wang*. [[pdf](https://arxiv.org/pdf/2502.11569)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**  
   *Yijia Luo, Yulin Song, Xingyao Zhang, Jiaheng Liu, Weixun Wang, GengRu Chen, Wenbo Su, Bo Zheng*. [[pdf](https://arxiv.org/pdf/2503.16385)], [[code](https://github.com/elena-luo/SODE)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DLCoT-blue)
+- **SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**  
+  *Weihao Zeng, Yuzhen Huang, Qian Liu, Wei Liu, Keqing He, Zejun Ma, Junxian He*. [[pdf](https://arxiv.org/pdf/2503.18892)], [[code](https://github.com/hkust-nlp/simpleRL-reason)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SimpleRL--Zoo-blue) ![](https://img.shields.io/badge/Zero_RL_Training-green)
+
+### Optimal Test-Time Scaling
+
+- **Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning**  
+  *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar*. [[pdf](https://openreview.net/pdf?id=4FWAwZtd2n)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange)
+- **Inference Scaling Laws: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models**  
+  *Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang*. [[pdf](https://arxiv.org/pdf/2408.00724)], [[code](https://github.com/thu-wyz/inference_scaling)], [[homepage](https://thu-wyz.github.io/inference-scaling/)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Scaling Test-Time Compute Without Verification or RL is Suboptimal**  
+  *Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2502.12118)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**  
+  *Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2503.07572)], [[code](https://github.com/CMU-AIRe/MRT)], [[homepage](https://cohenqu.github.io/mrt.github.io/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MRT-blue)
 
 ### Efficient Sampling
 
@@ -250,6 +271,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Pranjal Aggarwal, Sean Welleck*. [[pdf](https://www.arxiv.org/pdf/2503.04697)], [[code](https://github.com/cmu-l3/l1)], [[homepage](https://cmu-l3.github.io/l1/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/L1-blue) ![](https://img.shields.io/badge/Length_Control-green)
 - **PENCIL: Long Thoughts with Short Memory**  
   *PENCIL: Long Thoughts with Short Memory*. [[pdf](https://arxiv.org/pdf/2503.14337)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PENCIL-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Reduction-green)
+- **Accelerate Parallelizable Reasoning via Parallel Decoding within One Sequence**  
+  *Yijiong Yu*. [[pdf](https://arxiv.org/pdf/2503.20533)], [[code](https://github.com/yuyijiong/parallel-decoding-in-one-sequence)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_Decoding-green)
 
 ### Benchmarks
 
@@ -274,10 +297,20 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yue Wang, Qiuzhi Liu, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, Linfeng Song, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu*. [[pdf](https://arxiv.org/pdf/2501.18585)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Under--thinking-green)
 - **The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer**  
   *Marthe Ballon, Andres Algaba, Vincent Ginis*. [[pdf](https://arxiv.org/pdf/2502.15631)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Long Is More Important Than Difficult for Training Reasoning Models**  
+  *Si Shen, Fei Huang, Zhixiao Zhao, Chang Liu, Tiansheng Zheng, Danhao Zhu*. [[pdf](https://arxiv.org/pdf/2503.18069)], [[code](https://huggingface.co/ZTss/LONG1k-32B)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Innate Reasoning is Not Enough: In-Context Learning Enhances Reasoning Large Language Models with Less Overthinking**  
+  *Yuyao Ge, Shenghua Liu, Yiwei Wang, Lingrui Mei, Lizhe Chen, Baolong Bi, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2503.19602)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 
 ## Blog & Project
 
+**Optimizing LLM Test-Time Compute Involves Solving a Meta-RL Problem.** CMU, University of Toronto. 2025.01. [[Blog](https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/)]
+
 **Understanding R1-Zero-Like Training: A Critical Perspective.** Sea AI Lab. 2025.03. [[Paper](https://github.com/sail-sg/understand-r1-zero/blob/main/understand-r1-zero.pdf)] [[Code](https://github.com/sail-sg/understand-r1-zero)]
+
+## Talks
+
+**The Key Ingredients for Scaling Test-Time Compute.** [Aviral Kumar](https://aviralkumar2907.github.io/). Carnegie Mellon UNiversity. 2025.03. [[homepage](https://www.cs.cmu.edu/calendar/181689023)] [[Video](https://www.bilibili.com/video/BV1suAteHEXS)]
 
 ## Resources
 
