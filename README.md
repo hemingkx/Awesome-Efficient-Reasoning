@@ -43,6 +43,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 - **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**  
   *Yang Sui, Yu-Neng Chuang, Guanchu Wang, Jiamu Zhang, Tianyi Zhang, Jiayi Yuan, Hongyi Liu, Andrew Wen, Shaochen (Henry) Zhong, Hanjie Chen, Xia Hu*. [[pdf](https://arxiv.org/pdf/2503.16419)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+- **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**  
+  *Xiaoye Qu, Yafu Li, Zhaochen Su, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng*. [[pdf](https://arxiv.org/pdf/2503.21614)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Training
 
@@ -323,6 +325,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 **Reading lists related to Efficient Reasoning**
 
 - [Eclipsess/Awesome-Efficient-Reasoning-LLMs](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
+- [XiaoYee/Awesome_Efficient_LRM_Reasoning](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 - [Blueyee/Efficient-CoT-LRMs](https://github.com/Blueyee/Efficient-CoT-LRMs)
 - [Hongcheng-Gao/Awesome-Long2short-on-LRMs](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs)
 - [EIT-NLP/Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT)
