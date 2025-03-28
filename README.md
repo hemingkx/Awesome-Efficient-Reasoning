@@ -60,6 +60,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Mingyang Song, Mao Zheng, Zheng Li, Wenjie Yang, Xuan Luo, Yue Pan, Feng Zhang*. [[pdf](https://arxiv.org/pdf/2503.17287)], [[code](https://github.com/nick7nlp/FastCuRL)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastCuRL-blue)
 - **Understanding R1-Zero-Like Training: A Critical Perspective**  
   *Zichen Liu, Changyu Chen, Wenjun Li, Penghui Qi, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[pdf](https://arxiv.org/pdf/2503.20783)], [[code](https://github.com/sail-sg/understand-r1-zero)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dr.GRPO-blue)
+- **Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**  
+  *Brian R. Bartoldson, Siddarth Venkatraman, James Diffenderfer, Moksh Jain, Tal Ben-Nun, Seanie Lee, Minsu Kim, Johan Obando-Ceron, Yoshua Bengio, Bhavya Kailkhura*. [[pdf](https://arxiv.org/pdf/2503.18929)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TBA-blue)
 
 ### Latent Chain-of-Thought
 
@@ -212,6 +214,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yijia Luo, Yulin Song, Xingyao Zhang, Jiaheng Liu, Weixun Wang, GengRu Chen, Wenbo Su, Bo Zheng*. [[pdf](https://arxiv.org/pdf/2503.16385)], [[code](https://github.com/elena-luo/SODE)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DLCoT-blue)
 - **SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**  
   *Weihao Zeng, Yuzhen Huang, Qian Liu, Wei Liu, Keqing He, Zejun Ma, Junxian He*. [[pdf](https://arxiv.org/pdf/2503.18892)], [[code](https://github.com/hkust-nlp/simpleRL-reason)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SimpleRL--Zoo-blue) ![](https://img.shields.io/badge/Zero_RL_Training-green)
+- **Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't**  
+  *Quy-Anh Dang, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2503.16219)], [[code](https://github.com/knoveleng/open-rs)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Optimal Test-Time Scaling
 
