@@ -225,6 +225,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang*. [[pdf](https://arxiv.org/pdf/2408.00724)], [[code](https://github.com/thu-wyz/inference_scaling)], [[homepage](https://thu-wyz.github.io/inference-scaling/)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal**  
   *Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2502.12118)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?**  
+  *Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, Yunhua Zhou, Xipeng Qiu*. [[pdf](https://arxiv.org/pdf/2502.12215)], [[code](https://github.com/ZhiYuanZeng/test-time-scaling-eval)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**  
   *Wenkai Yang, Shuming Ma, Yankai Lin, Furu Wei*. [[pdf](https://arxiv.org/pdf/2502.18080)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**  
