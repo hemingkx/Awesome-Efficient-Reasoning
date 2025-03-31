@@ -62,6 +62,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zichen Liu, Changyu Chen, Wenjun Li, Penghui Qi, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[pdf](https://arxiv.org/pdf/2503.20783)], [[code](https://github.com/sail-sg/understand-r1-zero)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dr.GRPO-blue)
 - **Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**  
   *Brian R. Bartoldson, Siddarth Venkatraman, James Diffenderfer, Moksh Jain, Tal Ben-Nun, Seanie Lee, Minsu Kim, Johan Obando-Ceron, Yoshua Bengio, Bhavya Kailkhura*. [[pdf](https://arxiv.org/pdf/2503.18929)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TBA-blue)
+- **CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models**  
+  *Zhihang Lin, Mingbao Lin, Yuan Xie, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2503.22342)], [[code](https://github.com/lzhxmu/CPPO)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CPPO-blue)
 
 ### Latent Chain-of-Thought
 
@@ -115,6 +117,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Tianhe Lin, Jian Xie, Siyu Yuan, Deqing Yang*. [[pdf](https://arxiv.org/pdf/2503.07604)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Analysis-green)
 - **Reasoning to Learn from Latent Thoughts**  
   *Yangjun Ruan, Neil Band, Chris J. Maddison, Tatsunori Hashimoto*. [[pdf](https://arxiv.org/pdf/2503.18866)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**  
+  *Jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Wu Jian, Yuning Jiang*. [[pdf](https://arxiv.org/pdf/2503.22675)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ReaRec-blue) ![](https://img.shields.io/badge/Sequential_Recommendation-green)
 
 ### Chain-of-Thought Compression
 
