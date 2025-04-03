@@ -42,9 +42,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 ### Survey
 
 - **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**  
-  *Yang Sui, Yu-Neng Chuang, Guanchu Wang, Jiamu Zhang, Tianyi Zhang, Jiayi Yuan, Hongyi Liu, Andrew Wen, Shaochen (Henry) Zhong, Hanjie Chen, Xia Hu*. [[pdf](https://arxiv.org/pdf/2503.16419)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Yang Sui, Yu-Neng Chuang, Guanchu Wang, Jiamu Zhang, Tianyi Zhang, Jiayi Yuan, Hongyi Liu, Andrew Wen, Shaochen (Henry) Zhong, Hanjie Chen, Xia Hu*. [[pdf](https://arxiv.org/pdf/2503.16419)], [[paper list](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**  
-  *Xiaoye Qu, Yafu Li, Zhaochen Su, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng*. [[pdf](https://arxiv.org/pdf/2503.21614)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Xiaoye Qu, Yafu Li, Zhaochen Su, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng*. [[pdf](https://arxiv.org/pdf/2503.21614)], [[paper list](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Efficient Inference for Large Reasoning Models: A Survey**  
+  *Yue Liu, Jiaying Wu, Yufei He, Hongcheng Gao, Hongyu Chen, Baolong Bi, Jiaheng Zhang, Zhiqi Huang, Bryan Hooi*. [[pdf](https://arxiv.org/pdf/2503.23077)], [[paper list](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**  
+  *Rui Wang, Hongru Wang, Boyang Xue, Jianhui Pang, Shudong Liu, Yi Chen, Jiahao Qiu, Derek Fai Wong, Heng Ji, Kam-Fai Wong*. [[pdf](https://arxiv.org/pdf/2503.24377)], [[paper list](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Training
 
@@ -220,6 +224,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Weihao Zeng, Yuzhen Huang, Qian Liu, Wei Liu, Keqing He, Zejun Ma, Junxian He*. [[pdf](https://arxiv.org/pdf/2503.18892)], [[code](https://github.com/hkust-nlp/simpleRL-reason)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SimpleRL--Zoo-blue) ![](https://img.shields.io/badge/Zero_RL_Training-green)
 - **Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't**  
   *Quy-Anh Dang, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2503.16219)], [[code](https://github.com/knoveleng/open-rs)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+- **TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**  
+  *Jingxian Xu, Mengyu Zhou, Weichang Liu, Hanbing Liu, Shi Han, Dongmei Zhang*. [[pdf](https://arxiv.org/pdf/2503.24198)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TwT-blue)
 
 ### Optimal Test-Time Scaling
 
@@ -235,6 +241,14 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wenkai Yang, Shuming Ma, Yankai Lin, Furu Wei*. [[pdf](https://arxiv.org/pdf/2502.18080)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**  
   *Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2503.07572)], [[code](https://github.com/CMU-AIRe/MRT)], [[homepage](https://cohenqu.github.io/mrt.github.io/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MRT-blue)
+- **Is Best-of-N the Best of Them? Coverage, Scaling, and Optimality in Inference-Time Alignment**  
+  *Audrey Huang, Adam Block, Qinghua Liu, Nan Jiang, Dylan J. Foster, Akshay Krishnamurthy*. [[pdf](https://arxiv.org/pdf/2503.21878)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/InferenceTimePessimism-blue)
+- **What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**  
+  *Qiyuan Zhang, Fuyuan Lyu, Zexu Sun, Lei Wang, Weixu Zhang, Zhihan Guo, Yufei Wang, Irwin King, Xue Liu, Chen Ma*. [[pdf](https://arxiv.org/pdf/2503.24235)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Survey-green)
+- **When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning**  
+  *Nishad Singhi, Hritik Bansal, Arian Hosseini, Aditya Grover, Kai-Wei Chang, Marcus Rohrbach, Anna Rohrbach*. [[pdf](https://arxiv.org/pdf/2504.01005)], [[code](https://github.com/nishadsinghi/sc-genrm-scaling)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Z1: Efficient Test-time Scaling with Code**  
+  *Zhaojian Yu, Yinghao Wu, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang*. [[pdf](https://arxiv.org/pdf/2504.00810)], [[code](https://github.com/efficientscaling/Z1)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Z1-blue) 
 
 ### Efficient Sampling
 
@@ -338,6 +352,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - [XiaoYee/Awesome_Efficient_LRM_Reasoning](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 - [Blueyee/Efficient-CoT-LRMs](https://github.com/Blueyee/Efficient-CoT-LRMs)
 - [yueliu1999/Awesome-Efficient-Inference-for-LRMs](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)
+- [DevoAllen/Awesome-Reasoning-Economy-Papers](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)
 - [Hongcheng-Gao/Awesome-Long2short-on-LRMs](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs)
 - [EIT-NLP/Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 - [yzhangchuck/awesome-llm-reasoning-long2short-papers](https://github.com/yzhangchuck/awesome-llm-reasoning-long2short-papers)
