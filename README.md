@@ -68,6 +68,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Brian R. Bartoldson, Siddarth Venkatraman, James Diffenderfer, Moksh Jain, Tal Ben-Nun, Seanie Lee, Minsu Kim, Johan Obando-Ceron, Yoshua Bengio, Bhavya Kailkhura*. [[pdf](https://arxiv.org/pdf/2503.18929)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TBA-blue)
 - **CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models**  
   *Zhihang Lin, Mingbao Lin, Yuan Xie, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2503.22342)], [[code](https://github.com/lzhxmu/CPPO)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CPPO-blue)
+- **Efficient Reinforcement Finetuning via Adaptive Curriculum Learning**  
+  *Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao*. [[pdf](https://arxiv.org/pdf/2504.05520)], [[code](https://github.com/uscnlp-lime/verl)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ADARFT-blue)
+- **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks**  
+  *Yu Yue, Yufeng Yuan, Qiying Yu, Xiaochen Zuo, Ruofei Zhu, Wenyuan Xu, Jiaze Chen, Chengyi Wang, TianTian Fan, Zhengyin Du, Xiangpeng Wei, Xiangyu Yu, Gaohong Liu, Juncai Liu, Lingjun Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Ru Zhang, Xin Liu, Mingxuan Wang, Yonghui Wu, Lin Yan*. [[pdf](https://arxiv.org/pdf/2504.05118)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAPO-blue)
 
 ### Latent Chain-of-Thought
 
@@ -150,6 +154,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chen Li, Nazhou Liu, Kai Yang*. [[pdf](https://arxiv.org/pdf/2503.15952)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AGPO-blue) ![](https://img.shields.io/badge/length--based_reward-green)
 - **Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**  
   *Han Wu, Yuxuan Yao, Shuqi Liu, Zehua Liu, Xiaojin Fu, Xiongwei Han, Xing Li, Hui-Ling Zhen, Tao Zhong, Mingxuan Yuan*. [[pdf](https://arxiv.org/pdf/2503.20641)], [[code](https://github.com/hahahawu/Long-to-Short-via-Model-Merging)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Model_Merging-green)
+- **Hawkeye: Efficient Reasoning with Model Collaboration**  
+  *Jianshu She, Zhuohao Li, Zhemin Huang, Qi Li, Peiran Xu, Haonan Li, Qirong Ho*. [[pdf](https://arxiv.org/pdf/2504.00424)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Hawkeye-blue)
+- **Think When You Need: Self-Adaptive Chain-of-Thought Learning**  
+  *Junjie Yang, Ke Lin, Xing Yu*. [[pdf](https://arxiv.org/pdf/2504.03234)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
+- **ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning**  
+  *Bairu Hou, Yang Zhang, Jiabao Ji, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang*. [[pdf](https://arxiv.org/pdf/2504.01296)], [[code](https://github.com/UCSB-NLP-Chang/ThinkPrune)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkPrune-blue) 
 
 ### Balanced Chain-of-Thought
 
@@ -226,6 +236,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Quy-Anh Dang, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2503.16219)], [[code](https://github.com/knoveleng/open-rs)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**  
   *Jingxian Xu, Mengyu Zhou, Weichang Liu, Hanbing Liu, Shi Han, Dongmei Zhang*. [[pdf](https://arxiv.org/pdf/2503.24198)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TwT-blue)
+- **When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks**  
+  *Nan Zhang, Yusen Zhang, Prasenjit Mitra, Rui Zhang*. [[pdf](https://arxiv.org/pdf/2504.02010)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Optimal Test-Time Scaling
 
@@ -333,6 +345,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Si Shen, Fei Huang, Zhixiao Zhao, Chang Liu, Tiansheng Zheng, Danhao Zhu*. [[pdf](https://arxiv.org/pdf/2503.18069)], [[code](https://huggingface.co/ZTss/LONG1k-32B)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Innate Reasoning is Not Enough: In-Context Learning Enhances Reasoning Large Language Models with Less Overthinking**  
   *Yuyao Ge, Shenghua Liu, Yiwei Wang, Lingrui Mei, Lizhe Chen, Baolong Bi, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2503.19602)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
+- **Reasoning Models Know When They're Right: Probing Hidden States for Self-Verification**  
+  *Anqi Zhang, Yulin Chen, Jane Pan, Chen Zhao, Aurojit Panda, Jinyang Li, He He*. [[pdf](https://arxiv.org/pdf/2504.05419)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
+- **Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?**  
+  *Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2504.06514)], [[code](https://github.com/tianyi-lab/MiP-Overthinking)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 
 ## Blog & Project
 
