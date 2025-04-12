@@ -71,7 +71,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Efficient Reinforcement Finetuning via Adaptive Curriculum Learning**  
   *Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao*. [[pdf](https://arxiv.org/pdf/2504.05520)], [[code](https://github.com/uscnlp-lime/verl)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ADARFT-blue)
 - **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks**  
-  *Yu Yue, Yufeng Yuan, Qiying Yu, Xiaochen Zuo, Ruofei Zhu, Wenyuan Xu, Jiaze Chen, Chengyi Wang, TianTian Fan, Zhengyin Du, Xiangpeng Wei, Xiangyu Yu, Gaohong Liu, Juncai Liu, Lingjun Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Ru Zhang, Xin Liu, Mingxuan Wang, Yonghui Wu, Lin Yan*. [[pdf](https://arxiv.org/pdf/2504.05118)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAPO-blue)
+  *Yu Yue, Yufeng Yuan, Qiying Yu, Xiaochen Zuo, Ruofei Zhu, Wenyuan Xu, Jiaze Chen, Chengyi Wang, TianTian Fan, Zhengyin Du, Xiangpeng Wei, Xiangyu Yu, Gaohong Liu, Juncai Liu, Lingjun Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Ru Zhang, Xin Liu, Mingxuan Wang, Yonghui Wu, Lin Yan*. [[pdf](https://arxiv.org/pdf/2504.05118)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VAPO-blue)
 
 ### Latent Chain-of-Thought
 
