@@ -250,6 +250,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yujin Kim, Euiin Yi, Minu Kim, Se-Young Yun, Taehyeon Kim*. [[pdf](https://arxiv.org/pdf/2504.09923)], [[code](https://github.com/kimyuji/ScaffoldedReasoning)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SMART-blue)
 - **A Short Survey on Small Reasoning Models: Training, Inference, Applications and Research Directions**  
   *Chengyu Wang, Taolin Zhang, Richang Hong, Jun Huang*. [[pdf](https://arxiv.org/pdf/2504.09100)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Survey-green)
+- **Tina: Tiny Reasoning Models via LoRA**  
+  *Shangshang Wang, Julian Asilis, Ömer Faruk Akgül, Enes Burak Bilgin, Ollie Liu, Willie Neiswanger*. [[pdf](https://arxiv.org/pdf/2504.15777)], [[code](https://github.com/shangshang-wang/Tina)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Tina-blue)
 
 ### Optimal Test-Time Scaling
 
@@ -339,6 +341,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Rui Pan, Yinwei Dai, Zhihao Zhang, Gabriele Oliaro, Zhihao Jia, Ravi Netravali*. [[pdf](https://arxiv.org/pdf/2504.07891)], [[code](https://github.com/ruipeterpan/specreason)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecReason-blue) ![](https://img.shields.io/badge/Speculative_Decoding-green)
 - **Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time**  
   *Wang Yang, Xiang Yue, Vipin Chaudhary, Xiaotian Han*. [[pdf](https://arxiv.org/pdf/2504.12329)], [[code](https://github.com/uservan/speculative_thinking)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Speculative_Thinking-blue) ![](https://img.shields.io/badge/Speculative_Decoding-green)
+- **Dynamic Early Exit in Reasoning Models**  
+  *Chenxu Yang, Qingyi Si, Yongjie Duan, Zheliang Zhu, Chenyu Zhu, Zheng Lin, Li Cao, Weiping Wang*. [[pdf](https://arxiv.org/pdf/2504.15895)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DEER-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 
 ### Benchmarks
 
