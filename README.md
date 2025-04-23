@@ -129,6 +129,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yangjun Ruan, Neil Band, Chris J. Maddison, Tatsunori Hashimoto*. [[pdf](https://arxiv.org/pdf/2503.18866)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**  
   *Jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Wu Jian, Yuning Jiang*. [[pdf](https://arxiv.org/pdf/2503.22675)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ReaRec-blue) ![](https://img.shields.io/badge/Sequential_Recommendation-green)
+- **Efficient Pretraining Length Scaling**  
+  *Bohong Wu, Shen Yan, Sijun Zhang, Jianqiao Lu, Yutao Zeng, Ya Wang, Xun Zhou*. [[pdf](https://arxiv.org/pdf/2504.14992)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PHD--Transformer-blue)
 
 ### Chain-of-Thought Compression
 
@@ -163,7 +165,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning**  
   *Bairu Hou, Yang Zhang, Jiabao Ji, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang*. [[pdf](https://arxiv.org/pdf/2504.01296)], [[code](https://github.com/UCSB-NLP-Chang/ThinkPrune)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkPrune-blue)
 - **Reasoning Models Can Be Effective Without Thinking**  
-  *Wenjie Ma, Jingxuan He, Charlie Snell, Tyler Griggs, Sewon Min, Matei Zaharia*. [[pdf](https://arxiv.org/pdf/2504.09858)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/NoThinking-blue) ![](https://img.shields.io/badge/Prompt-green) 
+  *Wenjie Ma, Jingxuan He, Charlie Snell, Tyler Griggs, Sewon Min, Matei Zaharia*. [[pdf](https://arxiv.org/pdf/2504.09858)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/NoThinking-blue) ![](https://img.shields.io/badge/Prompt-green)
+- **Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models**  
+  *Yule Liu, Jingyi Zheng, Zhen Sun, Zifan Peng, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He*. [[pdf](https://arxiv.org/pdf/2504.13626)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Thought_Manipulation-blue) ![](https://img.shields.io/badge/CoT_from_small_LRMs-green) 
 
 ### Balanced Chain-of-Thought
 
@@ -268,7 +272,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning**  
   *Nishad Singhi, Hritik Bansal, Arian Hosseini, Aditya Grover, Kai-Wei Chang, Marcus Rohrbach, Anna Rohrbach*. [[pdf](https://arxiv.org/pdf/2504.01005)], [[code](https://github.com/nishadsinghi/sc-genrm-scaling)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Z1: Efficient Test-time Scaling with Code**  
-  *Zhaojian Yu, Yinghao Wu, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang*. [[pdf](https://arxiv.org/pdf/2504.00810)], [[code](https://github.com/efficientscaling/Z1)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Z1-blue) 
+  *Zhaojian Yu, Yinghao Wu, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang*. [[pdf](https://arxiv.org/pdf/2504.00810)], [[code](https://github.com/efficientscaling/Z1)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Z1-blue)
+- **Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods**  
+  *Junlin Wang, Shang Zhu, Jon Saad-Falcon, Ben Athiwaratkun, Qingyang Wu, Jue Wang, Shuaiwen Leon Song, Ce Zhang, Bhuwan Dhingra, James Zou*. [[pdf](https://arxiv.org/pdf/2504.14047)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Efficient Sampling
 
@@ -340,6 +346,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Masoud Hashemi, Oluwanifemi Bamgbose, Sathwik Tejaswi Madhusudhan, Jishnu Sethumadhavan Nair, Aman Tiwari, Vikas Yadav*. [[pdf](https://arxiv.org/pdf/2503.15793)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DNA_Bench-blue) ![](https://img.shields.io/badge/Over--thinking-green)
 - **S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models**  
   *Wenyuan Zhang, Shuaiyi Nie, Xinghua Zhang, Zefeng Zhang, Tingwen Liu*. [[pdf](https://arxiv.org/pdf/2504.10368)], [[code](https://github.com/WYRipple/S1_Bench)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S1--Bench-blue) ![](https://img.shields.io/badge/Over--thinking-green)
+- **THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models**  
+  *Xiao Pu, Michael Saxon, Wenyue Hua, William Yang Wang*. [[pdf](https://arxiv.org/pdf/2504.13367)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/THOUGHTTERMINATOR-blue) ![](https://img.shields.io/badge/Over--thinking-green)
 
 ### Analysis
 
@@ -365,6 +373,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Anqi Zhang, Yulin Chen, Jane Pan, Chen Zhao, Aurojit Panda, Jinyang Li, He He*. [[pdf](https://arxiv.org/pdf/2504.05419)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?**  
   *Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2504.06514)], [[code](https://github.com/tianyi-lab/MiP-Overthinking)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
+- **Time's Up! An Empirical Study of LLM Reasoning Ability Under Output Length Constraint**  
+  *Yi Sun, Han Wang, Jiaqiang Li, Jiacheng Liu, Xiangyu Li, Hao Wen, Huiwen Zheng, Yan Liang, Yuanchun Li, Yunxin Liu*. [[pdf](https://arxiv.org/pdf/2504.14350)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Budget-green)
 
 ## Blog & Project
 
