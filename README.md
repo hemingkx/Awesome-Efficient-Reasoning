@@ -14,6 +14,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Reasoning Shortcuts](#reasoning-shortcuts)
   - [Reasoning Step Decomposition](#reasoning-step-decomposition)
   - [Small Reasoning Models & CoT Distillation](#small-reasoning-models--cot-distillation)
+  - [Small & Large Reasoning Model Collaboration](#small--large-reasoning-model-collaboration)
   - [Optimal Test-Time Scaling](#optimal-test-time-scaling)
   - [Efficient Sampling](#efficient-sampling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
@@ -158,16 +159,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chen Li, Nazhou Liu, Kai Yang*. [[pdf](https://arxiv.org/pdf/2503.15952)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AGPO-blue) ![](https://img.shields.io/badge/length--based_reward-green)
 - **Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**  
   *Han Wu, Yuxuan Yao, Shuqi Liu, Zehua Liu, Xiaojin Fu, Xiongwei Han, Xing Li, Hui-Ling Zhen, Tao Zhong, Mingxuan Yuan*. [[pdf](https://arxiv.org/pdf/2503.20641)], [[code](https://github.com/hahahawu/Long-to-Short-via-Model-Merging)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Model_Merging-green)
-- **Hawkeye: Efficient Reasoning with Model Collaboration**  
-  *Jianshu She, Zhuohao Li, Zhemin Huang, Qi Li, Peiran Xu, Haonan Li, Qirong Ho*. [[pdf](https://arxiv.org/pdf/2504.00424)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Hawkeye-blue)
 - **Think When You Need: Self-Adaptive Chain-of-Thought Learning**  
   *Junjie Yang, Ke Lin, Xing Yu*. [[pdf](https://arxiv.org/pdf/2504.03234)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning**  
   *Bairu Hou, Yang Zhang, Jiabao Ji, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang*. [[pdf](https://arxiv.org/pdf/2504.01296)], [[code](https://github.com/UCSB-NLP-Chang/ThinkPrune)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkPrune-blue)
 - **Reasoning Models Can Be Effective Without Thinking**  
-  *Wenjie Ma, Jingxuan He, Charlie Snell, Tyler Griggs, Sewon Min, Matei Zaharia*. [[pdf](https://arxiv.org/pdf/2504.09858)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/NoThinking-blue) ![](https://img.shields.io/badge/Prompt-green)
-- **Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models**  
-  *Yule Liu, Jingyi Zheng, Zhen Sun, Zifan Peng, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He*. [[pdf](https://arxiv.org/pdf/2504.13626)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Thought_Manipulation-blue) ![](https://img.shields.io/badge/CoT_from_small_LRMs-green) 
+  *Wenjie Ma, Jingxuan He, Charlie Snell, Tyler Griggs, Sewon Min, Matei Zaharia*. [[pdf](https://arxiv.org/pdf/2504.09858)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/NoThinking-blue) ![](https://img.shields.io/badge/Prompt-green) 
 
 ### Balanced Chain-of-Thought
 
@@ -246,12 +243,21 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jingxian Xu, Mengyu Zhou, Weichang Liu, Hanbing Liu, Shi Han, Dongmei Zhang*. [[pdf](https://arxiv.org/pdf/2503.24198)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TwT-blue)
 - **When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks**  
   *Nan Zhang, Yusen Zhang, Prasenjit Mitra, Rui Zhang*. [[pdf](https://arxiv.org/pdf/2504.02010)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Guiding Reasoning in Small Language Models with LLM Assistance**  
-  *Yujin Kim, Euiin Yi, Minu Kim, Se-Young Yun, Taehyeon Kim*. [[pdf](https://arxiv.org/pdf/2504.09923)], [[code](https://github.com/kimyuji/ScaffoldedReasoning)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SMART-blue)
 - **A Short Survey on Small Reasoning Models: Training, Inference, Applications and Research Directions**  
   *Chengyu Wang, Taolin Zhang, Richang Hong, Jun Huang*. [[pdf](https://arxiv.org/pdf/2504.09100)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Survey-green)
 - **Tina: Tiny Reasoning Models via LoRA**  
   *Shangshang Wang, Julian Asilis, Ömer Faruk Akgül, Enes Burak Bilgin, Ollie Liu, Willie Neiswanger*. [[pdf](https://arxiv.org/pdf/2504.15777)], [[code](https://github.com/shangshang-wang/Tina)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Tina-blue)
+
+### Small & Large Reasoning Model Collaboration
+
+- **Hawkeye: Efficient Reasoning with Model Collaboration**  
+  *Jianshu She, Zhuohao Li, Zhemin Huang, Qi Li, Peiran Xu, Haonan Li, Qirong Ho*. [[pdf](https://arxiv.org/pdf/2504.00424)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Hawkeye-blue)
+- **Guiding Reasoning in Small Language Models with LLM Assistance**  
+  *Yujin Kim, Euiin Yi, Minu Kim, Se-Young Yun, Taehyeon Kim*. [[pdf](https://arxiv.org/pdf/2504.09923)], [[code](https://github.com/kimyuji/ScaffoldedReasoning)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SMART-blue)
+- **Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models**  
+  *Yule Liu, Jingyi Zheng, Zhen Sun, Zifan Peng, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He*. [[pdf](https://arxiv.org/pdf/2504.13626)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Thought_Manipulation-blue) ![](https://img.shields.io/badge/CoTs_from_SRMs-green)
+- **SplitReason: Learning To Offload Reasoning**  
+  *Yash Akhauri, Anthony Fei, Chi-Chih Chang, Ahmed F. AbouElhamayed, Yueying Li, Mohamed S. Abdelfattah*. [[pdf](https://arxiv.org/pdf/2504.16379)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SplitReason-blue) ![](https://img.shields.io/badge/offloading_challenging_CoT_parts_to_LRMs-green)
 
 ### Optimal Test-Time Scaling
 
