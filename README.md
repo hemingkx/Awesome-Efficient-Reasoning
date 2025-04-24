@@ -343,6 +343,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wang Yang, Xiang Yue, Vipin Chaudhary, Xiaotian Han*. [[pdf](https://arxiv.org/pdf/2504.12329)], [[code](https://github.com/uservan/speculative_thinking)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Speculative_Thinking-blue) ![](https://img.shields.io/badge/Speculative_Decoding-green)
 - **Dynamic Early Exit in Reasoning Models**  
   *Chenxu Yang, Qingyi Si, Yongjie Duan, Zheliang Zhu, Chenyu Zhu, Zheng Lin, Li Cao, Weiping Wang*. [[pdf](https://arxiv.org/pdf/2504.15895)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DEER-blue) ![](https://img.shields.io/badge/Early_Exit-green)
+- **Learning Adaptive Parallel Reasoning with Language Models**  
+  *Jiayi Pan, Xiuyu Li, Long Lian, Charlie Snell, Yifei Zhou, Adam Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr*. [[pdf](https://arxiv.org/pdf/2504.15466)], [[code](https://github.com/Parallel-Reasoning/APR)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/APR-blue) ![](https://img.shields.io/badge/Parallel_Computation-green)
 
 ### Benchmarks
 
