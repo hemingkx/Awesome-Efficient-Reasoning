@@ -138,13 +138,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**  
   *Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang*. [[pdf](https://arxiv.org/pdf/2305.10276)], [[code](https://github.com/hanxuhu/chain-of-symbol-planning)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models**  
-  *Matthew Renze, Erhan Guven*. [[pdf](https://arxiv.org/pdf/2401.05618)], [[code](https://github.com/matthewrenze/jhu-concise-cot)], 2024.12. ![](https://img.shields.io/badge/FLLM2024-orange) ![](https://img.shields.io/badge/CCoT-blue)
+  *Matthew Renze, Erhan Guven*. [[pdf](https://arxiv.org/pdf/2401.05618)], [[code](https://github.com/matthewrenze/jhu-concise-cot)], 2024.01. ![](https://img.shields.io/badge/FLLM2024-orange) ![](https://img.shields.io/badge/CCoT-blue)
 - **C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness**  
   *Yu Kang, Xianghui Sun, Liangyu Chen, Wei Zou*. [[pdf](https://arxiv.org/pdf/2412.11664)], 2024.12. ![](https://img.shields.io/badge/AAAI2025-orange) ![](https://img.shields.io/badge/C3oT-blue)
 - **Token-Budget-Aware LLM Reasoning**  
   *Tingxu Han, Zhenting Wang, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen*. [[pdf](https://arxiv.org/pdf/2412.18547)], [[code](https://github.com/GeniusHTX/TALE)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TALE-blue) ![](https://img.shields.io/badge/Prompt-green)
 - **CoT-Valve: Length-Compressible Chain-of-Thought Tuning**  
-  *Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2502.09601)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoT--Valve-blue)
+  *Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2502.09601)], [[code](https://github.com/horseee/CoT-Valve)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoT--Valve-blue)
 - **TokenSkip: Controllable Chain-of-Thought Compression in LLMs**  
   *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2502.12067)], [[code](https://github.com/hemingkx/TokenSkip)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TokenSkip-blue) ![](https://img.shields.io/badge/Controllable_Compression-green)
 - **Self-Training Elicits Concise Reasoning in Large Language Models**  
