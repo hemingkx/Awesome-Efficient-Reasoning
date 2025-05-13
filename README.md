@@ -172,6 +172,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jingyang Yi, Jiazheng Wang*. [[pdf](https://arxiv.org/pdf/2504.21370)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ShorterBetter-blue) ![](https://img.shields.io/badge/Group--Relative_Length_Reward-green)
 - **AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization**  
   *Haotian Luo, Haiying He, Yibo Wang, Jinluan Yang, Rui Liu, Naiqiang Tan, Xiaochun Cao, Dacheng Tao, Li Shen*. [[pdf](https://arxiv.org/pdf/2504.21659)], [[code](https://github.com/StarDewXXX/AdaR1)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaR1-blue)
+- **Concise Reasoning via Reinforcement Learning**  
+  *Mehdi Fatemi, Banafsheh Rafiee, Mingjie Tang, Kartik Talamadupula*. [[pdf](https://arxiv.org/pdf/2504.05185)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models**  
   *Bin Yu, Hang Yuan, Yuliang Wei, Bailing Wang, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.03469)], [[code](https://github.com/ZGCA-AI4Edu/LS-Mixture)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LS--Mixture_SFT-blue)
 - **ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning**  
