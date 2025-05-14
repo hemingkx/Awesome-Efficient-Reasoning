@@ -180,6 +180,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Ziqing Qiao, Yongheng Deng, Jiali Zeng, Dong Wang, Lai Wei, Fandong Meng, Jie Zhou, Ju Ren, Yaoxue Zhang*. [[pdf](https://arxiv.org/pdf/2505.04881)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ConCISE-blue)
 - **Scalable Chain of Thoughts via Elastic Reasoning**  
   *Yuhui Xu, Hanze Dong, Lei Wang, Doyen Sahoo, Junnan Li, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2505.05315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Elastic_Reasoning-blue) ![](https://img.shields.io/badge/Length_Control-green)
+- **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**  
+  *Muzhi Dai, Chenxu Yang, Qingyi Si*. [[pdf](https://arxiv.org/pdf/2505.07686)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S--GRPO-blue) ![](https://img.shields.io/badge/Early_Exit-green)
+- **Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement**  
+  *Xuechen Zhang, Zijian Huang, Chenchun Ni, Ziyang Xiong, Jiasi Chen, Samet Oymak*. [[pdf](https://arxiv.org/pdf/2505.07961)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
+- **Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**  
+  *Ren Zhuang, Ben Wang, Shuifa Sun*. [[pdf](https://arxiv.org/pdf/2505.08392)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Skipping-green)
 
 ### Balanced Chain-of-Thought
 
