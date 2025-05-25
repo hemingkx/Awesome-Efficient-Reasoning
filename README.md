@@ -203,6 +203,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Guochao Jiang, Guofeng Quan, Zepeng Ding, Ziqin Luo, Dixuan Wang, Zheng Hu*. [[pdf](https://arxiv.org/pdf/2505.13949)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FlashThink-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Optimizing Anytime Reasoning via Budget Relative Policy Optimization**  
   *Penghui Qi, Zichen Liu, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[pdf](https://arxiv.org/pdf/2505.13438)], [[code](https://github.com/sail-sg/AnytimeReasoner)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/BRPO-blue) ![](https://img.shields.io/badge/Early_Exit-green)
+- **Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning**  
+  *Jiwon Song, Dongwon Jo, Yulhwa Kim, Jae-Joon Kim*. [[pdf](https://arxiv.org/pdf/2505.13866)], [[code](https://github.com/jiwonsong-dev/ReasoningPathCompression)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/KV_Cache_Pruning-green)
 
 ### Balanced Chain-of-Thought
 
