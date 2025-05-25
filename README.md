@@ -238,19 +238,19 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 ### Adaptive Thinking
 
 - **Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL**  
-  *Songjun Tu, Jiahao Lin, Qichao Zhang, Xiangyu Tian, Linjing Li, Xiangyuan Lan, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2505.10832)], [[code](https://github.com/TU2021/AutoThink)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Songjun Tu, Jiahao Lin, Qichao Zhang, Xiangyu Tian, Linjing Li, Xiangyuan Lan, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2505.10832)], [[code](https://github.com/TU2021/AutoThink)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **AdaptThink: Reasoning Models Can Learn When to Think**  
-  *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*. [[pdf](https://arxiv.org/pdf/2505.13417)], [[code](https://github.com/THU-KEG/AdaptThink)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaptThink-blue)
+  *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*. [[pdf](https://arxiv.org/pdf/2505.13417)], [[code](https://github.com/THU-KEG/AdaptThink)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaptThink-blue)
 - **Thinkless: LLM Learns When to Think**  
-  *Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.13379)], [[code](https://github.com/VainF/Thinkless)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Thinkless-blue)
+  *Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.13379)], [[code](https://github.com/VainF/Thinkless)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Thinkless-blue)
 - **Think Only When You Need with Large Hybrid-Reasoning Models**  
-  *Lingjie Jiang, Xun Wu, Shaohan Huang, Qingxiu Dong, Zewen Chi, Li Dong, Xingxing Zhang, Tengchao Lv, Lei Cui, Furu Wei*. [[pdf](https://arxiv.org/pdf/2505.14631)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Lingjie Jiang, Xun Wu, Shaohan Huang, Qingxiu Dong, Zewen Chi, Li Dong, Xingxing Zhang, Tengchao Lv, Lei Cui, Furu Wei*. [[pdf](https://arxiv.org/pdf/2505.14631)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ThinkSwitcher: When to Think Hard, When to Think Fast**  
-  *Guosheng Liang, Longguang Zhong, Ziyi Yang, Xiaojun Quan*. [[pdf](https://arxiv.org/pdf/2505.14183)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkSwitcher-blue)
+  *Guosheng Liang, Longguang Zhong, Ziyi Yang, Xiaojun Quan*. [[pdf](https://arxiv.org/pdf/2505.14183)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkSwitcher-blue)
 - **Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**  
-  *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang*. [[pdf](https://arxiv.org/pdf/2505.15154)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CAR-blue)
+  *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang*. [[pdf](https://arxiv.org/pdf/2505.15154)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CAR-blue)
 - **When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning**  
-  *Xiaoyun Zhang, Jingqing Ruan, Xing Ma, Yawen Zhu, Haodong Zhao, Hao Li, Jiansong Chen, Ke Zeng, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2505.15400)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASRR-blue)
+  *Xiaoyun Zhang, Jingqing Ruan, Xing Ma, Yawen Zhu, Haodong Zhao, Hao Li, Jiansong Chen, Ke Zeng, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2505.15400)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASRR-blue)
 
 ### Reasoning Shortcuts
 
