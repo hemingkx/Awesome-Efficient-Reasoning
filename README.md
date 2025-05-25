@@ -217,6 +217,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wei Liu, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He*. [[pdf](https://arxiv.org/pdf/2505.15612)], [[code](https://github.com/hkust-nlp/Laser)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Laser-blue)
 - **R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**  
   *Yibo Wang, Li Shen, Huanjin Yao, Tiansheng Huang, Rui Liu, Naiqiang Tan, Jiaxing Huang, Kai Zhang, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2505.16838)], [[code](https://github.com/w-yibo/R1-Compress)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R1--Compress-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning**  
+  *Xiaoxue Cheng, Junyi Li, Zhenduo Zhang, Xinyu Tang, Wayne Xin Zhao, Xinyu Kong, Zhiqiang Zhang*. [[pdf](https://arxiv.org/pdf/2505.16315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ACPO-blue)
 
 ### Balanced Chain-of-Thought
 
@@ -251,6 +253,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang*. [[pdf](https://arxiv.org/pdf/2505.15154)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CAR-blue)
 - **When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning**  
   *Xiaoyun Zhang, Jingqing Ruan, Xing Ma, Yawen Zhu, Haodong Zhao, Hao Li, Jiansong Chen, Ke Zeng, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2505.15400)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASRR-blue)
+- **AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning**  
+  *Chenwei Lou, Zewei Sun, Xinnian Liang, Meng Qu, Wei Shen, Wenqi Wang, Yuntao Li, Qingping Yang, Shuangzhi Wu*. [[pdf](https://arxiv.org/pdf/2505.11896)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaCoT-blue)
 
 ### Reasoning Shortcuts
 
@@ -429,6 +433,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yiliu Sun, Yanfang Zhang, Zicheng Zhao, Sheng Wan, Dacheng Tao, Chen Gong*. [[pdf](https://arxiv.org/pdf/2504.08690)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System2-green)
 - **Learning Adaptive Parallel Reasoning with Language Models**  
   *Jiayi Pan, Xiuyu Li, Long Lian, Charlie Snell, Yifei Zhou, Adam Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr*. [[pdf](https://arxiv.org/pdf/2504.15466)], [[code](https://github.com/Parallel-Reasoning/APR)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/APR-blue) ![](https://img.shields.io/badge/Parallel_Computation-green)
+- **Group Think: Multiple Concurrent Reasoning Agents Collaborating at Token Level Granularity**  
+  *Chan-Jan Hsu, Davide Buffelli, Jamie McGowan, Feng-Ting Liao, Yi-Chang Chen, Sattar Vakili, Da-shan Shiu*. [[pdf](https://arxiv.org/pdf/2505.11107)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
 
 ### Benchmarks
 
@@ -467,6 +473,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yi Sun, Han Wang, Jiaqiang Li, Jiacheng Liu, Xiangyu Li, Hao Wen, Huiwen Zheng, Yan Liang, Yuanchun Li, Yunxin Liu*. [[pdf](https://arxiv.org/pdf/2504.14350)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Budget-green)
 - **Between Underthinking and Overthinking: An Empirical Study of Reasoning Length and correctness in LLMs**  
   *Jinyan Su, Jennifer Healey, Preslav Nakov, Claire Cardie*. [[pdf](https://arxiv.org/pdf/2505.00127)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
+- **When Can Large Reasoning Models Save Thinking? Mechanistic Analysis of Behavioral Divergence in Reasoning**  
+  *Rongzhi Zhu, Yi Liu, Zequn Sun, Yiwei Wang, Wei Hu*. [[pdf](https://www.arxiv.org/pdf/2505.15276)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 
 ## Blog & Project
 
