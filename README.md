@@ -219,6 +219,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yibo Wang, Li Shen, Huanjin Yao, Tiansheng Huang, Rui Liu, Naiqiang Tan, Jiaxing Huang, Kai Zhang, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2505.16838)], [[code](https://github.com/w-yibo/R1-Compress)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R1--Compress-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning**  
   *Xiaoxue Cheng, Junyi Li, Zhenduo Zhang, Xinyu Tang, Wayne Xin Zhao, Xinyu Kong, Zhiqiang Zhang*. [[pdf](https://arxiv.org/pdf/2505.16315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ACPO-blue)
+- **Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning**  
+  *Junhong Lin, Xinyue Zeng, Jie Zhu, Song Wang, Julian Shun, Jun Wu, Dawei Zhou*. [[pdf](https://www.arxiv.org/pdf/2505.16122)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Balanced Chain-of-Thought
 
@@ -374,7 +376,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods**  
   *Junlin Wang, Shang Zhu, Jon Saad-Falcon, Ben Athiwaratkun, Qingyang Wu, Jue Wang, Shuaiwen Leon Song, Ce Zhang, Bhuwan Dhingra, James Zou*. [[pdf](https://arxiv.org/pdf/2504.14047)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers**  
-  *Kusha Sareen, Morgane M Moss, Alessandro Sordoni, Rishabh Agarwal, Arian Hosseini*. [[pdf](https://arxiv.org/pdf/2505.04842)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Kusha Sareen, Morgane M Moss, Alessandro Sordoni, Rishabh Agarwal, Arian Hosseini*. [[pdf](https://arxiv.org/pdf/2505.04842)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Sampling
 
