@@ -132,6 +132,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Wu Jian, Yuning Jiang*. [[pdf](https://arxiv.org/pdf/2503.22675)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ReaRec-blue) ![](https://img.shields.io/badge/Sequential_Recommendation-green)
 - **Efficient Pretraining Length Scaling**  
   *Bohong Wu, Shen Yan, Sijun Zhang, Jianqiao Lu, Yutao Zeng, Ya Wang, Xun Zhou*. [[pdf](https://arxiv.org/pdf/2504.14992)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PHD--Transformer-blue)
+- **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space**  
+  *Zhen Zhang, Xuehai He, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2505.15778)], [[code](https://github.com/eric-ai-lab/Soft-Thinking)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Soft--Thinking-blue)
 
 ### Long-to-Short Chain-of-Thought
 
@@ -205,6 +207,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Penghui Qi, Zichen Liu, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[pdf](https://arxiv.org/pdf/2505.13438)], [[code](https://github.com/sail-sg/AnytimeReasoner)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/BRPO-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning**  
   *Jiwon Song, Dongwon Jo, Yulhwa Kim, Jae-Joon Kim*. [[pdf](https://arxiv.org/pdf/2505.13866)], [[code](https://github.com/jiwonsong-dev/ReasoningPathCompression)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/KV_Cache_Pruning-green)
+- **ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**  
+  *Gengyang Li, Yifeng Gao, Yuming Li, Yunfang Wu*. [[pdf](https://arxiv.org/pdf/2505.15684)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkLess-blue) ![](https://img.shields.io/badge/Early_Exit-green)
+- **Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**  
+  *Wei Liu, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He*. [[pdf](https://arxiv.org/pdf/2505.15612)], [[code](https://github.com/hkust-nlp/Laser)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Laser-blue)
 
 ### Balanced Chain-of-Thought
 
@@ -235,6 +241,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Lingjie Jiang, Xun Wu, Shaohan Huang, Qingxiu Dong, Zewen Chi, Li Dong, Xingxing Zhang, Tengchao Lv, Lei Cui, Furu Wei*. [[pdf](https://arxiv.org/pdf/2505.14631)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ThinkSwitcher: When to Think Hard, When to Think Fast**  
   *Guosheng Liang, Longguang Zhong, Ziyi Yang, Xiaojun Quan*. [[pdf](https://arxiv.org/pdf/2505.14183)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkSwitcher-blue)
+- **Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**  
+  *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang*. [[pdf](https://arxiv.org/pdf/2505.15154)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CAR-blue)
 
 ### Reasoning Shortcuts
 
