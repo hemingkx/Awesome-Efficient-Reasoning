@@ -218,9 +218,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **AdaptThink: Reasoning Models Can Learn When to Think**  
   *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*. [[pdf](https://arxiv.org/pdf/2505.13417)], [[code](https://github.com/THU-KEG/AdaptThink)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaptThink-blue)
 - **Thinkless: LLM Learns When to Think**  
-  *Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.13379)], [[code](https://github.com/VainF/Thinkless)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAST-blue)
-- **Thinkless: LLM Learns When to Think**  
-  *Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.13379)], [[code](https://github.com/VainF/Thinkless)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAST-blue)
+  *Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.13379)], [[code](https://github.com/VainF/Thinkless)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Thinkless-blue)
+- **Think Only When You Need with Large Hybrid-Reasoning Models**  
+  *Lingjie Jiang, Xun Wu, Shaohan Huang, Qingxiu Dong, Zewen Chi, Li Dong, Xingxing Zhang, Tengchao Lv, Lei Cui, Furu Wei*. [[pdf](https://arxiv.org/pdf/2505.14631)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Reasoning Shortcuts
 
