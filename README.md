@@ -54,6 +54,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Rui Wang, Hongru Wang, Boyang Xue, Jianhui Pang, Shudong Liu, Yi Chen, Jiahao Qiu, Derek Fai Wong, Heng Ji, Kam-Fai Wong*. [[pdf](https://arxiv.org/pdf/2503.24377)], [[paper list](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Efficient Reasoning Models: A Survey**  
   *Sicheng Feng, Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2504.10903)], [[paper list](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
+  *Xinghao Chen, Anhao Zhao, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang, Wenjie Li, Xiaoyu Shen*. [[pdf](https://arxiv.org/pdf/2505.16782)], [[paper list](https://github.com/EIT-NLP/Awesome-Latent-CoT)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Training
 
@@ -80,8 +82,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Latent Chain-of-Thought
 
-> For most recent latentCoT research, see [Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT).
-
+- **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
+  *Xinghao Chen, Anhao Zhao, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang, Wenjie Li, Xiaoyu Shen*. [[pdf](https://arxiv.org/pdf/2505.16782)], [[paper list](https://github.com/EIT-NLP/Awesome-Latent-CoT)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Survey-green)
 - **Think before you speak: Training Language Models With Pause Tokens**  
   *Sachin Goyal, Ziwei Ji, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar, Vaishnavh Nagarajan*. [[pdf](https://openreview.net/pdf?id=ph04CRkPdC)], 2023.10. ![](https://img.shields.io/badge/ICLR2024-orange)
 - **Guiding Language Model Reasoning with Planning Tokens**  
@@ -211,6 +213,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Gengyang Li, Yifeng Gao, Yuming Li, Yunfang Wu*. [[pdf](https://arxiv.org/pdf/2505.15684)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkLess-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**  
   *Wei Liu, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He*. [[pdf](https://arxiv.org/pdf/2505.15612)], [[code](https://github.com/hkust-nlp/Laser)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Laser-blue)
+- **R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**  
+  *Yibo Wang, Li Shen, Huanjin Yao, Tiansheng Huang, Rui Liu, Naiqiang Tan, Jiaxing Huang, Kai Zhang, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2505.16838)], [[code](https://github.com/w-yibo/R1-Compress)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R1--Compress-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Balanced Chain-of-Thought
 
@@ -260,6 +264,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yingqian Cui, Pengfei He, Jingying Zeng, Hui Liu, Xianfeng Tang, Zhenwei Dai, Yan Han, Chen Luo, Jing Huang, Zhen Li, Suhang Wang, Yue Xing, Jiliang Tang, Qi He*. [[pdf](https://arxiv.org/pdf/2502.13260)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models**  
   *Yuxuan Jiang, Dawei Li, Frank Ferraro*. [[pdf](https://arxiv.org/pdf/2505.13975)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DRP-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**  
+  *Yibo Wang, Li Shen, Huanjin Yao, Tiansheng Huang, Rui Liu, Naiqiang Tan, Jiaxing Huang, Kai Zhang, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2505.16838)], [[code](https://github.com/w-yibo/R1-Compress)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R1--Compress-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Reasoning Step Decomposition
 
