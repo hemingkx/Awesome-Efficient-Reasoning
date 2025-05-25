@@ -11,6 +11,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Latent Chain-of-Thought](#latent-chain-of-thought)
   - [Long-to-Short Chain-of-Thought](#long-to-short-chain-of-thought)
   - [Balanced Chain-of-Thought](#balanced-chain-of-thought)
+  - [Adaptive Thinking](#adaptive-thinking)
   - [Reasoning Shortcuts](#reasoning-shortcuts)
   - [Reasoning Step Decomposition](#reasoning-step-decomposition)
   - [Small Reasoning Models & CoT Distillation](#small-reasoning-models--cot-distillation)
@@ -123,8 +124,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qifan Yu, Zhenyu He, Sijie Li, Xun Zhou, Jun Zhang, Jingjing Xu, Di He*. [[pdf](https://arxiv.org/pdf/2502.08482)], [[code](https://github.com/qifanyu/RELAY)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RELAY-blue)
 - **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning**  
   *DiJia Su, Hanlin Zhu, Yingchen Xu, Jiantao Jiao, Yuandong Tian, Qinqing Zheng*. [[pdf](https://arxiv.org/pdf/2502.03275)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
-- **SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**  
-  *Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao*. [[pdf](https://arxiv.org/pdf/2502.12134)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SoftCoT-blue)
 - **Implicit Reasoning in Transformers is Reasoning through Shortcuts**  
   *Tianhe Lin, Jian Xie, Siyu Yuan, Deqing Yang*. [[pdf](https://arxiv.org/pdf/2503.07604)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Analysis-green)
 - **Reasoning to Learn from Latent Thoughts**  
@@ -186,6 +185,14 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xuechen Zhang, Zijian Huang, Chenchun Ni, Ziyang Xiong, Jiasi Chen, Samet Oymak*. [[pdf](https://arxiv.org/pdf/2505.07961)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
 - **Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**  
   *Ren Zhuang, Ben Wang, Shuifa Sun*. [[pdf](https://arxiv.org/pdf/2505.08392)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Skipping-green)
+- **SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning**  
+  *Zheng Li, Qingxiu Dong, Jingyuan Ma, Di Zhang, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2505.11274)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SelfBudgeter-blue) ![](https://img.shields.io/badge/Adaptive_Token_Budget-green)
+- **Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning**  
+  *Yansong Ning, Wei Li, Jun Fang, Naiqiang Tan, Hao Liu*. [[pdf](https://arxiv.org/pdf/2505.11827)], [[code](https://github.com/yasNing/Long-otimes-Short/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Fractured Chain-of-Thought Reasoning**  
+  *Baohao Liao, Hanze Dong, Yuhui Xu, Doyen Sahoo, Christof Monz, Junnan Li, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2505.12992)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Efficient RL Training for Reasoning Models via Length-Aware Optimization**  
+  *Danlong Yuan, Tian Xie, Shaohan Huang, Zhuocheng Gong, Huishuai Zhang, Chong Luo, Furu Wei, Dongyan Zhao*. [[pdf](https://arxiv.org/pdf/2505.12284)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Balanced Chain-of-Thought
 
@@ -203,6 +210,17 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yuan Sui, Yufei He, Tri Cao, Simeng Han, Bryan Hooi*. [[pdf](https://arxiv.org/pdf/2502.19918)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Meta--Reasoner-blue)
 - **DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models**  
   *Yi Shen, Jian Zhang, Jieyun Huang, Shuming Shi, Wenjing Zhang, Jiangze Yan, Ning Wang, Kai Wang, Shiguo Lian*. [[pdf](https://arxiv.org/pdf/2503.04472)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAST-blue)
+
+### Adaptive Thinking
+
+- **Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL**  
+  *Songjun Tu, Jiahao Lin, Qichao Zhang, Xiangyu Tian, Linjing Li, Xiangyuan Lan, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2505.10832)], [[code](https://github.com/TU2021/AutoThink)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **AdaptThink: Reasoning Models Can Learn When to Think**  
+  *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*. [[pdf](https://arxiv.org/pdf/2505.13417)], [[code](https://github.com/THU-KEG/AdaptThink)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaptThink-blue)
+- **Thinkless: LLM Learns When to Think**  
+  *Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.13379)], [[code](https://github.com/VainF/Thinkless)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAST-blue)
+- **Thinkless: LLM Learns When to Think**  
+  *Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.13379)], [[code](https://github.com/VainF/Thinkless)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAST-blue)
 
 ### Reasoning Shortcuts
 
