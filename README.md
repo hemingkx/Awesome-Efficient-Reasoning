@@ -125,7 +125,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning**  
   *Qifan Yu, Zhenyu He, Sijie Li, Xun Zhou, Jun Zhang, Jingjing Xu, Di He*. [[pdf](https://arxiv.org/pdf/2502.08482)], [[code](https://github.com/qifanyu/RELAY)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RELAY-blue)
 - **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning**  
-  *DiJia Su, Hanlin Zhu, Yingchen Xu, Jiantao Jiao, Yuandong Tian, Qinqing Zheng*. [[pdf](https://arxiv.org/pdf/2502.03275)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+  *DiJia Su, Hanlin Zhu, Yingchen Xu, Jiantao Jiao, Yuandong Tian, Qinqing Zheng*. [[pdf](https://arxiv.org/pdf/2502.03275)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange)
 - **Implicit Reasoning in Transformers is Reasoning through Shortcuts**  
   *Tianhe Lin, Jian Xie, Siyu Yuan, Deqing Yang*. [[pdf](https://arxiv.org/pdf/2503.07604)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Analysis-green)
 - **Reasoning to Learn from Latent Thoughts**  
@@ -305,7 +305,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**  
   *Daniele Paliotta, Junxiong Wang, Matteo Pagliardini, Kevin Y. Li, Aviv Bick, J. Zico Kolter, Albert Gu, François Fleuret, Tri Dao*. [[pdf](https://arxiv.org/pdf/2502.20339)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Unveiling the Key Factors for Distilling Chain-of-Thought Reasoning**  
-  *Xinghao Chen, Zhijing Sun, Wenjin Guo, Miaoran Zhang, Yanjun Chen, Yirong Sun, Hui Su, Yijie Pan, Dietrich Klakow, Wenjie Li, Xiaoyu Shen*. [[pdf](https://arxiv.org/pdf/2502.18001)], [[code](https://github.com/EIT-NLP/Distilling-CoT-Reasoning)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Xinghao Chen, Zhijing Sun, Wenjin Guo, Miaoran Zhang, Yanjun Chen, Yirong Sun, Hui Su, Yijie Pan, Dietrich Klakow, Wenjie Li, Xiaoyu Shen*. [[pdf](https://arxiv.org/pdf/2502.18001)], [[code](https://github.com/EIT-NLP/Distilling-CoT-Reasoning)], 2025.02. ![](https://img.shields.io/badge/ACL2025--findings-orange)
 - **Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling**  
   *Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, Biqing Qi, Wanli Ouyang, Bowen Zhou*. [[pdf](https://arxiv.org/pdf/2502.06703)], [[code](https://github.com/RyanLiu112/compute-optimal-tts)], [[homepage](https://ryanliu112.github.io/compute-optimal-tts/)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TTS-blue)
 - **Small Models Struggle to Learn from Strong Reasoners**  
@@ -358,13 +358,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Inference Scaling Laws: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models**  
   *Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang*. [[pdf](https://arxiv.org/pdf/2408.00724)], [[code](https://github.com/thu-wyz/inference_scaling)], [[homepage](https://thu-wyz.github.io/inference-scaling/)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal**  
-  *Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2502.12118)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2502.12118)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange)
 - **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?**  
   *Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, Yunhua Zhou, Xipeng Qiu*. [[pdf](https://arxiv.org/pdf/2502.12215)], [[code](https://github.com/ZhiYuanZeng/test-time-scaling-eval)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**  
   *Wenkai Yang, Shuming Ma, Yankai Lin, Furu Wei*. [[pdf](https://arxiv.org/pdf/2502.18080)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**  
-  *Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2503.07572)], [[code](https://github.com/CMU-AIRe/MRT)], [[homepage](https://cohenqu.github.io/mrt.github.io/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MRT-blue)
+  *Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2503.07572)], [[code](https://github.com/CMU-AIRe/MRT)], [[homepage](https://cohenqu.github.io/mrt.github.io/)], 2025.03. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/MRT-blue)
 - **Is Best-of-N the Best of Them? Coverage, Scaling, and Optimality in Inference-Time Alignment**  
   *Audrey Huang, Adam Block, Qinghua Liu, Nan Jiang, Dylan J. Foster, Akshay Krishnamurthy*. [[pdf](https://arxiv.org/pdf/2503.21878)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/InferenceTimePessimism-blue)
 - **What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**  
@@ -454,7 +454,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought**  
   *Qiguang Chen, Libo Qin, Jiaqi Wang, Jinxuan Zhou, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2410.05695)], [[code](https://github.com/LightChen233/reasoning-boundary)], 2024.10. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Reasoning_Boundary-green)
 - **Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**  
-  *Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu*. [[pdf](https://arxiv.org/pdf/2412.21187)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
+  *Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu*. [[pdf](https://arxiv.org/pdf/2412.21187)], 2024.12. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **When More is Less: Understanding Chain-of-Thought Length in LLMs**  
   *Yuyang Wu, Yifei Wang, Tianqi Du, Stefanie Jegelka, Yisen Wang*. [[pdf](https://arxiv.org/pdf/2502.07266)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Optimal_CoT_Length-green)
 - **The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks**  
