@@ -221,6 +221,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xiaoxue Cheng, Junyi Li, Zhenduo Zhang, Xinyu Tang, Wayne Xin Zhao, Xinyu Kong, Zhiqiang Zhang*. [[pdf](https://arxiv.org/pdf/2505.16315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ACPO-blue)
 - **Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning**  
   *Junhong Lin, Xinyue Zeng, Jie Zhu, Song Wang, Julian Shun, Jun Wu, Dawei Zhou*. [[pdf](https://www.arxiv.org/pdf/2505.16122)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models**  
+  *Razvan-Gabriel Dumitru, Darius Peteleaza, Vikas Yadav, Liangming Pan*. [[pdf](https://www.arxiv.org/pdf/2505.17250)], [[code](https://github.com/RazvanDu/ConciseRL)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ConciseRL-blue)
 
 ### Balanced Chain-of-Thought
 
