@@ -379,7 +379,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Junlin Wang, Shang Zhu, Jon Saad-Falcon, Ben Athiwaratkun, Qingyang Wu, Jue Wang, Shuaiwen Leon Song, Ce Zhang, Bhuwan Dhingra, James Zou*. [[pdf](https://arxiv.org/pdf/2504.14047)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers**  
   *Kusha Sareen, Morgane M Moss, Alessandro Sordoni, Rishabh Agarwal, Arian Hosseini*. [[pdf](https://arxiv.org/pdf/2505.04842)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
-
+- **Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence**  
+  *Amirhosein Ghasemabadi, Keith G. Mills, Baochun Li, Di Niu*. [[pdf](https://arxiv.org/abs/2505.20325)], [[code](https://github.com/Amirhosein-gh98/Guided-by-Gut)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RLVR)
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
