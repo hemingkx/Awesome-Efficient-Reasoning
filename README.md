@@ -79,6 +79,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao*. [[pdf](https://arxiv.org/pdf/2504.05520)], [[code](https://github.com/uscnlp-lime/verl)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ADARFT-blue)
 - **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks**  
   *Yu Yue, Yufeng Yuan, Qiying Yu, Xiaochen Zuo, Ruofei Zhu, Wenyuan Xu, Jiaze Chen, Chengyi Wang, TianTian Fan, Zhengyin Du, Xiangpeng Wei, Xiangyu Yu, Gaohong Liu, Juncai Liu, Lingjun Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Ru Zhang, Xin Liu, Mingxuan Wang, Yonghui Wu, Lin Yan*. [[pdf](https://arxiv.org/pdf/2504.05118)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VAPO-blue)
+- **Accelerating RL for LLM Reasoning with Optimal Advantage Regression**  
+  *Kianté Brantley, Mingyu Chen, Zhaolin Gao, Jason D. Lee, Wen Sun, Wenhao Zhan, Xuezhou Zhang*. [[pdf](https://arxiv.org/pdf/2505.20686)], [[code](https://github.com/ZhaolinGao/A-PO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/A*--PO-blue)
 
 ### Latent Chain-of-Thought
 
@@ -229,6 +231,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.17827)], [[code](https://github.com/Faustrazor/Not-All-Thinking-Tokens)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Skipping-green)
 - **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**  
   *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning**  
+  *Mingyang Song, Mao Zheng*. [[pdf](https://arxiv.org/pdf/2505.21178)], [[code](https://github.com/nick7nlp/ConciseR)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
 
 ### Balanced Chain-of-Thought
 
@@ -460,6 +464,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jiayi Pan, Xiuyu Li, Long Lian, Charlie Snell, Yifei Zhou, Adam Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr*. [[pdf](https://arxiv.org/pdf/2504.15466)], [[code](https://github.com/Parallel-Reasoning/APR)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/APR-blue) ![](https://img.shields.io/badge/Parallel_Computation-green)
 - **Group Think: Multiple Concurrent Reasoning Agents Collaborating at Token Level Granularity**  
   *Chan-Jan Hsu, Davide Buffelli, Jamie McGowan, Feng-Ting Liao, Yi-Chang Chen, Sattar Vakili, Da-shan Shiu*. [[pdf](https://arxiv.org/pdf/2505.11107)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
+- **Thinker: Learning to Think Fast and Slow**  
+  *Stephen Chung, Wenyu Du, Jie Fu*. [[pdf](https://arxiv.org/pdf/2505.21097)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System2-green)
 
 ### Benchmarks
 
