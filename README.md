@@ -223,6 +223,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Junhong Lin, Xinyue Zeng, Jie Zhu, Song Wang, Julian Shun, Jun Wu, Dawei Zhou*. [[pdf](https://www.arxiv.org/pdf/2505.16122)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models**  
   *Razvan-Gabriel Dumitru, Darius Peteleaza, Vikas Yadav, Liangming Pan*. [[pdf](https://www.arxiv.org/pdf/2505.17250)], [[code](https://github.com/RazvanDu/ConciseRL)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ConciseRL-blue)
+- **TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling**  
+  *Weizhe Lin, Xing Li, Zhiyuan Yang, Xiaojin Fu, Hui-Ling Zhen, Yaoyuan Wang, Xianzhi Yu, Wulong Liu, Xiaosong Li, Mingxuan Yuan*. [[pdf](https://arxiv.org/pdf/2505.17155)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TrimR-blue)
+- **Not All Tokens Are What You Need In Thinking**  
+  *Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.17827)], [[code](https://github.com/Faustrazor/Not-All-Thinking-Tokens)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Skipping-green)
+- **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**  
+  *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Balanced Chain-of-Thought
 
@@ -272,10 +278,16 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2502.12067)], [[code](https://github.com/hemingkx/TokenSkip)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TokenSkip-blue) ![](https://img.shields.io/badge/Token_Shortcut-green)
 - **Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models**  
   *Yingqian Cui, Pengfei He, Jingying Zeng, Hui Liu, Xianfeng Tang, Zhenwei Dai, Yan Han, Chen Luo, Jing Huang, Zhen Li, Suhang Wang, Yue Xing, Jiliang Tang, Qi He*. [[pdf](https://arxiv.org/pdf/2502.13260)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**  
+  *Ren Zhuang, Ben Wang, Shuifa Sun*. [[pdf](https://arxiv.org/pdf/2505.08392)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Shortcut-green)
 - **DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models**  
   *Yuxuan Jiang, Dawei Li, Frank Ferraro*. [[pdf](https://arxiv.org/pdf/2505.13975)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DRP-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**  
   *Yibo Wang, Li Shen, Huanjin Yao, Tiansheng Huang, Rui Liu, Naiqiang Tan, Jiaxing Huang, Kai Zhang, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2505.16838)], [[code](https://github.com/w-yibo/R1-Compress)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R1--Compress-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **Not All Tokens Are What You Need In Thinking**  
+  *Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.17827)], [[code](https://github.com/Faustrazor/Not-All-Thinking-Tokens)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Shortcut-green)
+- **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**  
+  *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Reasoning Step Decomposition
 
@@ -382,7 +394,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers**  
   *Kusha Sareen, Morgane M Moss, Alessandro Sordoni, Rishabh Agarwal, Arian Hosseini*. [[pdf](https://arxiv.org/pdf/2505.04842)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence**  
-  *Amirhosein Ghasemabadi, Keith G. Mills, Baochun Li, Di Niu*. [[pdf](https://arxiv.org/abs/2505.20325)], [[code](https://github.com/Amirhosein-gh98/Guided-by-Gut)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RLVR)
+  *Amirhosein Ghasemabadi, Keith G. Mills, Baochun Li, Di Niu*. [[pdf](https://arxiv.org/abs/2505.20325)], [[code](https://github.com/Amirhosein-gh98/Guided-by-Gut)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Value-Guided Search for Efficient Chain-of-Thought Reasoning**  
+  *Kaiwen Wang, Jin Peng Zhou, Jonathan Chang, Zhaolin Gao, Nathan Kallus, Kianté Brantley, Wen Sun*. [[pdf](https://arxiv.org/pdf/2505.17373)], [[code](https://github.com/kaiwenw/value-guided-search)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning**  
+  *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz*. [[pdf](https://arxiv.org/pdf/2505.17813)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
+- **First Finish Search: Efficient Test-Time Scaling in Large Language Models**  
+  *Aradhye Agarwal, Ayan Sengupta, Tanmoy Chakraborty*. [[pdf](https://arxiv.org/pdf/2505.18149)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
