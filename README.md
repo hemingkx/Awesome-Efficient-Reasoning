@@ -17,6 +17,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Small Reasoning Models & CoT Distillation](#small-reasoning-models--cot-distillation)
   - [Small & Large Reasoning Model Collaboration](#small--large-reasoning-model-collaboration)
   - [Speculative Decoding for CoT Efficiency](#speculative-decoding-for-cot-efficiency)
+  - [KV Cache Compression](#kv-cache-compression)
   - [Optimal Test-Time Scaling](#optimal-test-time-scaling)
   - [Efficient Sampling](#efficient-sampling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
@@ -240,6 +241,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Siqi Fan, Peng Han, Shuo Shang, Yequan Wang, Aixin Sun*. [[pdf](https://arxiv.org/pdf/2505.22017)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Outline_by_InstructLM-green)
 - **Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models**  
   *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings**  
+  *Xiaoang Xu, Shuo Wang, Xu Han, Zhenghao Liu, Huijia Wu, Peipei Li, Zhiyuan Liu, Maosong Sun, Zhaofeng He*. [[pdf](https://arxiv.org/pdf/2505.24550)], [[code](https://github.com/AI9Stars/AStar-Thought)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/A*--Thought-blue)
 
 ### Balanced Chain-of-Thought
 
@@ -278,6 +281,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chenwei Lou, Zewei Sun, Xinnian Liang, Meng Qu, Wei Shen, Wenqi Wang, Yuntao Li, Qingping Yang, Shuangzhi Wu*. [[pdf](https://arxiv.org/pdf/2505.11896)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaCoT-blue)
 - **AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**  
   *Feng Luo, Yu-Neng Chuang, Guanchu Wang, Hoang Anh Duy Le, Shaochen Zhong, Hongyi Liu, Jiayi Yuan, Yang Sui, Vladimir Braverman, Vipin Chaudhary, Xia Hu*. [[pdf](https://arxiv.org/pdf/2505.22662)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AutoL2S-blue)
+- **AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**  
+  *Junyu Zhang, Runpei Dong, Han Wang, Xuying Ning, Haoran Geng, Peihao Li, Xialin He, Yutong Bai, Jitendra Malik, Saurabh Gupta, Huan Zhang*. [[pdf](https://arxiv.org/pdf/2505.24863)], [[homepage](https://alphaone-project.github.io/)], [[code](https://github.com/ASTRAL-Group/AlphaOne)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AlphaOne-blue)
 
 ### Reasoning Shortcuts
 
@@ -364,6 +369,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yule Liu, Jingyi Zheng, Zhen Sun, Zifan Peng, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He*. [[pdf](https://arxiv.org/pdf/2504.13626)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Thought_Manipulation-blue) ![](https://img.shields.io/badge/CoTs_from_SRMs-green)
 - **SplitReason: Learning To Offload Reasoning**  
   *Yash Akhauri, Anthony Fei, Chi-Chih Chang, Ahmed F. AbouElhamayed, Yueying Li, Mohamed S. Abdelfattah*. [[pdf](https://arxiv.org/pdf/2504.16379)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SplitReason-blue) ![](https://img.shields.io/badge/offloading_challenging_CoT_parts_to_LRMs-green)
+- **ProxyThinker: Test-Time Guidance through Small Visual Reasoners**  
+  *Zilin Xiao, Jaywon Koo, Siru Ouyang, Jefferson Hernandez, Yu Meng, Vicente Ordonez*. [[pdf](https://arxiv.org/pdf/2505.24872)], [[code](https://github.com/MrZilinXiao/ProxyThinker)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ProxyThinker-blue) ![](https://img.shields.io/badge/CoTs_from_Multimodal_SRMs-green)
 
 ### Speculative Decoding for CoT Efficiency
 
@@ -379,6 +386,11 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhihai Wang, Jie Wang, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu*. [[pdf](https://arxiv.org/pdf/2505.02865)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/SCoT-blue)
 - **Accelerated Test-Time Scaling with Model-Free Speculative Sampling**  
   *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.04708)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAND-blue)
+
+### KV Cache Compression
+
+- **R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration**  
+  *Zefan Cai, Wen Xiao, Hanshi Sun, Cheng Luo, Yikai Zhang, Ke Wan, Yucheng Li, Yeyang Zhou, Li-Wen Chang, Jiuxiang Gu, Zhen Dong, Anima Anandkumar, Abedelkadir Asi, Junjie Hu*. [[pdf](https://arxiv.org/pdf/2505.24133)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Optimal Test-Time Scaling
 
