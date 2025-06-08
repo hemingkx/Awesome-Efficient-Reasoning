@@ -233,6 +233,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning**  
   *Mingyang Song, Mao Zheng*. [[pdf](https://arxiv.org/pdf/2505.21178)], [[code](https://github.com/nick7nlp/ConciseR)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
+- **CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models**  
+  *Siqi Fan, Peng Han, Shuo Shang, Yequan Wang, Aixin Sun*. [[pdf](https://arxiv.org/pdf/2505.22017)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Outline_by_InstructLM-green)
+- **Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models**  
+  *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Balanced Chain-of-Thought
 
@@ -269,6 +273,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xiaoyun Zhang, Jingqing Ruan, Xing Ma, Yawen Zhu, Haodong Zhao, Hao Li, Jiansong Chen, Ke Zeng, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2505.15400)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASRR-blue)
 - **AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning**  
   *Chenwei Lou, Zewei Sun, Xinnian Liang, Meng Qu, Wei Shen, Wenqi Wang, Yuntao Li, Qingping Yang, Shuangzhi Wu*. [[pdf](https://arxiv.org/pdf/2505.11896)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaCoT-blue)
+- **AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**  
+  *Feng Luo, Yu-Neng Chuang, Guanchu Wang, Hoang Anh Duy Le, Shaochen Zhong, Hongyi Liu, Jiayi Yuan, Yang Sui, Vladimir Braverman, Vipin Chaudhary, Xia Hu*. [[pdf](https://arxiv.org/pdf/2505.22662)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AutoL2S-blue)
 
 ### Reasoning Shortcuts
 
@@ -475,6 +481,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wenyuan Zhang, Shuaiyi Nie, Xinghua Zhang, Zefeng Zhang, Tingwen Liu*. [[pdf](https://arxiv.org/pdf/2504.10368)], [[code](https://github.com/WYRipple/S1_Bench)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S1--Bench-blue) ![](https://img.shields.io/badge/Over--thinking-green)
 - **THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models**  
   *Xiao Pu, Michael Saxon, Wenyue Hua, William Yang Wang*. [[pdf](https://arxiv.org/pdf/2504.13367)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/THOUGHTTERMINATOR-blue) ![](https://img.shields.io/badge/Over--thinking-green)
+- **THINK-Bench: Evaluating Thinking Efficiency and Chain-of-Thought Quality of Large Reasoning Models**  
+  *Zhiyuan Li, Yi Chang, Yuan Wu*. [[pdf](https://arxiv.org/pdf/2505.22113)], [[homepage](https://think-bench.github.io/)], [[code](https://github.com/ZhiyuanLi218/Think-Bench)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/THINK--Bench-blue) ![](https://img.shields.io/badge/Over--thinking-green)
 
 ### Analysis
 
