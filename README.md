@@ -241,7 +241,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Siqi Fan, Peng Han, Shuo Shang, Yequan Wang, Aixin Sun*. [[pdf](https://arxiv.org/pdf/2505.22017)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Outline_by_InstructLM-green)
 - **Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models**  
   *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
-- **A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings**  
+- **A\*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings**  
   *Xiaoang Xu, Shuo Wang, Xu Han, Zhenghao Liu, Huijia Wu, Peipei Li, Zhiyuan Liu, Maosong Sun, Zhaofeng He*. [[pdf](https://arxiv.org/pdf/2505.24550)], [[code](https://github.com/AI9Stars/AStar-Thought)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/A*--Thought-blue)
 
 ### Balanced Chain-of-Thought
