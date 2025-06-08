@@ -21,6 +21,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Efficient Sampling](#efficient-sampling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
   - [Long-Context Reasoning Efficiency](#long-context-reasoning-efficiency)
+  - [Multimodal Reasoning Efficiency](#multimodal-reasoning-efficiency)
   - [Other Work](#other-work)
   - [Benchmarks](#benchmarks)
   - [Analysis](#analysis)
@@ -453,6 +454,11 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jitai Hao, Yuke Zhu, Tian Wang, Jun Yu, Xin Xin, Bo Zheng, Zhaochun Ren, Sheng Guo*. [[pdf](https://openreview.net/pdf?id=ulCAPXYXfa)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/OmniKV-blue)
 - **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models**  
   *Yuchen Yan, Yongliang Shen, Yang Liu, Jin Jiang, Mengdi Zhang, Jian Shao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2503.06692)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/InftyThink-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Summarization-green)
+
+### Multimodal Reasoning Efficiency
+
+- **PixelThink: Towards Efficient Chain-of-Pixel Reasoning**  
+  *Song Wang, Gongfan Fang, Lingdong Kong, Xiangtai Li, Jianyun Xu, Sheng Yang, Qiang Li, Jianke Zhu, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.23727)], [[code](https://github.com/songw-zju/PixelThink)], [[homepage](https://pixelthink.github.io/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PixelThink-blue)
 
 ### Other Work
 
