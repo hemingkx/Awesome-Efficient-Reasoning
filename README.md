@@ -243,6 +243,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **A\*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings**  
   *Xiaoang Xu, Shuo Wang, Xu Han, Zhenghao Liu, Huijia Wu, Peipei Li, Zhiyuan Liu, Maosong Sun, Zhaofeng He*. [[pdf](https://arxiv.org/pdf/2505.24550)], [[code](https://github.com/AI9Stars/AStar-Thought)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/A*--Thought-blue)
+- **TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression**  
+  *Zhong-Zhi Li, Xiao Liang, Zihao Tang, Lei Ji, Peijie Wang, Haotian Xu, Xing W, Haizhen Huang, Weiwei Deng, Ying Nian Wu, Yeyun Gong, Zhijiang Guo, Xiao Liu, Fei Yin, Cheng-Lin Liu*. [[pdf](https://arxiv.org/pdf/2506.02678)], [[code](https://github.com/zzli2022/TLDR)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TL;DR-blue)
+- **Answer Convergence as a Signal for Early Stopping in Reasoning**  
+  *Xin Liu, Lu Wang*. [[pdf](https://arxiv.org/pdf/2506.02536)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Early_Exit-green)
 
 ### Balanced Chain-of-Thought
 
@@ -283,6 +287,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Feng Luo, Yu-Neng Chuang, Guanchu Wang, Hoang Anh Duy Le, Shaochen Zhong, Hongyi Liu, Jiayi Yuan, Yang Sui, Vladimir Braverman, Vipin Chaudhary, Xia Hu*. [[pdf](https://arxiv.org/pdf/2505.22662)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AutoL2S-blue)
 - **AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**  
   *Junyu Zhang, Runpei Dong, Han Wang, Xuying Ning, Haoran Geng, Peihao Li, Xialin He, Yutong Bai, Jitendra Malik, Saurabh Gupta, Huan Zhang*. [[pdf](https://arxiv.org/pdf/2505.24863)], [[homepage](https://alphaone-project.github.io/)], [[code](https://github.com/ASTRAL-Group/AlphaOne)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AlphaOne-blue)
+- **OThink-R1: Intrinsic Fast/Slow Thinking Mode Switching for Over-Reasoning Mitigation**  
+  *Shengjia Zhang, Junjie Wu, Jiawei Chen, Changwang Zhang, Xingyu Lou, Wangchunshu Zhou, Sheng Zhou, Can Wang, Jun Wang*. [[pdf](https://arxiv.org/pdf/2506.02397)], [[code](https://github.com/AgenticIR-Lab/OThink-R1)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/OThink--R1-blue)
 
 ### Reasoning Shortcuts
 
