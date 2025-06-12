@@ -83,6 +83,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yu Yue, Yufeng Yuan, Qiying Yu, Xiaochen Zuo, Ruofei Zhu, Wenyuan Xu, Jiaze Chen, Chengyi Wang, TianTian Fan, Zhengyin Du, Xiangpeng Wei, Xiangyu Yu, Gaohong Liu, Juncai Liu, Lingjun Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Ru Zhang, Xin Liu, Mingxuan Wang, Yonghui Wu, Lin Yan*. [[pdf](https://arxiv.org/pdf/2504.05118)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VAPO-blue)
 - **Accelerating RL for LLM Reasoning with Optimal Advantage Regression**  
   *Kianté Brantley, Mingyu Chen, Zhaolin Gao, Jason D. Lee, Wen Sun, Wenhao Zhan, Xuezhou Zhang*. [[pdf](https://arxiv.org/pdf/2505.20686)], [[code](https://github.com/ZhaolinGao/A-PO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/A*--PO-blue)
+- **EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**  
+  *Jinghan Jia, Hadi Reisizadeh, Chongyu Fan, Nathalie Baracaldo, Mingyi Hong, Sijia Liu*. [[pdf](https://arxiv.org/pdf/2506.04205)], [[code](https://github.com/OPTML-Group/EPiC)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EPiC-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Latent Chain-of-Thought
 
@@ -289,6 +291,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Junyu Zhang, Runpei Dong, Han Wang, Xuying Ning, Haoran Geng, Peihao Li, Xialin He, Yutong Bai, Jitendra Malik, Saurabh Gupta, Huan Zhang*. [[pdf](https://arxiv.org/pdf/2505.24863)], [[homepage](https://alphaone-project.github.io/)], [[code](https://github.com/ASTRAL-Group/AlphaOne)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AlphaOne-blue)
 - **OThink-R1: Intrinsic Fast/Slow Thinking Mode Switching for Over-Reasoning Mitigation**  
   *Shengjia Zhang, Junjie Wu, Jiawei Chen, Changwang Zhang, Xingyu Lou, Wangchunshu Zhou, Sheng Zhou, Can Wang, Jun Wang*. [[pdf](https://arxiv.org/pdf/2506.02397)], [[code](https://github.com/AgenticIR-Lab/OThink-R1)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/OThink--R1-blue)
+- **Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models**  
+  *Ruiqi Zhang, Changyi Xiao, Yixin Cao*. [[pdf](https://arxiv.org/pdf/2506.04182)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwitchCoT-blue)
 
 ### Reasoning Shortcuts
 
@@ -312,6 +316,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.17827)], [[code](https://github.com/Faustrazor/Not-All-Thinking-Tokens)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Shortcut-green)
 - **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**  
   *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**  
+  *Jinghan Jia, Hadi Reisizadeh, Chongyu Fan, Nathalie Baracaldo, Mingyi Hong, Sijia Liu*. [[pdf](https://arxiv.org/pdf/2506.04205)], [[code](https://github.com/OPTML-Group/EPiC)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EPiC-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Reasoning Step Decomposition
 
