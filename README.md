@@ -266,6 +266,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yuan Sui, Yufei He, Tri Cao, Simeng Han, Bryan Hooi*. [[pdf](https://arxiv.org/pdf/2502.19918)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Meta--Reasoner-blue)
 - **DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models**  
   *Yi Shen, Jian Zhang, Jieyun Huang, Shuming Shi, Wenjing Zhang, Jiangze Yan, Ning Wang, Kai Wang, Shiguo Lian*. [[pdf](https://arxiv.org/pdf/2503.04472)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAST-blue)
+- **Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**  
+  *Violet Xiang, Chase Blagden, Rafael Rafailov, Nathan Lile, Sang Truong, Chelsea Finn, Nick Haber*. [[pdf](https://arxiv.org/pdf/2506.05256)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ALP-blue) ![](https://img.shields.io/badge/Length_Control-green)
 
 ### Adaptive Thinking
 
@@ -438,6 +440,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz*. [[pdf](https://arxiv.org/pdf/2505.17813)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
 - **First Finish Search: Efficient Test-Time Scaling in Large Language Models**  
   *Aradhye Agarwal, Ayan Sengupta, Tanmoy Chakraborty*. [[pdf](https://arxiv.org/pdf/2505.18149)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
+- **LLM-First Search: Self-Guided Exploration of the Solution Space**  
+  *Nathan Herr, Tim Rocktäschel, Roberta Raileanu*. [[pdf](https://arxiv.org/pdf/2506.05213)], [[code](https://github.com/NathanHerr/LLM-First-Search)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LFS-blue)
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
