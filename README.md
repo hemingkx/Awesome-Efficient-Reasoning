@@ -249,6 +249,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhong-Zhi Li, Xiao Liang, Zihao Tang, Lei Ji, Peijie Wang, Haotian Xu, Xing W, Haizhen Huang, Weiwei Deng, Ying Nian Wu, Yeyun Gong, Zhijiang Guo, Xiao Liu, Fei Yin, Cheng-Lin Liu*. [[pdf](https://arxiv.org/pdf/2506.02678)], [[code](https://github.com/zzli2022/TLDR)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TL;DR-blue)
 - **Answer Convergence as a Signal for Early Stopping in Reasoning**  
   *Xin Liu, Lu Wang*. [[pdf](https://arxiv.org/pdf/2506.02536)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Early_Exit-green)
+- **How Far Are We from Optimal Reasoning Efficiency?**  
+  *Jiaxuan Gao, Shu Yan, Qixin Tan, Lu Yang, Shusheng Xu, Wei Fu, Zhiyu Mei, Kaifeng Lyu, Yi Wu*. [[pdf](https://arxiv.org/pdf/2506.07104)], [[code](https://github.com/samjia2000/Optimal-Reasoning-Efficiency)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/REO--RL-blue)
+- **Overclocking LLM Reasoning: Monitoring and Controlling Thinking Path Lengths in LLMs**  
+  *Roy Eisenstadt, Itamar Zimerman, Lior Wolf*. [[pdf](https://arxiv.org/pdf/2506.07240)], [[homepage](https://royeisen.github.io/OverclockingLLMReasoning-paper/)], [[code](https://github.com/royeisen/reasoning_loading_bar)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Balanced Chain-of-Thought
 
@@ -295,6 +299,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Shengjia Zhang, Junjie Wu, Jiawei Chen, Changwang Zhang, Xingyu Lou, Wangchunshu Zhou, Sheng Zhou, Can Wang, Jun Wang*. [[pdf](https://arxiv.org/pdf/2506.02397)], [[code](https://github.com/AgenticIR-Lab/OThink-R1)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/OThink--R1-blue)
 - **Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models**  
   *Ruiqi Zhang, Changyi Xiao, Yixin Cao*. [[pdf](https://arxiv.org/pdf/2506.04182)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwitchCoT-blue)
+- **Token Signature: Predicting Chain-of-Thought Gains with Token Decoding Feature in Large Language Models**  
+  *Peijie Liu, Fengli Xu, Yong Li*. [[pdf](https://arxiv.org/pdf/2506.06008)], [[code](https://github.com/tsinghua-fib-lab/Token_Signature)], 2025.06. ![](https://img.shields.io/badge/ICML2025-orange)
 
 ### Reasoning Shortcuts
 
@@ -385,6 +391,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yash Akhauri, Anthony Fei, Chi-Chih Chang, Ahmed F. AbouElhamayed, Yueying Li, Mohamed S. Abdelfattah*. [[pdf](https://arxiv.org/pdf/2504.16379)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SplitReason-blue) ![](https://img.shields.io/badge/offloading_challenging_CoT_parts_to_LRMs-green)
 - **ProxyThinker: Test-Time Guidance through Small Visual Reasoners**  
   *Zilin Xiao, Jaywon Koo, Siru Ouyang, Jefferson Hernandez, Yu Meng, Vicente Ordonez*. [[pdf](https://arxiv.org/pdf/2505.24872)], [[code](https://github.com/MrZilinXiao/ProxyThinker)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ProxyThinker-blue) ![](https://img.shields.io/badge/CoTs_from_Multimodal_SRMs-green)
+- **What makes Reasoning Models Different? Follow the Reasoning Leader for Efficient Decoding**  
+  *Ming Li, Zhengyuan Yang, Xiyao Wang, Dianqi Li, Kevin Lin, Tianyi Zhou, Lijuan Wang*. [[pdf](https://arxiv.org/pdf/2506.06998)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FoReaL--Decoding-blue)
 
 ### Speculative Decoding for CoT Efficiency
 
@@ -508,6 +516,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chan-Jan Hsu, Davide Buffelli, Jamie McGowan, Feng-Ting Liao, Yi-Chang Chen, Sattar Vakili, Da-shan Shiu*. [[pdf](https://arxiv.org/pdf/2505.11107)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
 - **Thinker: Learning to Think Fast and Slow**  
   *Stephen Chung, Wenyu Du, Jie Fu*. [[pdf](https://arxiv.org/pdf/2505.21097)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System2-green)
+- **SPRINT: Enabling Interleaved Planning and Parallelized Execution in Reasoning Models**  
+  *Emil Biju, Shayan Talaei, Zhemin Huang, Mohammadreza Pourreza, Azalia Mirhoseini, Amin Saberi*. [[pdf](https://arxiv.org/pdf/2506.05745)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPRINT-blue) ![](https://img.shields.io/badge/Parallel_Execution-green)
+- **Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router**  
+  *Chenyang Shao, Xinyang Liu, Yutang Lin, Fengli Xu, Yong Li*. [[pdf](https://arxiv.org/pdf/2506.05901)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R2--Reasoner-blue) ![](https://img.shields.io/badge/Model_Router-green)
 
 ### Benchmarks
 
