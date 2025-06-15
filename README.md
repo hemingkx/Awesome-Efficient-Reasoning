@@ -17,7 +17,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Small Reasoning Models & CoT Distillation](#small-reasoning-models--cot-distillation)
   - [Small & Large Reasoning Model Collaboration](#small--large-reasoning-model-collaboration)
   - [Speculative Decoding for CoT Efficiency](#speculative-decoding-for-cot-efficiency)
-  - [KV Cache Compression](#kv-cache-compression)
+  - [Sparse Attention & KV Cache](#sparse-attention--kv-cache)
   - [Optimal Test-Time Scaling](#optimal-test-time-scaling)
   - [Efficient Sampling](#efficient-sampling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
@@ -146,6 +146,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhen Zhang, Xuehai He, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2505.15778)], [[code](https://github.com/eric-ai-lab/Soft-Thinking)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Soft--Thinking-blue)
 - **Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains**  
   *Wenhui Tan, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Ruihua Song*. [[pdf](https://arxiv.org/pdf/2505.16552)], [[homepage](https://colar-latent-reasoning.github.io/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoLaR-blue)
+- **Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**  
+  *Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu*. [[pdf](https://arxiv.org/pdf/2506.08552)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Long-to-Short Chain-of-Thought
 
@@ -326,8 +328,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.17827)], [[code](https://github.com/Faustrazor/Not-All-Thinking-Tokens)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Shortcut-green)
 - **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**  
   *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
-- **EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**  
-  *Jinghan Jia, Hadi Reisizadeh, Chongyu Fan, Nathalie Baracaldo, Mingyi Hong, Sijia Liu*. [[pdf](https://arxiv.org/pdf/2506.04205)], [[code](https://github.com/OPTML-Group/EPiC)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EPiC-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Reasoning Step Decomposition
 
@@ -411,10 +411,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Accelerated Test-Time Scaling with Model-Free Speculative Sampling**  
   *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.04708)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAND-blue)
 
-### KV Cache Compression
+### Sparse Attention & KV Cache
 
 - **R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration**  
-  *Zefan Cai, Wen Xiao, Hanshi Sun, Cheng Luo, Yikai Zhang, Ke Wan, Yucheng Li, Yeyang Zhou, Li-Wen Chang, Jiuxiang Gu, Zhen Dong, Anima Anandkumar, Abedelkadir Asi, Junjie Hu*. [[pdf](https://arxiv.org/pdf/2505.24133)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Zefan Cai, Wen Xiao, Hanshi Sun, Cheng Luo, Yikai Zhang, Ke Wan, Yucheng Li, Yeyang Zhou, Li-Wen Chang, Jiuxiang Gu, Zhen Dong, Anima Anandkumar, Abedelkadir Asi, Junjie Hu*. [[pdf](https://arxiv.org/pdf/2505.24133)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--KV-blue)
+- **SeerAttention-R: Sparse Attention Adaptation for Long Reasoning**  
+  *Yizhao Gao, Shuming Guo, Shijie Cao, Yuqing Xia, Yu Cheng, Lei Wang, Lingxiao Ma, Yutao Sun, Tianzhu Ye, Li Dong, Hayden Kwok-Hay So, Yu Hua, Ting Cao, Fan Yang, Mao Yang*. [[pdf](https://arxiv.org/pdf/2506.08889)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SeerAttention--R-blue)
 
 ### Optimal Test-Time Scaling
 
@@ -564,6 +566,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jinyan Su, Jennifer Healey, Preslav Nakov, Claire Cardie*. [[pdf](https://arxiv.org/pdf/2505.00127)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **When Can Large Reasoning Models Save Thinking? Mechanistic Analysis of Behavioral Divergence in Reasoning**  
   *Rongzhi Zhu, Yi Liu, Zequn Sun, Yiwei Wang, Wei Hu*. [[pdf](https://www.arxiv.org/pdf/2505.15276)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
+- **On Reasoning Strength Planning in Large Reasoning Models**  
+  *Leheng Sheng, An Zhang, Zijian Wu, Weixiang Zhao, Changshuo Shen, Yi Zhang, Xiang Wang, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2506.08390)], [[code](https://github.com/AlphaLab-USTC/LRM-plans-CoT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Reasoning_Length-green)
 
 ## Blog & Project
 
