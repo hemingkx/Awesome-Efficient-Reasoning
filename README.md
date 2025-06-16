@@ -87,6 +87,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin*. [[pdf](https://arxiv.org/pdf/2506.01939)], [[homepage](https://shenzhi-wang.github.io/high-entropy-minority-tokens-rlvr/)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Training_with_High--Entropy_Tokens-green)
 - **EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**  
   *Jinghan Jia, Hadi Reisizadeh, Chongyu Fan, Nathalie Baracaldo, Mingyi Hong, Sijia Liu*. [[pdf](https://arxiv.org/pdf/2506.04205)], [[code](https://github.com/OPTML-Group/EPiC)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EPiC-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **SPEED-RL: Faster Training of Reasoning Models via Online Curriculum Learning**  
+  *Ruiqi Zhang, Daman Arora, Song Mei, Andrea Zanette*. [[pdf](https://arxiv.org/pdf/2506.09016)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPEED--RL-blue)
 
 ### Latent Chain-of-Thought
 
@@ -257,6 +259,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jiaxuan Gao, Shu Yan, Qixin Tan, Lu Yang, Shusheng Xu, Wei Fu, Zhiyu Mei, Kaifeng Lyu, Yi Wu*. [[pdf](https://arxiv.org/pdf/2506.07104)], [[code](https://github.com/samjia2000/Optimal-Reasoning-Efficiency)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/REO--RL-blue)
 - **Overclocking LLM Reasoning: Monitoring and Controlling Thinking Path Lengths in LLMs**  
   *Roy Eisenstadt, Itamar Zimerman, Lior Wolf*. [[pdf](https://arxiv.org/pdf/2506.07240)], [[homepage](https://royeisen.github.io/OverclockingLLMReasoning-paper/)], [[code](https://github.com/royeisen/reasoning_loading_bar)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Bingo: Boosting Efficient Reasoning of LLMs via Dynamic and Significance-based Reinforcement Learning**  
+  *Hanbing Liu, Lang Cao, Yuanyi Ren, Mengyu Zhou, Haoyu Dong, Xiaojun Ma, Shi Han, Dongmei Zhang*. [[pdf](https://arxiv.org/pdf/2506.08125)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Significance--aware_Length_Penalty-green)
+- **Brevity is the soul of sustainability: Characterizing LLM response lengths**  
+  *Soham Poddar, Paramita Koley, Janardan Misra, Sanjay Podder, Navveen Balani, Niloy Ganguly, Saptarshi Ghosh*. [[pdf](https://arxiv.org/pdf/2506.08686)], 2025.06. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/Prompting-green)
+- **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**  
+  *Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2506.08343)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/NoWait-blue)
 
 ### Balanced Chain-of-Thought
 
