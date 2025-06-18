@@ -265,6 +265,14 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Soham Poddar, Paramita Koley, Janardan Misra, Sanjay Podder, Navveen Balani, Niloy Ganguly, Saptarshi Ghosh*. [[pdf](https://arxiv.org/pdf/2506.08686)], 2025.06. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/Prompting-green)
 - **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**  
   *Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2506.08343)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/NoWait-blue)
+- **Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning**  
+  *Xiangning Yu, Zhuohan Wang, Linyi Yang, Haoxuan Li, Anjie Liu, Xiao Xue, Jun Wang, Mengyue Yang*. [[pdf](https://arxiv.org/pdf/2506.09853)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/In--context_Learning&SFT-green)
+- **PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models**  
+  *Ye Yu, Yaoning Yu, Haohan Wang*. [[pdf](https://arxiv.org/pdf/2506.10716)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prompting-green)
+- **ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization**  
+  *Zhensheng Jin, Xinze Li, Yifan Ji, Chunyi Peng, Zhenghao Liu, Qi Shi, Yukun Yan, Shuo Wang, Furong Peng, Ge Yu*. [[pdf](https://arxiv.org/pdf/2506.10822)], [[code](https://github.com/NEUIR/ReCUT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty**  
+  *Zehui Ling, Deshu Chen, Hongwei Zhang, Yifeng Jiao, Xin Guo, Yuan Cheng*. [[pdf](https://arxiv.org/pdf/2506.10446)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Balanced Chain-of-Thought
 
@@ -532,6 +540,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Emil Biju, Shayan Talaei, Zhemin Huang, Mohammadreza Pourreza, Azalia Mirhoseini, Amin Saberi*. [[pdf](https://arxiv.org/pdf/2506.05745)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPRINT-blue) ![](https://img.shields.io/badge/Parallel_Execution-green)
 - **Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router**  
   *Chenyang Shao, Xinyang Liu, Yutang Lin, Fengli Xu, Yong Li*. [[pdf](https://arxiv.org/pdf/2506.05901)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R2--Reasoner-blue) ![](https://img.shields.io/badge/Model_Router-green)
+- **Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**  
+  *Xinyu Yang, Yuwei An, Hongyi Liu, Tianqi Chen, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2506.09991)], [[homepage](https://multiverse4fm.github.io/)], [[code](https://github.com/Infini-AI-Lab/Multiverse)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
 
 ### Benchmarks
 
