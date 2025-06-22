@@ -150,6 +150,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wenhui Tan, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Ruihua Song*. [[pdf](https://arxiv.org/pdf/2505.16552)], [[homepage](https://colar-latent-reasoning.github.io/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoLaR-blue)
 - **Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**  
   *Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu*. [[pdf](https://arxiv.org/pdf/2506.08552)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **DART: Distilling Autoregressive Reasoning to Silent Thought**  
+  *Nan Jiang, Ziming Wu, De-Chuan Zhan, Fuming Lai, Shaobing Lian*. [[pdf](https://arxiv.org/pdf/2506.11752)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Long-to-Short Chain-of-Thought
 
@@ -217,6 +219,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Shangziqi Zhao, Jiahao Yuan, Guisong Yang, Usman Naseem*. [[pdf](https://arxiv.org/pdf/2505.14582)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prune--on--Logic-blue)
 - **DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models**  
   *Yuxuan Jiang, Dawei Li, Frank Ferraro*. [[pdf](https://arxiv.org/pdf/2505.13975)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DRP-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **SEAL: Steerable Reasoning Calibration of Large Language Models for Free**  
+  *Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang*. [[pdf](https://arxiv.org/pdf/2504.07986)], [[code](https://github.com/VITA-Group/SEAL)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SEAL-blue)
 - **FlashThink: An Early Exit Method For Efficient Reasoning**  
   *Guochao Jiang, Guofeng Quan, Zepeng Ding, Ziqin Luo, Dixuan Wang, Zheng Hu*. [[pdf](https://arxiv.org/pdf/2505.13949)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FlashThink-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Optimizing Anytime Reasoning via Budget Relative Policy Optimization**  
@@ -273,6 +277,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhensheng Jin, Xinze Li, Yifan Ji, Chunyi Peng, Zhenghao Liu, Qi Shi, Yukun Yan, Shuo Wang, Furong Peng, Ge Yu*. [[pdf](https://arxiv.org/pdf/2506.10822)], [[code](https://github.com/NEUIR/ReCUT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty**  
   *Zehui Ling, Deshu Chen, Hongwei Zhang, Yifeng Jiao, Xin Guo, Yuan Cheng*. [[pdf](https://arxiv.org/pdf/2506.10446)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Efficient Reasoning Through Suppression of Self-Affirmation Reflections in Large Reasoning Models**  
+  *Kaiyuan Liu, Chen Shen, Zhanwei Zhang, Junjie Liu, Xiaosong Yuan, Jieping ye*. [[pdf](https://arxiv.org/pdf/2506.12353)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Steering LLM Thinking with Budget Guidance**  
+  *Junyan Li, Wenshuo Zhao, Yang Zhang, Chuang Gan*. [[pdf](https://arxiv.org/pdf/2506.13752)], [[code](https://github.com/UMass-Embodied-AGI/BudgetGuidance)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Optimizing Length Compression in Large Reasoning Models**  
+  *Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2506.14755)], [[code](https://github.com/zxiangx/LC-R1)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Balanced Chain-of-Thought
 
@@ -396,6 +406,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chengyu Wang, Taolin Zhang, Richang Hong, Jun Huang*. [[pdf](https://arxiv.org/pdf/2504.09100)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Survey-green)
 - **Tina: Tiny Reasoning Models via LoRA**  
   *Shangshang Wang, Julian Asilis, Ömer Faruk Akgül, Enes Burak Bilgin, Ollie Liu, Willie Neiswanger*. [[pdf](https://arxiv.org/pdf/2504.15777)], [[code](https://github.com/shangshang-wang/Tina)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Tina-blue)
+- **A Technical Study into Small Reasoning Language Models**  
+  *Xialie Zhuang, Peixian Ma, Zhikai Jia, Zheng Cao, Shiwei Liu*. [[pdf](https://arxiv.org/pdf/2506.13404)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Small & Large Reasoning Model Collaboration
 
@@ -411,6 +423,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zilin Xiao, Jaywon Koo, Siru Ouyang, Jefferson Hernandez, Yu Meng, Vicente Ordonez*. [[pdf](https://arxiv.org/pdf/2505.24872)], [[code](https://github.com/MrZilinXiao/ProxyThinker)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ProxyThinker-blue) ![](https://img.shields.io/badge/CoTs_from_Multimodal_SRMs-green)
 - **What makes Reasoning Models Different? Follow the Reasoning Leader for Efficient Decoding**  
   *Ming Li, Zhengyuan Yang, Xiyao Wang, Dianqi Li, Kevin Lin, Tianyi Zhou, Lijuan Wang*. [[pdf](https://arxiv.org/pdf/2506.06998)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FoReaL--Decoding-blue)
+- **Collaborative LLM Inference via Planning for Efficient Reasoning**  
+  *Byeongchan Lee, Jonghoon Lee, Dongyoung Kim, Jaehyung Kim, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2506.11578)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Speculative Decoding for CoT Efficiency
 
