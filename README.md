@@ -488,6 +488,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Aradhye Agarwal, Ayan Sengupta, Tanmoy Chakraborty*. [[pdf](https://arxiv.org/pdf/2505.18149)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
 - **LLM-First Search: Self-Guided Exploration of the Solution Space**  
   *Nathan Herr, Tim Rocktäschel, Roberta Raileanu*. [[pdf](https://arxiv.org/pdf/2506.05213)], [[code](https://github.com/NathanHerr/LLM-First-Search)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LFS-blue)
+- **Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling**  
+  *Xinglin Wang, Yiwei Li, Shaoxiong Feng, Peiwen Yuan, Yueqi Zhang, Jiayi Shi, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li*. [[pdf](https://arxiv.org/pdf/2506.15707)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DORA-blue)
+- **𝚂𝙿𝙴𝙲𝚂: Faster Test-Time Scaling through Speculative Drafts**  
+  *Mert Cemri, Nived Rajaraman, Rishabh Tiwari, Xiaoxuan Liu, Kurt Keutzer, Ion Stoica, Kannan Ramchandran, Ahmad Beirami, Ziteng Sun*. [[pdf](https://arxiv.org/pdf/2506.15733)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPECS-blue)
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
