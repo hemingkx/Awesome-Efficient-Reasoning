@@ -295,6 +295,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xu Wan, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun*. [[pdf](https://arxiv.org/pdf/2506.18237)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs**  
   *Kang Chen, Mengdi Zhang, Yixin Cao*. [[pdf](https://arxiv.org/pdf/2506.18341)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Multilingual-green)
+- **AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control**  
+  *Ruosen Li, Ziming Luo, Quan Zhang, Ruochen Li, Ben Zhou, Ali Payani, Xinya Du*. [[pdf](https://arxiv.org/pdf/2506.20160)], [[code](https://github.com/du-nlp-lab/LengthReward)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Balanced Chain-of-Thought
 
@@ -518,6 +520,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Ethan Mendes, Alan Ritter*. [[pdf](https://arxiv.org/pdf/2503.02878)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--taught_Lookahead-blue)
 - **ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation**  
   *Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu, Qika Lin, Zhiyong Wu*. [[pdf](https://arxiv.org/pdf/2503.13288)], [[code](https://github.com/xufangzhi/phi-Decoding)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ϕ--Decoding-blue)
+- **Lost at the Beginning of Reasoning**  
+  *Baohao Liao, Xinyi Chen, Sara Rajaee, Yuhui Xu, Christian Herold, Anders Søgaard, Maarten de Rijke, Christof Monz*. [[pdf](https://arxiv.org/pdf/2506.22058)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Self-Consistency
 
@@ -616,6 +620,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Rongzhi Zhu, Yi Liu, Zequn Sun, Yiwei Wang, Wei Hu*. [[pdf](https://www.arxiv.org/pdf/2505.15276)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **On Reasoning Strength Planning in Large Reasoning Models**  
   *Leheng Sheng, An Zhang, Zijian Wu, Weixiang Zhao, Changshuo Shen, Yi Zhang, Xiang Wang, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2506.08390)], [[code](https://github.com/AlphaLab-USTC/LRM-plans-CoT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Reasoning_Length-green)
+- **Is Long-to-Short a Free Lunch? Investigating Inconsistency and Reasoning Efficiency in LRMs**  
+  *Shu Yang, Junchao Wu, Xuansheng Wu, Derek Wong, Ninhao Liu, Di Wang*. [[pdf](https://arxiv.org/pdf/2506.19492)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Long2Short_Inconsistency-green)
+- **Thought Anchors: Which LLM Reasoning Steps Matter?**  
+  *Paul C. Bogdan, Uzay Macar, Neel Nanda, Arthur Conmy*. [[pdf](https://arxiv.org/pdf/2506.19143)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Reasoning_Steps-green)
 
 ## Blog & Project
 
