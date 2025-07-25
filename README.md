@@ -154,6 +154,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu*. [[pdf](https://arxiv.org/pdf/2506.08552)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **DART: Distilling Autoregressive Reasoning to Silent Thought**  
   *Nan Jiang, Ziming Wu, De-Chuan Zhan, Fuming Lai, Shaobing Lian*. [[pdf](https://arxiv.org/pdf/2506.11752)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Parallel Continuous Chain-of-Thought with Jacobi Iteration**  
+  *Haoyi Wu, Zhihao Teng, Kewei Tu*. [[pdf](https://arxiv.org/pdf/2506.18582)], [[code](https://github.com/whyNLP/PCCoT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PCCoT-blue)
 
 ### Long-to-Short Chain-of-Thought
 
@@ -287,6 +289,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2506.14755)], [[code](https://github.com/zxiangx/LC-R1)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement**  
   *Weixiang Zhao, Jiahe Guo, Yang Deng, Xingyu Sui, Yulin Hu, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu*. [[pdf](https://arxiv.org/pdf/2506.15647)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Steering-green)
+- **ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation**  
+  *Siao Tang, Xinyin Ma, Gongfan Fang, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2506.18810)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **AdapThink: Adaptive Thinking Preferences for Reasoning Language Model**  
+  *Xu Wan, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun*. [[pdf](https://arxiv.org/pdf/2506.18237)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs**  
+  *Kang Chen, Mengdi Zhang, Yixin Cao*. [[pdf](https://arxiv.org/pdf/2506.18341)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Multilingual-green)
 
 ### Balanced Chain-of-Thought
 
