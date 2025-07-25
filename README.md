@@ -297,6 +297,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Kang Chen, Mengdi Zhang, Yixin Cao*. [[pdf](https://arxiv.org/pdf/2506.18341)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Multilingual-green)
 - **AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control**  
   *Ruosen Li, Ziming Luo, Quan Zhang, Ruochen Li, Ben Zhou, Ali Payani, Xinya Du*. [[pdf](https://arxiv.org/pdf/2506.20160)], [[code](https://github.com/du-nlp-lab/LengthReward)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model**  
+  *Bowen Ding, Yuhan Chen, Futing Wang, Lingfeng Ming, Tao Lin*. [[pdf](https://arxiv.org/pdf/2506.23840)], [[code](https://github.com/Danield21/Dual-Policy-Preference-Optimization)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **EfficientXLang: Towards Improving Token Efficiency Through Cross-Lingual Reasoning**  
+  *Sanchit Ahuja, Praneetha Vaddamanu, Barun Patra*. [[pdf](https://arxiv.org/pdf/2507.00246)], [[code](https://github.com/microsoft/EfficientXLang)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Multilingual-green)
 
 ### Balanced Chain-of-Thought
 
@@ -502,6 +506,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xinglin Wang, Yiwei Li, Shaoxiong Feng, Peiwen Yuan, Yueqi Zhang, Jiayi Shi, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li*. [[pdf](https://arxiv.org/pdf/2506.15707)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DORA-blue)
 - **𝚂𝙿𝙴𝙲𝚂: Faster Test-Time Scaling through Speculative Drafts**  
   *Mert Cemri, Nived Rajaraman, Rishabh Tiwari, Xiaoxuan Liu, Kurt Keutzer, Ion Stoica, Kannan Ramchandran, Ahmad Beirami, Ziteng Sun*. [[pdf](https://arxiv.org/pdf/2506.15733)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPECS-blue)
+- **BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute**  
+  *Dujian Ding, Ankur Mallick, Shaokun Zhang, Chi Wang, Daniel Madrigal, Mirian Del Carmen Hipolito Garcia, Menglin Xia, Laks V.S. Lakshmanan, Qingyun Wu, Victor Rühle*. [[pdf](https://arxiv.org/pdf/2506.22716)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/BEST--Route-blue)
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
