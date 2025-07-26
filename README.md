@@ -313,6 +313,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xingyang He, Xiao Ling, Jie Liu*. [[pdf](https://arxiv.org/pdf/2507.04348)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Controlling Thinking Speed in Reasoning Models**  
   *Zhengkai Lin, Zhihang Fu, Ze Chen, Chao Chen, Liang Xie, Wenxiao Wang, Deng Cai, Zheng Wang, Jieping Ye*. [[pdf](https://arxiv.org/pdf/2507.03704v1)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Steering-green)
+- **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**  
+  *Joonwon Jang, Jaehee Kim, Wonbin Kweon, Seonghyeon Lee, Hwanjo Yu*. [[pdf](https://aclanthology.org/2025.findings-acl.1068.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025--findings-orange)
 
 ### Balanced Chain-of-Thought
 
@@ -455,6 +457,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Ming Li, Zhengyuan Yang, Xiyao Wang, Dianqi Li, Kevin Lin, Tianyi Zhou, Lijuan Wang*. [[pdf](https://arxiv.org/pdf/2506.06998)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FoReaL--Decoding-blue)
 - **Collaborative LLM Inference via Planning for Efficient Reasoning**  
   *Byeongchan Lee, Jonghoon Lee, Dongyoung Kim, Jaehyung Kim, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2506.11578)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
+  *Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang*. [[pdf](https://arxiv.org/pdf/2507.17307)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Speculative Decoding for CoT Efficiency
 
