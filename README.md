@@ -62,6 +62,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Mohammad Ali Alomrani, Yingxue Zhang, Derek Li, Qianyi Sun, Soumyasundar Pal, Zhanguang Zhang, Yaochen Hu, Rohan Deepak Ajwani, Antonios Valkanas, Raika Karimi, Peng Cheng, Yunzhou Wang, Pengyi Liao, Hanrui Huang, Bin Wang, Jianye Hao, Mark Coates*. [[pdf](https://arxiv.org/pdf/2507.02076)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **A Survey on Latent Reasoning**  
   *Rui-Jie Zhu, Tianhao Peng, Tianhao Cheng, Xingwei Qu, Jinfa Huang, Dawei Zhu, Hao Wang, Kaiwen Xue, Xuanliang Zhang, Yong Shan, Tianle Cai, Taylor Kergan, Assel Kembay, Andrew Smith, Chenghua Lin, Binh Nguyen, Yuqi Pan, Yuhong Chou, Zefan Cai, Zhenhe Wu, Yongchi Zhao, Tianyu Liu, Jian Yang, Wangchunshu Zhou, Chujie Zheng, Chongxuan Li, Yuyin Zhou, Zhoujun Li, Zhaoxiang Zhang, Jiaheng Liu, Ge Zhang, Wenhao Huang, Jason Eshraghian*. [[pdf](https://arxiv.org/pdf/2507.06203)], [[paper list](https://github.com/multimodal-art-projection/LatentCoT-Horizon/)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Towards Concise and Adaptive Thinking in Large Reasoning Models: A Survey**  
+  *Jason Zhu, Hongyu Li*. [[pdf](https://arxiv.org/pdf/2507.09662)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Training
 
@@ -475,6 +477,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zefan Cai, Wen Xiao, Hanshi Sun, Cheng Luo, Yikai Zhang, Ke Wan, Yucheng Li, Yeyang Zhou, Li-Wen Chang, Jiuxiang Gu, Zhen Dong, Anima Anandkumar, Abedelkadir Asi, Junjie Hu*. [[pdf](https://arxiv.org/pdf/2505.24133)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--KV-blue)
 - **SeerAttention-R: Sparse Attention Adaptation for Long Reasoning**  
   *Yizhao Gao, Shuming Guo, Shijie Cao, Yuqing Xia, Yu Cheng, Lei Wang, Lingxiao Ma, Yutao Sun, Tianzhu Ye, Li Dong, Hayden Kwok-Hay So, Yu Hua, Ting Cao, Fan Yang, Mao Yang*. [[pdf](https://arxiv.org/pdf/2506.08889)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SeerAttention--R-blue)
+- **Think Clearly: Improving Reasoning via Redundant Token Pruning**  
+  *Daewon Choi, Jimin Lee, Jihoon Tack, Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/pdf/2507.08806)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Optimal Test-Time Scaling
 
