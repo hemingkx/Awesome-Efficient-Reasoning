@@ -160,7 +160,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Nan Jiang, Ziming Wu, De-Chuan Zhan, Fuming Lai, Shaobing Lian*. [[pdf](https://arxiv.org/pdf/2506.11752)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Parallel Continuous Chain-of-Thought with Jacobi Iteration**  
   *Haoyi Wu, Zhihao Teng, Kewei Tu*. [[pdf](https://arxiv.org/pdf/2506.18582)], [[code](https://github.com/whyNLP/PCCoT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PCCoT-blue)
-- 
 
 ### Long-to-Short Chain-of-Thought
 
