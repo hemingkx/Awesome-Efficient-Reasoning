@@ -91,12 +91,16 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Kianté Brantley, Mingyu Chen, Zhaolin Gao, Jason D. Lee, Wen Sun, Wenhao Zhan, Xuezhou Zhang*. [[pdf](https://arxiv.org/pdf/2505.20686)], [[code](https://github.com/ZhaolinGao/A-PO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/A*--PO-blue)
 - **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning**  
   *Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin*. [[pdf](https://arxiv.org/pdf/2506.01939)], [[homepage](https://shenzhi-wang.github.io/high-entropy-minority-tokens-rlvr/)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Training_with_High--Entropy_Tokens-green)
+- **Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts**  
+  *Haizhong Zheng, Yang Zhou, Brian R. Bartoldson, Bhavya Kailkhura, Fan Lai, Jiawei Zhao, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2506.02177)], [[homepage](https://infini-ai-lab.github.io/GRESO/)], [[code](https://github.com/Infini-AI-Lab/GRESO)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Selective_Rollouts-green)
 - **EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**  
   *Jinghan Jia, Hadi Reisizadeh, Chongyu Fan, Nathalie Baracaldo, Mingyi Hong, Sijia Liu*. [[pdf](https://arxiv.org/pdf/2506.04205)], [[code](https://github.com/OPTML-Group/EPiC)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EPiC-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **SPEED-RL: Faster Training of Reasoning Models via Online Curriculum Learning**  
   *Ruiqi Zhang, Daman Arora, Song Mei, Andrea Zanette*. [[pdf](https://arxiv.org/pdf/2506.09016)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPEED--RL-blue)
 - **Truncated Proximal Policy Optimization**  
   *Tiantian Fan, Lingjun Liu, Yu Yue, Jiaze Chen, Chengyi Wang, Qiying Yu, Chi Zhang, Zhiqi Lin, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Bole Ma, Mofan Zhang, Gaohong Liu, Ru Zhang, Haotian Zhou, Cong Xie, Ruidong Zhu, Zhi Zhang, Xin Liu, Mingxuan Wang, Lin Yan, Yonghui Wu*. [[pdf](https://arxiv.org/pdf/2506.15050)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/T--PPO-blue)
+- **QFFT, Question-Free Fine-Tuning for Adaptive Reasoning**  
+  *Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, Ke Ji, Wenyu Chen, Yan Xu, Yasheng Wang, Lifeng Shang, Benyou Wang*. [[pdf](https://arxiv.org/pdf/2506.12860)], [[code](https://github.com/LWL-cpu/Question-Free-Fine-Tuning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/QFFT-blue)
 
 ### Latent Chain-of-Thought
 
@@ -652,6 +656,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Shu Yang, Junchao Wu, Xuansheng Wu, Derek Wong, Ninhao Liu, Di Wang*. [[pdf](https://arxiv.org/pdf/2506.19492)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Long2Short_Inconsistency-green)
 - **Thought Anchors: Which LLM Reasoning Steps Matter?**  
   *Paul C. Bogdan, Uzay Macar, Neel Nanda, Arthur Conmy*. [[pdf](https://arxiv.org/pdf/2506.19143)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Reasoning_Steps-green)
+- **What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective**  
+  *Ming Li, Yanhong Li, Tianyi Zhou*. [[pdf](https://aclanthology.org/2025.acl-long.1545/)],  [[code](https://github.com/MingLiiii/Layer_Gradient?tab=readme-ov-file)], 2025.06. ![](https://img.shields.io/badge/ACL2025--Oral-orange)
 - **Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer**  
   *Wenquan Lu, Yuechuan Yang, Kyle Lee, Yanshu Li, Enqi Liu*. [[pdf](https://arxiv.org/pdf/2507.02199)], [[code](https://github.com/wenquanlu/huginn-latent-cot)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
