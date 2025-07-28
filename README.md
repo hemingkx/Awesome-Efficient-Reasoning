@@ -265,6 +265,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Mingyang Song, Mao Zheng*. [[pdf](https://arxiv.org/pdf/2505.21178)], [[code](https://github.com/nick7nlp/ConciseR)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
 - **CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models**  
   *Siqi Fan, Peng Han, Shuo Shang, Yequan Wang, Aixin Sun*. [[pdf](https://arxiv.org/pdf/2505.22017)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Outline_by_InstructLM-green)
+- **Stable Reinforcement Learning for Efficient Reasoning**  
+  *Muzhi Dai, Shixuan Liu, Qingyi Si*. [[pdf](https://arxiv.org/pdf/2505.18086)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
 - **Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models**  
   *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **A\*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings**  
@@ -367,6 +369,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Ruiqi Zhang, Changyi Xiao, Yixin Cao*. [[pdf](https://arxiv.org/pdf/2506.04182)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwitchCoT-blue)
 - **Token Signature: Predicting Chain-of-Thought Gains with Token Decoding Feature in Large Language Models**  
   *Peijie Liu, Fengli Xu, Yong Li*. [[pdf](https://arxiv.org/pdf/2506.06008)], [[code](https://github.com/tsinghua-fib-lab/Token_Signature)], 2025.06. ![](https://img.shields.io/badge/ICML2025-orange)
+- **SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**  
+  *Wencheng Zhang, Shiqin Qiao, Lingjie Luo, Yinfeng Li, Chuanyang Zheng, Qian Xu, Meng Li, Yong Gui, Yijun He, Jianing Qiu, Jindong Hong, Jiankai Sun*. [[pdf](https://arxiv.org/pdf/2507.02822)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SynapseRoute-blue)
 
 ### Reasoning Shortcuts
 
