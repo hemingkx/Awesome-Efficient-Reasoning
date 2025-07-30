@@ -556,6 +556,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Baohao Liao, Xinyi Chen, Sara Rajaee, Yuhui Xu, Christian Herold, Anders Søgaard, Maarten de Rijke, Christof Monz*. [[pdf](https://arxiv.org/pdf/2506.22058)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework**  
   *Zenan Xu, Zexuan Qiu, Guanhua Huang, Kun Li, Siheng Li, Chenchen Zhang, Kejiao Li, Qi Yi, Yuhao Jiang, Bo Zhou, Fengzong Lian, Zhanhui Kang*. [[pdf](https://arxiv.org/pdf/2507.06829)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **MUR: Momentum Uncertainty guided Reasoning for Large Language Models**  
+  *Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, Qika Lin, Jun Liu*. [[pdf](https://arxiv.org/pdf/2507.14958)], [[code](https://github.com/yayayacc/MUR)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Self-Consistency
 
