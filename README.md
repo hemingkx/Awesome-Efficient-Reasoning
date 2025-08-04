@@ -602,16 +602,18 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yiliu Sun, Yanfang Zhang, Zicheng Zhao, Sheng Wan, Dacheng Tao, Chen Gong*. [[pdf](https://arxiv.org/pdf/2504.08690)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System2-green)
 - **Learning Adaptive Parallel Reasoning with Language Models**  
   *Jiayi Pan, Xiuyu Li, Long Lian, Charlie Snell, Yifei Zhou, Adam Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr*. [[pdf](https://arxiv.org/pdf/2504.15466)], [[code](https://github.com/Parallel-Reasoning/APR)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/APR-blue) ![](https://img.shields.io/badge/Parallel_Computation-green)
+- **M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**  
+  *Junxiong Wang, Wen-Ding Li, Daniele Paliotta, Daniel Ritter, Alexander M. Rush, Tri Dao*. [[pdf](https://arxiv.org/pdf/2504.10449)], [[code](https://github.com/jxiw/M1)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/M1-blue) ![](https://img.shields.io/badge/Mamba-green)
 - **Group Think: Multiple Concurrent Reasoning Agents Collaborating at Token Level Granularity**  
   *Chan-Jan Hsu, Davide Buffelli, Jamie McGowan, Feng-Ting Liao, Yi-Chang Chen, Sattar Vakili, Da-shan Shiu*. [[pdf](https://arxiv.org/pdf/2505.11107)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
 - **Thinker: Learning to Think Fast and Slow**  
   *Stephen Chung, Wenyu Du, Jie Fu*. [[pdf](https://arxiv.org/pdf/2505.21097)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System2-green)
+- **Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**  
+  *Xinyu Yang, Yuwei An, Hongyi Liu, Tianqi Chen, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2506.09991)], [[homepage](https://multiverse4fm.github.io/)], [[code](https://github.com/Infini-AI-Lab/Multiverse)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
 - **SPRINT: Enabling Interleaved Planning and Parallelized Execution in Reasoning Models**  
   *Emil Biju, Shayan Talaei, Zhemin Huang, Mohammadreza Pourreza, Azalia Mirhoseini, Amin Saberi*. [[pdf](https://arxiv.org/pdf/2506.05745)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPRINT-blue) ![](https://img.shields.io/badge/Parallel_Execution-green)
 - **Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router**  
   *Chenyang Shao, Xinyang Liu, Yutang Lin, Fengli Xu, Yong Li*. [[pdf](https://arxiv.org/pdf/2506.05901)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R2--Reasoner-blue) ![](https://img.shields.io/badge/Model_Router-green)
-- **Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**  
-  *Xinyu Yang, Yuwei An, Hongyi Liu, Tianqi Chen, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2506.09991)], [[homepage](https://multiverse4fm.github.io/)], [[code](https://github.com/Infini-AI-Lab/Multiverse)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
 
 ### Benchmarks
 
