@@ -64,6 +64,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Rui-Jie Zhu, Tianhao Peng, Tianhao Cheng, Xingwei Qu, Jinfa Huang, Dawei Zhu, Hao Wang, Kaiwen Xue, Xuanliang Zhang, Yong Shan, Tianle Cai, Taylor Kergan, Assel Kembay, Andrew Smith, Chenghua Lin, Binh Nguyen, Yuqi Pan, Yuhong Chou, Zefan Cai, Zhenhe Wu, Yongchi Zhao, Tianyu Liu, Jian Yang, Wangchunshu Zhou, Chujie Zheng, Chongxuan Li, Yuyin Zhou, Zhoujun Li, Zhaoxiang Zhang, Jiaheng Liu, Ge Zhang, Wenhao Huang, Jason Eshraghian*. [[pdf](https://arxiv.org/pdf/2507.06203)], [[paper list](https://github.com/multimodal-art-projection/LatentCoT-Horizon/)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Towards Concise and Adaptive Thinking in Large Reasoning Models: A Survey**  
   *Jason Zhu, Hongyu Li*. [[pdf](https://arxiv.org/pdf/2507.09662)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models**  
+  *Linan Yue, Yichao Du, Yizhi Wang, Weibo Gao, Fangzhou Yao, Li Wang, Ye Liu, Ziyu Xu, Qi Liu, Shimin Di, Min-Ling Zhang*. [[pdf](https://arxiv.org/pdf/2508.02120)], [[paper list](https://github.com/yuelinan/Awesome-Efficient-R1-style-LRMs)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Training
 
@@ -321,6 +323,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhengkai Lin, Zhihang Fu, Ze Chen, Chao Chen, Liang Xie, Wenxiao Wang, Deng Cai, Zheng Wang, Jieping Ye*. [[pdf](https://arxiv.org/pdf/2507.03704v1)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Steering-green)
 - **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**  
   *Joonwon Jang, Jaehee Kim, Wonbin Kweon, Seonghyeon Lee, Hwanjo Yu*. [[pdf](https://aclanthology.org/2025.findings-acl.1068.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025--findings-orange)
+- **Test-time Prompt Intervention**  
+  *Chenxu Yang, Qingyi Si, Muzhi Dai, Dingyu Yao, Mingyu Zheng, Minghui Chen, Zheng Lin, Weiping Wang*. [[pdf](https://arxiv.org/pdf/2508.02511)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PI-blue)
+- **Reconsidering Overthinking: Penalizing Internal and External Redundancy in CoT Reasoning**  
+  *Jialiang Hong, Taihang Zhen, Kai Chen, Jiaheng Liu, Wenpeng Zhu, Jing Huo, Yang Gao, Depeng Wang, Haitao Wan, Xi Yang, Boyan Wang, Fanyu Meng*. [[pdf](https://www.arxiv.org/pdf/2508.02178)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Balanced Chain-of-Thought
 
@@ -614,6 +620,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Emil Biju, Shayan Talaei, Zhemin Huang, Mohammadreza Pourreza, Azalia Mirhoseini, Amin Saberi*. [[pdf](https://arxiv.org/pdf/2506.05745)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPRINT-blue) ![](https://img.shields.io/badge/Parallel_Execution-green)
 - **Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router**  
   *Chenyang Shao, Xinyang Liu, Yutang Lin, Fengli Xu, Yong Li*. [[pdf](https://arxiv.org/pdf/2506.05901)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R2--Reasoner-blue) ![](https://img.shields.io/badge/Model_Router-green)
+- **Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling**  
+  *Seyyed Saeid Cheshmi, Azal Ahmad Khan, Xinran Wang, Zirui Liu, Ali Anwar*. [[pdf](https://arxiv.org/pdf/2508.01969)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Benchmarks
 
@@ -691,6 +699,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - [Hongcheng-Gao/Awesome-Long2short-on-LRMs](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs)
 - [EIT-NLP/Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 - [yzhangchuck/awesome-llm-reasoning-long2short-papers](https://github.com/yzhangchuck/awesome-llm-reasoning-long2short-papers)
+- [yuelinan/Awesome-Efficient-R1-style-LRMs](https://github.com/yuelinan/Awesome-Efficient-R1-style-LRMs)
 
 ## Contributors
 
