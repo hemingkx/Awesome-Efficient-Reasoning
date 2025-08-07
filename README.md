@@ -327,6 +327,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chenxu Yang, Qingyi Si, Muzhi Dai, Dingyu Yao, Mingyu Zheng, Minghui Chen, Zheng Lin, Weiping Wang*. [[pdf](https://arxiv.org/pdf/2508.02511)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PI-blue)
 - **Reconsidering Overthinking: Penalizing Internal and External Redundancy in CoT Reasoning**  
   *Jialiang Hong, Taihang Zhen, Kai Chen, Jiaheng Liu, Wenpeng Zhu, Jing Huo, Yang Gao, Depeng Wang, Haitao Wan, Xi Yang, Boyan Wang, Fanyu Meng*. [[pdf](https://www.arxiv.org/pdf/2508.02178)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Compressing Chain-of-Thought in LLMs via Step Entropy**  
+  *Zeju Li, Jianyuan Zhong, Ziyang Zheng, Xiangyu Wen, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu*. [[pdf](https://arxiv.org/pdf/2508.03346)], [[code](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Balanced Chain-of-Thought
 
@@ -400,6 +402,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.17827)], [[code](https://github.com/Faustrazor/Not-All-Thinking-Tokens)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Shortcut-green)
 - **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**  
   *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models**  
+  *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **Compressing Chain-of-Thought in LLMs via Step Entropy**  
+  *Zeju Li, Jianyuan Zhong, Ziyang Zheng, Xiangyu Wen, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu*. [[pdf](https://arxiv.org/pdf/2508.03346)], [[code](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Reasoning Step Decomposition
 
