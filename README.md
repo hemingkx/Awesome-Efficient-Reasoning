@@ -26,6 +26,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Other Work](#other-work)
   - [Benchmarks](#benchmarks)
   - [Analysis](#analysis)
+  - [Applications](#applications)
 - [Blogs](#blog--project)
 - [Talks](#talks)
 - [Resources](#resources)
@@ -331,6 +332,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zeju Li, Jianyuan Zhong, Ziyang Zheng, Xiangyu Wen, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu*. [[pdf](https://arxiv.org/pdf/2508.03346)], [[code](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression**  
   *Jiameng Huang, Baijiong Lin, Guhao Feng, Jierun Chen, Di He, Lu Hou*. [[pdf](https://arxiv.org/pdf/2508.05337)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CGRS-blue)
+- **Train Long, Think Short: Curriculum Learning for Efficient Reasoning**  
+  *Hasan Abed Al Kader Hammoud, Kumail Alhamoud, Abed Hammoud, Elie Bou-Zeid, Marzyeh Ghassemi, Bernard Ghanem*. [[pdf](https://arxiv.org/pdf/2508.08940)], [[code](https://github.com/hammoudhasan/curriculum_grpo)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Balanced Chain-of-Thought
 
@@ -408,6 +411,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **Compressing Chain-of-Thought in LLMs via Step Entropy**  
   *Zeju Li, Jianyuan Zhong, Ziyang Zheng, Xiangyu Wen, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu*. [[pdf](https://arxiv.org/pdf/2508.03346)], [[code](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal**  
+  *Wenhao Zeng, Yaoning Wang, Chao Hu, Yuling Shi, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu*. [[pdf](https://arxiv.org/pdf/2508.05988)], [[code](https://github.com/Zengwh02/ASAP)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
 
 ### Reasoning Step Decomposition
 
@@ -505,6 +510,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yizhao Gao, Shuming Guo, Shijie Cao, Yuqing Xia, Yu Cheng, Lei Wang, Lingxiao Ma, Yutao Sun, Tianzhu Ye, Li Dong, Hayden Kwok-Hay So, Yu Hua, Ting Cao, Fan Yang, Mao Yang*. [[pdf](https://arxiv.org/pdf/2506.08889)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SeerAttention--R-blue)
 - **Think Clearly: Improving Reasoning via Redundant Token Pruning**  
   *Daewon Choi, Jimin Lee, Jihoon Tack, Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/pdf/2507.08806)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Less Is More: Training-Free Sparse Attention with Global Locality for Efficient Reasoning**  
+  *Lijie Yang, Zhihao Zhang, Arti Jain, Shijie Cao, Baihong Yuan, Yiwei Chen, Zhihao Jia, Ravi Netravali*. [[pdf](https://arxiv.org/pdf/2508.07101)], [[code](https://github.com/DerrickYLJ/LessIsMore)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Optimal Test-Time Scaling
 
@@ -684,6 +691,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Ming Li, Yanhong Li, Tianyi Zhou*. [[pdf](https://aclanthology.org/2025.acl-long.1545/)],  [[code](https://github.com/MingLiiii/Layer_Gradient?tab=readme-ov-file)], 2025.06. ![](https://img.shields.io/badge/ACL2025--Oral-orange)
 - **Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer**  
   *Wenquan Lu, Yuechuan Yang, Kyle Lee, Yanshu Li, Enqi Liu*. [[pdf](https://arxiv.org/pdf/2507.02199)], [[code](https://github.com/wenquanlu/huginn-latent-cot)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+
+### Applications
+
+- **Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal**  
+  *Wenhao Zeng, Yaoning Wang, Chao Hu, Yuling Shi, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu*. [[pdf](https://arxiv.org/pdf/2508.05988)], [[code](https://github.com/Zengwh02/ASAP)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Code-green)
+- **Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning**  
+  *Shu Wu, Chenxing Li, Wenfu Wang, Hao Zhang, Hualei Wang, Meng Yu, Dong Yu*. [[pdf](https://arxiv.org/pdf/2508.08039)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Audio-green)
 
 ## Blog & Project
 
