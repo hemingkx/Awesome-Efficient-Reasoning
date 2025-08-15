@@ -10,7 +10,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Efficient Training](#efficient-training)
   - [Latent Chain-of-Thought](#latent-chain-of-thought)
   - [Long-to-Short Chain-of-Thought](#long-to-short-chain-of-thought)
-  - [Balanced Chain-of-Thought](#balanced-chain-of-thought)
   - [Adaptive Thinking](#adaptive-thinking)
   - [Reasoning Shortcuts](#reasoning-shortcuts)
   - [Reasoning Step Decomposition](#reasoning-step-decomposition)
@@ -176,10 +175,20 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang*. [[pdf](https://arxiv.org/pdf/2305.10276)], [[code](https://github.com/hanxuhu/chain-of-symbol-planning)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models**  
   *Matthew Renze, Erhan Guven*. [[pdf](https://arxiv.org/pdf/2401.05618)], [[code](https://github.com/matthewrenze/jhu-concise-cot)], 2024.01. ![](https://img.shields.io/badge/FLLM2024-orange) ![](https://img.shields.io/badge/CCoT-blue)
+- **Efficiently Serving LLM Reasoning Programs with Certaindex**  
+  *Yichao Fu, Junda Chen, Siqi Zhu, Zheyu Fu, Zhongdongming Dai, Aurick Qiao, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2412.20993)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dynasor-blue)
 - **C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness**  
   *Yu Kang, Xianghui Sun, Liangyu Chen, Wei Zou*. [[pdf](https://arxiv.org/pdf/2412.11664)], 2024.12. ![](https://img.shields.io/badge/AAAI2025-orange) ![](https://img.shields.io/badge/C3oT-blue)
 - **Token-Budget-Aware LLM Reasoning**  
   *Tingxu Han, Zhenting Wang, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen*. [[pdf](https://arxiv.org/pdf/2412.18547)], [[code](https://github.com/GeniusHTX/TALE)], 2024.12. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/TALE-blue) ![](https://img.shields.io/badge/Prompt-green)
+- **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning**  
+  *Haotian Luo, Li Shen, Haiying He, Yibo Wang, Shiwei Liu, Wei Li, Naiqiang Tan, Xiaochun Cao, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2501.12570)], [[code](https://github.com/StarDewXXX/O1-Pruner)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/O1--Pruner-blue)
+- **Kimi k1.5: Scaling Reinforcement Learning with LLMs**  
+  *Kimi Team*. [[pdf](https://arxiv.org/pdf/2501.12599)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Kimi_k1.5-blue)
+- **Training Language Models to Reason Efficiently**  
+  *Daman Arora, Andrea Zanette*. [[pdf](https://arxiv.org/pdf/2502.04463)], [[code](https://github.com/Zanette-Labs/efficient-reasoning)], [[homepage](https://zanette-labs.github.io/efficient-reasoning/)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models**  
+  *Yuan Sui, Yufei He, Tri Cao, Simeng Han, Bryan Hooi*. [[pdf](https://arxiv.org/pdf/2502.19918)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Meta--Reasoner-blue)
 - **CoT-Valve: Length-Compressible Chain-of-Thought Tuning**  
   *Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2502.09601)], [[code](https://github.com/horseee/CoT-Valve)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/CoT--Valve-blue)
 - **TokenSkip: Controllable Chain-of-Thought Compression in LLMs**  
@@ -190,6 +199,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Silei Xu, Wenhao Xie, Lingxiao Zhao, Pengcheng He*. [[pdf](https://arxiv.org/pdf/2502.18600)], [[code](https://github.com/sileix/chain-of-draft)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoD-blue) ![](https://img.shields.io/badge/Prompt-green)
 - **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**  
   *Pranjal Aggarwal, Sean Welleck*. [[pdf](https://www.arxiv.org/pdf/2503.04697)], [[code](https://github.com/cmu-l3/l1)], [[homepage](https://cmu-l3.github.io/l1/)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/L1-blue) ![](https://img.shields.io/badge/Length_Control-green)
+- **DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models**  
+  *Yi Shen, Jian Zhang, Jieyun Huang, Shuming Shi, Wenjing Zhang, Jiangze Yan, Ning Wang, Kai Wang, Shiguo Lian*. [[pdf](https://arxiv.org/pdf/2503.04472)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAST-blue)
 - **How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach**  
   *Ayeong Lee, Ethan Che, Tianyi Peng*. [[pdf](https://arxiv.org/pdf/2503.01141)], [[code](https://github.com/Compressed-CoT/compressed-cot)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prompt-green)
 - **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching**  
@@ -292,6 +303,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xiangning Yu, Zhuohan Wang, Linyi Yang, Haoxuan Li, Anjie Liu, Xiao Xue, Jun Wang, Mengyue Yang*. [[pdf](https://arxiv.org/pdf/2506.09853)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/In--context_Learning&SFT-green)
 - **PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models**  
   *Ye Yu, Yaoning Yu, Haohan Wang*. [[pdf](https://arxiv.org/pdf/2506.10716)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prompting-green)
+- **Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**  
+  *Violet Xiang, Chase Blagden, Rafael Rafailov, Nathan Lile, Sang Truong, Chelsea Finn, Nick Haber*. [[pdf](https://arxiv.org/pdf/2506.05256)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ALP-blue) ![](https://img.shields.io/badge/Length_Control-green)
 - **ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization**  
   *Zhensheng Jin, Xinze Li, Yifan Ji, Chunyi Peng, Zhenghao Liu, Qi Shi, Yukun Yan, Shuo Wang, Furong Peng, Ge Yu*. [[pdf](https://arxiv.org/pdf/2506.10822)], [[code](https://github.com/NEUIR/ReCUT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty**  
@@ -334,25 +347,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jiameng Huang, Baijiong Lin, Guhao Feng, Jierun Chen, Di He, Lu Hou*. [[pdf](https://arxiv.org/pdf/2508.05337)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CGRS-blue)
 - **Train Long, Think Short: Curriculum Learning for Efficient Reasoning**  
   *Hasan Abed Al Kader Hammoud, Kumail Alhamoud, Abed Hammoud, Elie Bou-Zeid, Marzyeh Ghassemi, Bernard Ghanem*. [[pdf](https://arxiv.org/pdf/2508.08940)], [[code](https://github.com/hammoudhasan/curriculum_grpo)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
-
-### Balanced Chain-of-Thought
-
-> Balanced CoT allocates more compute to hard questions, reduces compute for simpler ones.
-
-- **Efficiently Serving LLM Reasoning Programs with Certaindex**  
-  *Yichao Fu, Junda Chen, Siqi Zhu, Zheyu Fu, Zhongdongming Dai, Aurick Qiao, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2412.20993)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dynasor-blue)
-- **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning**  
-  *Haotian Luo, Li Shen, Haiying He, Yibo Wang, Shiwei Liu, Wei Li, Naiqiang Tan, Xiaochun Cao, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2501.12570)], [[code](https://github.com/StarDewXXX/O1-Pruner)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/O1--Pruner-blue)
-- **Kimi k1.5: Scaling Reinforcement Learning with LLMs**  
-  *Kimi Team*. [[pdf](https://arxiv.org/pdf/2501.12599)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Kimi_k1.5-blue)
-- **Training Language Models to Reason Efficiently**  
-  *Daman Arora, Andrea Zanette*. [[pdf](https://arxiv.org/pdf/2502.04463)], [[code](https://github.com/Zanette-Labs/efficient-reasoning)], [[homepage](https://zanette-labs.github.io/efficient-reasoning/)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models**  
-  *Yuan Sui, Yufei He, Tri Cao, Simeng Han, Bryan Hooi*. [[pdf](https://arxiv.org/pdf/2502.19918)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Meta--Reasoner-blue)
-- **DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models**  
-  *Yi Shen, Jian Zhang, Jieyun Huang, Shuming Shi, Wenjing Zhang, Jiangze Yan, Ning Wang, Kai Wang, Shiguo Lian*. [[pdf](https://arxiv.org/pdf/2503.04472)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DAST-blue)
-- **Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**  
-  *Violet Xiang, Chase Blagden, Rafael Rafailov, Nathan Lile, Sang Truong, Chelsea Finn, Nick Haber*. [[pdf](https://arxiv.org/pdf/2506.05256)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ALP-blue) ![](https://img.shields.io/badge/Length_Control-green)
+- **Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning**  
+  *Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, Shivam Garg, Harkirat Behl, Dimitris Papailiopoulos*. [[pdf](https://arxiv.org/pdf/2508.09726)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GFPO-blue)
+- **SABER: Switchable and Balanced Training for Efficient LLM Reasoning**  
+  *Kai Zhao, Yanjun Zhao, Jiaming Song, Shien He, Lusheng Zhang, Qiang Zhang, Tianjiao Li*. [[pdf](https://arxiv.org/pdf/2508.10026)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SABER-blue)
+- **Promoting Efficient Reasoning with Verifiable Stepwise Reward**  
+  *Chuhuai Yue, Chengqi Dong, Yinan Gao, Hang He, Jiajun Chai, Guojun Yin, Wei Lin*. [[pdf](https://arxiv.org/pdf/2508.10293)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VSRM-blue)
 
 ### Adaptive Thinking
 
