@@ -168,6 +168,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Nan Jiang, Ziming Wu, De-Chuan Zhan, Fuming Lai, Shaobing Lian*. [[pdf](https://arxiv.org/pdf/2506.11752)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Parallel Continuous Chain-of-Thought with Jacobi Iteration**  
   *Haoyi Wu, Zhihao Teng, Kewei Tu*. [[pdf](https://arxiv.org/pdf/2506.18582)], [[code](https://github.com/whyNLP/PCCoT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PCCoT-blue)
+- **Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models**  
+  *Tan-Hanh Pham, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2508.12587)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MCOUT-blue)
 
 ### Long-to-Short Chain-of-Thought
 
@@ -192,7 +194,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **CoT-Valve: Length-Compressible Chain-of-Thought Tuning**  
   *Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2502.09601)], [[code](https://github.com/horseee/CoT-Valve)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/CoT--Valve-blue)
 - **TokenSkip: Controllable Chain-of-Thought Compression in LLMs**  
-  *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2502.12067)], [[code](https://github.com/hemingkx/TokenSkip)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TokenSkip-blue) ![](https://img.shields.io/badge/Controllable_Compression-green)
+  *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2502.12067)], [[code](https://github.com/hemingkx/TokenSkip)], 2025.02. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/TokenSkip-blue) ![](https://img.shields.io/badge/Controllable_Compression-green)
 - **Self-Training Elicits Concise Reasoning in Large Language Models**  
   *Tergel Munkhbat, Namgyu Ho, Seo Hyun Kim, Yongjin Yang, Yujin Kim, Se-Young Yun*. [[pdf](https://arxiv.org/pdf/2502.20122)], [[code](https://github.com/TergelMunkhbat/concise-reasoning)], 2025.02. ![](https://img.shields.io/badge/ACL2025--findings-orange)
 - **Chain of Draft: Thinking Faster by Writing Less**  
@@ -353,6 +355,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Kai Zhao, Yanjun Zhao, Jiaming Song, Shien He, Lusheng Zhang, Qiang Zhang, Tianjiao Li*. [[pdf](https://arxiv.org/pdf/2508.10026)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SABER-blue)
 - **Promoting Efficient Reasoning with Verifiable Stepwise Reward**  
   *Chuhuai Yue, Chengqi Dong, Yinan Gao, Hang He, Jiajun Chai, Guojun Yin, Wei Lin*. [[pdf](https://arxiv.org/pdf/2508.10293)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VSRM-blue)
+- **Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models**  
+  *Qiguang Chen, Dengyun Peng, Jinhao Liu, HuiKang Su, Jiannan Guan, Libo Qin, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2508.11582)], [[code](https://github.com/sfasfaffa/DR_SAF)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DR.SAF-blue)
 
 ### Adaptive Thinking
 
@@ -650,6 +654,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhiyuan Li, Yi Chang, Yuan Wu*. [[pdf](https://arxiv.org/pdf/2505.22113)], [[homepage](https://think-bench.github.io/)], [[code](https://github.com/ZhiyuanLi218/Think-Bench)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/THINK--Bench-blue)
 - **LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models**  
   *Gaurav Srivastava, Aafiya Hussain, Sriram Srinivasan, Xuan Wang*. [[pdf](https://arxiv.org/pdf/2507.04023)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LLMThinkBench-blue)
+- **OptimalThinkingBench: Evaluating Over and Underthinking in LLMs**  
+  *Pranjal Aggarwal, Seungone Kim, Jack Lanchantin, Sean Welleck, Jason Weston, Ilia Kulikov, Swarnadeep Saha*. [[pdf](https://arxiv.org/pdf/2508.13141)], [[code](https://github.com/facebookresearch/RAM/tree/main/projects/otb)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/OptimalThinkingBench-blue)
 
 ### Analysis
 
