@@ -388,6 +388,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Peijie Liu, Fengli Xu, Yong Li*. [[pdf](https://arxiv.org/pdf/2506.06008)], [[code](https://github.com/tsinghua-fib-lab/Token_Signature)], 2025.06. ![](https://img.shields.io/badge/ICML2025-orange)
 - **SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**  
   *Wencheng Zhang, Shiqin Qiao, Lingjie Luo, Yinfeng Li, Chuanyang Zheng, Qian Xu, Meng Li, Yong Gui, Yijun He, Jianing Qiu, Jindong Hong, Jiankai Sun*. [[pdf](https://arxiv.org/pdf/2507.02822)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SynapseRoute-blue)
+- **Think in Blocks: Adaptive Reasoning from Direct Response to Deep Reasoning**  
+  *Yekun Zhu, Guang Chen, Chengjun Mao*. [[pdf](https://arxiv.org/pdf/2508.15507)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Reasoning Shortcuts
 
@@ -559,6 +561,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Mert Cemri, Nived Rajaraman, Rishabh Tiwari, Xiaoxuan Liu, Kurt Keutzer, Ion Stoica, Kannan Ramchandran, Ahmad Beirami, Ziteng Sun*. [[pdf](https://arxiv.org/pdf/2506.15733)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPECS-blue)
 - **BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute**  
   *Dujian Ding, Ankur Mallick, Shaokun Zhang, Chi Wang, Daniel Madrigal, Mirian Del Carmen Hipolito Garcia, Menglin Xia, Laks V.S. Lakshmanan, Qingyun Wu, Victor Rühle*. [[pdf](https://arxiv.org/pdf/2506.22716)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/BEST--Route-blue)
+- **Deep Think with Confidence**  
+  *Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao*. [[pdf](https://arxiv.org/pdf/2508.15260)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DeepConf-blue)
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
