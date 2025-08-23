@@ -272,7 +272,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models**  
   *Razvan-Gabriel Dumitru, Darius Peteleaza, Vikas Yadav, Liangming Pan*. [[pdf](https://www.arxiv.org/pdf/2505.17250)], [[code](https://github.com/RazvanDu/ConciseRL)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ConciseRL-blue)
 - **TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling**  
-  *Weizhe Lin, Xing Li, Zhiyuan Yang, Xiaojin Fu, Hui-Ling Zhen, Yaoyuan Wang, Xianzhi Yu, Wulong Liu, Xiaosong Li, Mingxuan Yuan*. [[pdf](https://arxiv.org/pdf/2505.17155)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TrimR-blue)
+  *Weizhe Lin, Xing Li, Zhiyuan Yang, Xiaojin Fu, Hui-Ling Zhen, Yaoyuan Wang, Xianzhi Yu, Wulong Liu, Xiaosong Li, Mingxuan Yuan*. [[pdf](https://arxiv.org/pdf/2505.17155)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TrimR-blue) ![](https://img.shields.io/badge/SCALR@COLM2025-green)  
 - **Not All Tokens Are What You Need In Thinking**  
   *Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.17827)], [[code](https://github.com/Faustrazor/Not-All-Thinking-Tokens)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Skipping-green)
 - **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**  
@@ -360,6 +360,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Adaptive Thinking
 
+- **Large Reasoning Models Know How to Think Efficiently**  
+  *Zeyu XING, Xing Li, Huiling Zhen, Xianzhi Yu, Mingxuan Yuan, Sinno Jialin Pan*. [[pdf](https://openreview.net/forum?id=pLKDeGm2t1)], 2025.07. ![](https://img.shields.io/badge/ESFoMoIII@ICML2025-orange) ![](https://img.shields.io/badge/SelfThink-blue)
 - **Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL**  
   *Songjun Tu, Jiahao Lin, Qichao Zhang, Xiangyu Tian, Linjing Li, Xiangyuan Lan, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2505.10832)], [[code](https://github.com/TU2021/AutoThink)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **AdaptThink: Reasoning Models Can Learn When to Think**  
