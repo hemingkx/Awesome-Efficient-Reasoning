@@ -363,6 +363,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Hao Wen, Xinrui Wu, Yi Sun, Feifei Zhang, Liye Chen, Jie Wang, Yunxin Liu, Ya-Qin Zhang, Yuanchun Li*. [[pdf](https://arxiv.org/pdf/2508.17196)], [[code](https://github.com/MobileLLM/BudgetThinker)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/BudgetThinker-blue)
 - **DRQA: Dynamic Reasoning Quota Allocation for Controlling Overthinking in Reasoning Large Language Models**  
   *Kaiwen Yan, Xuanqing Shi, Hongcheng Guo, Wenxuan Wang, Zhuosheng Zhang, Chengwei Qin*. [[pdf](https://arxiv.org/pdf/2508.17803)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DRQA-blue)
+- **CAC-CoT: Connector-Aware Compact Chain-of-Thought for Efficient Reasoning Data Synthesis Across Dual-System Cognitive Tasks**  
+  *Sunguk Choi, Yonghoon Kwon, Heondeuk Lee*. [[pdf](https://arxiv.org/pdf/2508.18743)], 2025.08. ![](https://img.shields.io/badge/EMNLP2025--findings-orange) ![](https://img.shields.io/badge/CAC--CoT-blue)
+- **ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models**  
+  *Qianyu He, Siyu Yuan, Xuefeng Li, Mingxuan Wang, Jiangjie Chen*. [[pdf](https://arxiv.org/pdf/2508.18773)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkDial-blue) ![](https://img.shields.io/badge/gpt--oss--style-green)
 
 ### Adaptive Thinking
 
