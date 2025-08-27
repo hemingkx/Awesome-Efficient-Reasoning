@@ -357,6 +357,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chuhuai Yue, Chengqi Dong, Yinan Gao, Hang He, Jiajun Chai, Guojun Yin, Wei Lin*. [[pdf](https://arxiv.org/pdf/2508.10293)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VSRM-blue)
 - **Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models**  
   *Qiguang Chen, Dengyun Peng, Jinhao Liu, HuiKang Su, Jiannan Guan, Libo Qin, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2508.11582)], [[code](https://github.com/sfasfaffa/DR_SAF)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DR.SAF-blue)
+- **Stop Spinning Wheels: Mitigating LLM Overthinking via Mining Patterns for Early Reasoning Exit**  
+  *Zihao Wei, Liang Pang, Jiahao Liu, Jingcheng Deng, Shicheng Xu, Zenghao Duan, Jingang Wang, Fei Sun, Xunliang Cai, Huawei Shen, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2508.17627)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Early_Exit-green)
+- **BudgetThinker: Empowering Budget-aware LLM Reasoning with Control Tokens**  
+  *Hao Wen, Xinrui Wu, Yi Sun, Feifei Zhang, Liye Chen, Jie Wang, Yunxin Liu, Ya-Qin Zhang, Yuanchun Li*. [[pdf](https://arxiv.org/pdf/2508.17196)], [[code](https://github.com/MobileLLM/BudgetThinker)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/BudgetThinker-blue)
+- **DRQA: Dynamic Reasoning Quota Allocation for Controlling Overthinking in Reasoning Large Language Models**  
+  *Kaiwen Yan, Xuanqing Shi, Hongcheng Guo, Wenxuan Wang, Zhuosheng Zhang, Chengwei Qin*. [[pdf](https://arxiv.org/pdf/2508.17803)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DRQA-blue)
 
 ### Adaptive Thinking
 
@@ -667,6 +673,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 - **The Impact of Reasoning Step Length on Large Language Models**  
   *Mingyu Jin, Qinkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du*. [[pdf](https://aclanthology.org/2024.findings-acl.108.pdf)], [[code](https://github.com/MingyuJ666/The-Impact-of-Reasoning-Step-Length-on-Large-Language-Models)], 2024.01. ![](https://img.shields.io/badge/AC2024--findings-orange) ![](https://img.shields.io/badge/Reasoning_Step_Length-green)
+- **Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost**  
+  *Sania Nayab, Giulio Rossolini, Marco Simoni, Andrea Saracino, Giorgio Buttazzo, Nicolamaria Manes, Fabrizio Giacomelli*. [[pdf](https://arxiv.org/pdf/2407.19825)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought**  
   *Qiguang Chen, Libo Qin, Jiaqi Wang, Jinxuan Zhou, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2410.05695)], [[code](https://github.com/LightChen233/reasoning-boundary)], 2024.10. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Reasoning_Boundary-green)
 - **Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**  
