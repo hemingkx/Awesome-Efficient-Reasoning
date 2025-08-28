@@ -135,11 +135,11 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking**  
   *Yilong Chen, Junyuan Shang, Zhenyu Zhang, Yanxi Xie, Jiawei Sheng, Tingwen Liu, Shuohuan Wang, Yu Sun, Hua Wu, Haifeng Wang*. [[pdf](https://arxiv.org/pdf/2502.13842)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/ITT-blue)
 - **LightThinker: Thinking Step-by-Step Compression**  
-  *Jintian Zhang, Yuqi Zhu, Mengshu Sun, Yujie Luo, Shuofei Qiao, Lun Du, Da Zheng, Huajun Chen, Ningyu Zhang*. [[pdf](https://arxiv.org/pdf/2502.15589)], [[code](https://github.com/zjunlp/LightThinker)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LightThinker-blue)
+  *Jintian Zhang, Yuqi Zhu, Mengshu Sun, Yujie Luo, Shuofei Qiao, Lun Du, Da Zheng, Huajun Chen, Ningyu Zhang*. [[pdf](https://arxiv.org/pdf/2502.15589)], [[code](https://github.com/zjunlp/LightThinker)], 2025.02. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/LightThinker-blue)
 - **Reasoning with Latent Thoughts: On the Power of Looped Transformers**  
   *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sanjiv Kumar, Sashank J. Reddi*. [[pdf](https://openreview.net/pdf?id=din0lGfZFd)], 2025.02. ![](https://img.shields.io/badge/ICLR2025-orange)
 - **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation**  
-  *Zhenyi Shen, Hanqi Yan, Linhai Zhang, Zhanghao Hu, Yali Du, Yulan He*. [[pdf](https://arxiv.org/pdf/2502.21074)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CODI-blue)
+  *Zhenyi Shen, Hanqi Yan, Linhai Zhang, Zhanghao Hu, Yali Du, Yulan He*. [[pdf](https://arxiv.org/pdf/2502.21074)], 2025.02. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/CODI-blue)
 - **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**  
   *Jonas Geiping, Sean McLeish, Neel Jain, John Kirchenbauer, Siddharth Singh, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Tom Goldstein*. [[pdf](https://arxiv.org/pdf/2502.05171)], [[code](https://github.com/seal-rg/recurrent-pretraining)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **LLM Pretraining with Continuous Concepts**  
