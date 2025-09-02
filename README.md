@@ -170,6 +170,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Haoyi Wu, Zhihao Teng, Kewei Tu*. [[pdf](https://arxiv.org/pdf/2506.18582)], [[code](https://github.com/whyNLP/PCCoT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PCCoT-blue)
 - **Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models**  
   *Tan-Hanh Pham, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2508.12587)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MCOUT-blue)
+- **LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking**  
+  *Chünhung Wu, Jinliang Lu, Zixuan Ren, Gangqiang Hu, Zhi Wu, Dai Dai, Hua Wu*. [[pdf](https://arxiv.org/pdf/2508.03440)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Long-to-Short Chain-of-Thought
 
