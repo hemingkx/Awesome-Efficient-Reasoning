@@ -628,6 +628,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 - **PixelThink: Towards Efficient Chain-of-Pixel Reasoning**  
   *Song Wang, Gongfan Fang, Lingdong Kong, Xiangtai Li, Jianyun Xu, Sheng Yang, Qiang Li, Jianke Zhu, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.23727)], [[code](https://github.com/songw-zju/PixelThink)], [[homepage](https://pixelthink.github.io/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PixelThink-blue)
+- **R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**  
+  *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*. [[pdf](https://arxiv.org/pdf/2508.21113)], [[code](https://github.com/yannqi/R-4B)], [[huggingface](https://huggingface.co/YannQi/R-4B)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--4B-blue)
 
 ### Other Work
 
