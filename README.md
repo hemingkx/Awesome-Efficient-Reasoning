@@ -167,7 +167,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **DART: Distilling Autoregressive Reasoning to Silent Thought**  
   *Nan Jiang, Ziming Wu, De-Chuan Zhan, Fuming Lai, Shaobing Lian*. [[pdf](https://arxiv.org/pdf/2506.11752)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Parallel Continuous Chain-of-Thought with Jacobi Iteration**  
-  *Haoyi Wu, Zhihao Teng, Kewei Tu*. [[pdf](https://arxiv.org/pdf/2506.18582)], [[code](https://github.com/whyNLP/PCCoT)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PCCoT-blue)
+  *Haoyi Wu, Zhihao Teng, Kewei Tu*. [[pdf](https://arxiv.org/pdf/2506.18582)], [[code](https://github.com/whyNLP/PCCoT)], 2025.06. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/PCCoT-blue)
 - **Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models**  
   *Tan-Hanh Pham, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2508.12587)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MCOUT-blue)
 - **LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking**  
