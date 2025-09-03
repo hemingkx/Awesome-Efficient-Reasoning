@@ -66,6 +66,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jason Zhu, Hongyu Li*. [[pdf](https://arxiv.org/pdf/2507.09662)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models**  
   *Linan Yue, Yichao Du, Yizhi Wang, Weibo Gao, Fangzhou Yao, Li Wang, Ye Liu, Ziyu Xu, Qi Liu, Shimin Di, Min-Ling Zhang*. [[pdf](https://arxiv.org/pdf/2508.02120)], [[paper list](https://github.com/yuelinan/Awesome-Efficient-R1-style-LRMs)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Implicit Reasoning in Large Language Models: A Comprehensive Survey**  
+  *Jindong Li, Yali Fu, Li Fan, Jiahong Liu, Yao Shu, Chengwei Qin, Menglin Yang, Irwin King, Rex Ying*. [[pdf](https://arxiv.org/pdf/2509.02350)], [[paper list](https://github.com/digailab/awesome-llm-implicit-reasoning)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Training
 
@@ -73,6 +75,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*. [[pdf](https://arxiv.org/pdf/2501.19393)], [[code](https://github.com/simplescaling/s1)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/s1-blue)
 - **LIMO: Less is More for Reasoning**  
   *Yixin Ye, Zhen Huang, Yang Xiao, Ethan Chern, Shijie Xia, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2502.03387)], [[code](https://github.com/GAIR-NLP/LIMO)], 2025.02. ![](https://img.shields.io/badge/COLM2025-orange) ![](https://img.shields.io/badge/LIMO-blue)
+- **TreeRL: LLM Reinforcement Learning with On-Policy Tree Search**  
+  *Zhenyu Hou, Ziniu Hu, Yujiang Li, Rui Lu, Jie Tang, Yuxiao Dong*. [[pdf](https://arxiv.org/pdf/2506.11902)], [[code](https://github.com/THUDM/TreeRL)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/QFFT-blue)
 - **Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond**  
   *Liang Wen, Yunke Cai, Fenrui Xiao, Xin He, Qi An, Zhenyu Duan, Yimin Du, Junchen Liu, Lifu Tang, Xiaowei Lv, Haosheng Zou, Yongchao Deng, Shousheng Jia, Xiangzheng Zhang*. [[pdf](https://aclanthology.org/2025.acl-industry.24/)], [[code](https://github.com/Qihoo360/Light-R1)], 2025.03. ![](https://img.shields.io/badge/ACL2025--industry-orange) ![](https://img.shields.io/badge/Light--R1-blue)
 - **DAPO: An Open-Source LLM Reinforcement Learning System at Scale**  
@@ -103,6 +107,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Tiantian Fan, Lingjun Liu, Yu Yue, Jiaze Chen, Chengyi Wang, Qiying Yu, Chi Zhang, Zhiqi Lin, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Bole Ma, Mofan Zhang, Gaohong Liu, Ru Zhang, Haotian Zhou, Cong Xie, Ruidong Zhu, Zhi Zhang, Xin Liu, Mingxuan Wang, Lin Yan, Yonghui Wu*. [[pdf](https://arxiv.org/pdf/2506.15050)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/T--PPO-blue)
 - **QFFT, Question-Free Fine-Tuning for Adaptive Reasoning**  
   *Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, Ke Ji, Wenyu Chen, Yan Xu, Yasheng Wang, Lifeng Shang, Benyou Wang*. [[pdf](https://arxiv.org/pdf/2506.12860)], [[code](https://github.com/LWL-cpu/Question-Free-Fine-Tuning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/QFFT-blue)
+- **TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling**  
+  *Yizhi Li, Qingshui Gu, Zhoufutu Wen, Ziniu Li, Tianshun Xing, Shuyue Guo, Tianyu Zheng, Xin Zhou, Xingwei Qu, Wangchunshu Zhou, Zheng Zhang, Wei Shen, Qian Liu, Chenghua Lin, Jian Yang, Ge Zhang, Wenhao Huang*. [[pdf](https://arxiv.org/pdf/2508.17445)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TreePO-blue)
 
 ### Latent Chain-of-Thought
 
