@@ -302,7 +302,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Brevity is the soul of sustainability: Characterizing LLM response lengths**  
   *Soham Poddar, Paramita Koley, Janardan Misra, Sanjay Podder, Navveen Balani, Niloy Ganguly, Saptarshi Ghosh*. [[pdf](https://arxiv.org/pdf/2506.08686)], 2025.06. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/Prompting-green)
 - **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**  
-  *Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2506.08343)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/NoWait-blue)
+  *Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2506.08343)], 2025.06. ![](https://img.shields.io/badge/EMNLP2025--findings-orange) ![](https://img.shields.io/badge/NoWait-blue)
 - **Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning**  
   *Xiangning Yu, Zhuohan Wang, Linyi Yang, Haoxuan Li, Anjie Liu, Xiao Xue, Jun Wang, Mengyue Yang*. [[pdf](https://arxiv.org/pdf/2506.09853)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/In--context_Learning&SFT-green)
 - **PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models**  
