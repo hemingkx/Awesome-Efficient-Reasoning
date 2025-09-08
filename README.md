@@ -287,6 +287,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning**  
   *Mingyang Song, Mao Zheng*. [[pdf](https://arxiv.org/pdf/2505.21178)], [[code](https://github.com/nick7nlp/ConciseR)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
+- **AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting**  
+  *Shijue Huang, Hongru Wang, Wanjun Zhong, Zhaochen Su, Jiazhan Feng, Bowen Cao, Yi R. Fung*. [[pdf](https://arxiv.org/pdf/2505.18822)], [[code](https://github.com/JoeYing1019/AdaCtrl)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
 - **CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models**  
   *Siqi Fan, Peng Han, Shuo Shang, Yequan Wang, Aixin Sun*. [[pdf](https://arxiv.org/pdf/2505.22017)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Outline_by_InstructLM-green)
 - **Stable Reinforcement Learning for Efficient Reasoning**  
