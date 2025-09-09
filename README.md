@@ -109,6 +109,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, Ke Ji, Wenyu Chen, Yan Xu, Yasheng Wang, Lifeng Shang, Benyou Wang*. [[pdf](https://arxiv.org/pdf/2506.12860)], [[code](https://github.com/LWL-cpu/Question-Free-Fine-Tuning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/QFFT-blue)
 - **TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling**  
   *Yizhi Li, Qingshui Gu, Zhoufutu Wen, Ziniu Li, Tianshun Xing, Shuyue Guo, Tianyu Zheng, Xin Zhou, Xingwei Qu, Wangchunshu Zhou, Zheng Zhang, Wei Shen, Qian Liu, Chenghua Lin, Jian Yang, Ge Zhang, Wenhao Huang*. [[pdf](https://arxiv.org/pdf/2508.17445)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TreePO-blue)
+- **Self-Aligned Reward: Towards Effective and Efficient Reasoners**  
+  *Peixuan Han, Adit Krishnan, Gerald Friedland, Jiaxuan You, Chris Kong*. [[pdf](https://arxiv.org/pdf/2509.05489)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SAR-blue)
 
 ### Latent Chain-of-Thought
 
@@ -377,6 +379,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Sunguk Choi, Yonghoon Kwon, Heondeuk Lee*. [[pdf](https://arxiv.org/pdf/2508.18743)], 2025.08. ![](https://img.shields.io/badge/EMNLP2025--findings-orange) ![](https://img.shields.io/badge/CAC--CoT-blue)
 - **ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models**  
   *Qianyu He, Siyu Yuan, Xuefeng Li, Mingxuan Wang, Jiangjie Chen*. [[pdf](https://arxiv.org/pdf/2508.18773)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkDial-blue) ![](https://img.shields.io/badge/gpt--oss--style-green)
+- **Less is More Tokens: Efficient Math Reasoning via Difficulty-Aware Chain-of-Thought Distillation**  
+  *Abdul Waheed, Chancharik Mitra, Laurie Z. Wang, Deva Ramanan, Bhiksha Raj*. [[pdf](https://arxiv.org/pdf/2509.05226)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **From Long to Short: LLMs Excel at Trimming Own Reasoning Chains**  
+  *Wei Han, Geng Zhan, Sicheng Yu, Chenyu Wang, Bryan Hooi*. [[pdf](https://arxiv.org/pdf/2509.06174)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EDIT-blue)
 
 ### Adaptive Thinking
 
@@ -584,7 +590,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute**  
   *Dujian Ding, Ankur Mallick, Shaokun Zhang, Chi Wang, Daniel Madrigal, Mirian Del Carmen Hipolito Garcia, Menglin Xia, Laks V.S. Lakshmanan, Qingyun Wu, Victor Rühle*. [[pdf](https://arxiv.org/pdf/2506.22716)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/BEST--Route-blue)
 - **Deep Think with Confidence**  
-  *Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao*. [[pdf](https://arxiv.org/pdf/2508.15260)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DeepConf-blue)
+  *Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao*. [[pdf](https://arxiv.org/pdf/2508.15260)], [[homepage](https://jiaweizzhao.github.io/deepconf/)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DeepConf-blue)
+- **ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute**  
+  *Hao Wen, Yifan Su, Feifei Zhang, Yunxin Liu, Yunhao Liu, Ya-Qin Zhang, Yuanchun Li*. [[pdf](https://arxiv.org/pdf/2509.04475)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ParaThinker-blue)
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
