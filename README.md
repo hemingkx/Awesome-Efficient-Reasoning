@@ -111,6 +111,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yizhi Li, Qingshui Gu, Zhoufutu Wen, Ziniu Li, Tianshun Xing, Shuyue Guo, Tianyu Zheng, Xin Zhou, Xingwei Qu, Wangchunshu Zhou, Zheng Zhang, Wei Shen, Qian Liu, Chenghua Lin, Jian Yang, Ge Zhang, Wenhao Huang*. [[pdf](https://arxiv.org/pdf/2508.17445)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TreePO-blue)
 - **Self-Aligned Reward: Towards Effective and Efficient Reasoners**  
   *Peixuan Han, Adit Krishnan, Gerald Friedland, Jiaxuan You, Chris Kong*. [[pdf](https://arxiv.org/pdf/2509.05489)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SAR-blue)
+- **CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models**  
+  *Runpeng Dai, Linfeng Song, Haolin Liu, Zhenwen Liang, Dian Yu, Haitao Mi, Zhaopeng Tu, Rui Liu, Tong Zheng, Hongtu Zhu, Dong Yu*. [[pdf](https://arxiv.org/pdf/2509.09675)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CDE-blue)
 
 ### Latent Chain-of-Thought
 
@@ -383,6 +385,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Abdul Waheed, Chancharik Mitra, Laurie Z. Wang, Deva Ramanan, Bhiksha Raj*. [[pdf](https://arxiv.org/pdf/2509.05226)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **From Long to Short: LLMs Excel at Trimming Own Reasoning Chains**  
   *Wei Han, Geng Zhan, Sicheng Yu, Chenyu Wang, Bryan Hooi*. [[pdf](https://arxiv.org/pdf/2509.06174)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EDIT-blue)
+- **Hierarchical Budget Policy Optimization for Adaptive Reasoning**  
+  *Shangke Lyu, Linjuan Wu, Yuchen Yan, Xingyu Wu, Hao Li, Yongliang Shen, Peisheng Jiang, Weiming Lu, Jun Xiao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2507.15844v2)], [[code](https://github.com/zju-real/hbpo)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HBPO-blue)
+- **Early Stopping Chain-of-thoughts in Large Language Models**  
+  *Minjia Mao, Bowen Yin, Yu Zhu, Xiao Fang*. [[pdf](https://arxiv.org/pdf/2509.14004)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ES--COT-blue)
+- **Metacognitive Reuse: Turning Recurring LLM Reasoning Into Concise Behaviors**  
+  *Aniket Didolkar, Nicolas Ballas, Sanjeev Arora, Anirudh Goyal*. [[pdf](https://arxiv.org/pdf/2509.13237)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Adaptive Thinking
 
@@ -418,6 +426,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zeyu XING, Xing Li, Huiling Zhen, Xianzhi Yu, Mingxuan Yuan, Sinno Jialin Pan*. [[pdf](https://openreview.net/forum?id=pLKDeGm2t1)], 2025.07. ![](https://img.shields.io/badge/ESFoMoIII@ICML2025-orange) ![](https://img.shields.io/badge/SelfThink-blue)
 - **Think in Blocks: Adaptive Reasoning from Direct Response to Deep Reasoning**  
   *Yekun Zhu, Guang Chen, Chengjun Mao*. [[pdf](https://arxiv.org/pdf/2508.15507)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **ARM: Adaptive Reasoning Model**  
+  *Siye Wu, Jian Xie, Yikai Zhang, Aili Chen, Kai Zhang, Yu Su, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2505.20258)], [[homepage](https://team-arm.github.io/arm/)], [[code](https://github.com/TEAM-ARM/ARM)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ARM-blue)
 
 ### Reasoning Shortcuts
 
@@ -634,6 +644,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Amir Taubenfeld, Tom Sheffer, Eran Ofek, Amir Feder, Ariel Goldstein, Zorik Gekhman, Gal Yona*. [[pdf](https://arxiv.org/pdf/2502.06233)], 2025.02. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/CISC-blue)
 - **Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**  
   *Zhi Zhou, Tan Yuhao, Zenan Li, Yuan Yao, Lan-Zhe Guo, Xiaoxing Ma, Yu-Feng Li*. [[pdf](https://arxiv.org/pdf/2502.00511)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RPC-blue)
+- **Slim-SC: Thought Pruning for Efficient Scaling with Self-Consistency**  
+  *Colin Hong, Xu Guo, Anand Chaanan Singh, Esha Choukse, Dmitrii Ustiugov*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Slim--SC-blue)
 
 ### Long-Context Reasoning Efficiency
 
