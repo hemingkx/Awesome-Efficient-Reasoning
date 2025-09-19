@@ -218,7 +218,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach**  
   *Ayeong Lee, Ethan Che, Tianyi Peng*. [[pdf](https://arxiv.org/pdf/2503.01141)], [[code](https://github.com/Compressed-CoT/compressed-cot)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prompt-green)
 - **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching**  
-  *Simon A. Aytes, Jinheon Baek, Sung Ju Hwang*. [[pdf](https://arxiv.org/pdf/2503.05179)], [[code](https://github.com/SimonAytes/SoT)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SoT-blue) ![](https://img.shields.io/badge/Prompt-green)
+  *Simon A. Aytes, Jinheon Baek, Sung Ju Hwang*. [[pdf](https://arxiv.org/pdf/2503.05179)], [[code](https://github.com/SimonAytes/SoT)], 2025.03. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/SoT-blue) ![](https://img.shields.io/badge/Prompt-green)
 - **Adaptive Group Policy Optimization: Towards Stable Training and Token-Efficient Reasoning**  
   *Chen Li, Nazhou Liu, Kai Yang*. [[pdf](https://arxiv.org/pdf/2503.15952)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AGPO-blue) ![](https://img.shields.io/badge/length--based_reward-green)
 - **Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**  
