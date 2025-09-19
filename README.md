@@ -605,6 +605,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao*. [[pdf](https://arxiv.org/pdf/2508.15260)], [[homepage](https://jiaweizzhao.github.io/deepconf/)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DeepConf-blue)
 - **ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute**  
   *Hao Wen, Yifan Su, Feifei Zhang, Yunxin Liu, Yunhao Liu, Ya-Qin Zhang, Yuanchun Li*. [[pdf](https://arxiv.org/pdf/2509.04475)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ParaThinker-blue)
+- **A1: Asynchronous Test-Time Scaling via Conformal Prediction**  
+  *Jing Xiong, Qiujiang Chen, Fanghua Ye, Zhongwei Wan, Chuanyang Zheng, Chenyang Zhao, Hui Shen, Alexander Hanbo Li, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Lingpeng Kong, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2509.15148)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
