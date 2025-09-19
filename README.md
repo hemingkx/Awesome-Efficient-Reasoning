@@ -268,7 +268,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **FlashThink: An Early Exit Method For Efficient Reasoning**  
   *Guochao Jiang, Guofeng Quan, Zepeng Ding, Ziqin Luo, Dixuan Wang, Zheng Hu*. [[pdf](https://arxiv.org/pdf/2505.13949)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FlashThink-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Optimizing Anytime Reasoning via Budget Relative Policy Optimization**  
-  *Penghui Qi, Zichen Liu, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[pdf](https://arxiv.org/pdf/2505.13438)], [[code](https://github.com/sail-sg/AnytimeReasoner)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/BRPO-blue) ![](https://img.shields.io/badge/Early_Exit-green)
+  *Penghui Qi, Zichen Liu, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[pdf](https://arxiv.org/pdf/2505.13438)], [[code](https://github.com/sail-sg/AnytimeReasoner)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/BRPO-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **VeriThinker: Learning to Verify Makes Reasoning Model Efficient**  
   *Zigeng Chen, Xinyin Ma, Gongfan Fang, Ruonan Yu, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.17941)], [[code](https://github.com/czg1225/VeriThinker)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VeriThinker-blue) ![](https://img.shields.io/badge/CoTs_by_InstructLM-green)
 - **Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning**  
@@ -280,7 +280,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**  
   *Yibo Wang, Li Shen, Huanjin Yao, Tiansheng Huang, Rui Liu, Naiqiang Tan, Jiaxing Huang, Kai Zhang, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2505.16838)], [[code](https://github.com/w-yibo/R1-Compress)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R1--Compress-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning**  
-  *Xiaoxue Cheng, Junyi Li, Zhenduo Zhang, Xinyu Tang, Wayne Xin Zhao, Xinyu Kong, Zhiqiang Zhang*. [[pdf](https://arxiv.org/pdf/2505.16315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ACPO-blue)
+  *Xiaoxue Cheng, Junyi Li, Zhenduo Zhang, Xinyu Tang, Wayne Xin Zhao, Xinyu Kong, Zhiqiang Zhang*. [[pdf](https://arxiv.org/pdf/2505.16315)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/ACPO-blue)
 - **Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning**  
   *Junhong Lin, Xinyue Zeng, Jie Zhu, Song Wang, Julian Shun, Jun Wu, Dawei Zhou*. [[pdf](https://www.arxiv.org/pdf/2505.16122)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models**  
