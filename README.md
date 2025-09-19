@@ -169,9 +169,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Efficient Pretraining Length Scaling**  
   *Bohong Wu, Shen Yan, Sijun Zhang, Jianqiao Lu, Yutao Zeng, Ya Wang, Xun Zhou*. [[pdf](https://arxiv.org/pdf/2504.14992)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PHD--Transformer-blue)
 - **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space**  
-  *Zhen Zhang, Xuehai He, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2505.15778)], [[code](https://github.com/eric-ai-lab/Soft-Thinking)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Soft--Thinking-blue)
+  *Zhen Zhang, Xuehai He, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2505.15778)], [[code](https://github.com/eric-ai-lab/Soft-Thinking)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Soft--Thinking-blue)
 - **Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains**  
-  *Wenhui Tan, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Ruihua Song*. [[pdf](https://arxiv.org/pdf/2505.16552)], [[homepage](https://colar-latent-reasoning.github.io/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoLaR-blue)
+  *Wenhui Tan, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Ruihua Song*. [[pdf](https://arxiv.org/pdf/2505.16552)], [[homepage](https://colar-latent-reasoning.github.io/)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/CoLaR-blue)
 - **Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**  
   *Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu*. [[pdf](https://arxiv.org/pdf/2506.08552)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **DART: Distilling Autoregressive Reasoning to Silent Thought**  
@@ -241,6 +241,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Bin Yu, Hang Yuan, Yuliang Wei, Bailing Wang, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.03469)], [[code](https://github.com/ZGCA-AI4Edu/LS-Mixture)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LS--Mixture_SFT-blue)
 - **ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning**  
   *Ziqing Qiao, Yongheng Deng, Jiali Zeng, Dong Wang, Lai Wei, Fandong Meng, Jie Zhou, Ju Ren, Yaoxue Zhang*. [[pdf](https://arxiv.org/pdf/2505.04881)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ConCISE-blue)
+- **Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens**  
+  *Xixian Yong, Xiao Zhou, Yingying Zhang, Jinlin Li, Yefeng Zheng, Xian Wu*. [[pdf](https://arxiv.org/pdf/2505.04881)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Scalable Chain of Thoughts via Elastic Reasoning**  
   *Yuhui Xu, Hanze Dong, Lei Wang, Doyen Sahoo, Junnan Li, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2505.05315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Elastic_Reasoning-blue) ![](https://img.shields.io/badge/Length_Control-green)
 - **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**  
@@ -288,7 +290,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Not All Tokens Are What You Need In Thinking**  
   *Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.17827)], [[code](https://github.com/Faustrazor/Not-All-Thinking-Tokens)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Skipping-green)
 - **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**  
-  *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+  *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning**  
   *Mingyang Song, Mao Zheng*. [[pdf](https://arxiv.org/pdf/2505.21178)], [[code](https://github.com/nick7nlp/ConciseR)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
 - **AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting**  
@@ -427,7 +429,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Think in Blocks: Adaptive Reasoning from Direct Response to Deep Reasoning**  
   *Yekun Zhu, Guang Chen, Chengjun Mao*. [[pdf](https://arxiv.org/pdf/2508.15507)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ARM: Adaptive Reasoning Model**  
-  *Siye Wu, Jian Xie, Yikai Zhang, Aili Chen, Kai Zhang, Yu Su, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2505.20258)], [[homepage](https://team-arm.github.io/arm/)], [[code](https://github.com/TEAM-ARM/ARM)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ARM-blue)
+  *Siye Wu, Jian Xie, Yikai Zhang, Aili Chen, Kai Zhang, Yu Su, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2505.20258)], [[homepage](https://team-arm.github.io/arm/)], [[code](https://github.com/TEAM-ARM/ARM)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/ARM-blue)
 
 ### Reasoning Shortcuts
 
