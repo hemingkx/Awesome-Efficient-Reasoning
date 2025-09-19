@@ -570,7 +570,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?**  
   *Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, Yunhua Zhou, Xipeng Qiu*. [[pdf](https://arxiv.org/pdf/2502.12215)], [[code](https://github.com/ZhiYuanZeng/test-time-scaling-eval)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**  
-  *Wenkai Yang, Shuming Ma, Yankai Lin, Furu Wei*. [[pdf](https://arxiv.org/pdf/2502.18080)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Over--thinking-green)
+  *Wenkai Yang, Shuming Ma, Yankai Lin, Furu Wei*. [[pdf](https://arxiv.org/pdf/2502.18080)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**  
   *Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2503.07572)], [[code](https://github.com/CMU-AIRe/MRT)], [[homepage](https://cohenqu.github.io/mrt.github.io/)], 2025.03. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/MRT-blue)
 - **Is Best-of-N the Best of Them? Coverage, Scaling, and Optimality in Inference-Time Alignment**  
