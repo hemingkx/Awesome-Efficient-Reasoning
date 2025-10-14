@@ -4,6 +4,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ## Content
 
+- [Content](#content)
 - [Keywords Convention](#keywords-convention)
 - [Papers](#papers)
   - [Survey](#survey)
@@ -13,10 +14,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Adaptive Thinking](#adaptive-thinking)
   - [Reasoning Shortcuts](#reasoning-shortcuts)
   - [Reasoning Step Decomposition](#reasoning-step-decomposition)
-  - [Small Reasoning Models & CoT Distillation](#small-reasoning-models--cot-distillation)
-  - [Small & Large Reasoning Model Collaboration](#small--large-reasoning-model-collaboration)
+  - [Small Reasoning Models \& CoT Distillation](#small-reasoning-models--cot-distillation)
+  - [Small \& Large Reasoning Model Collaboration](#small--large-reasoning-model-collaboration)
   - [Speculative Decoding for CoT Efficiency](#speculative-decoding-for-cot-efficiency)
-  - [Sparse Attention & KV Cache](#sparse-attention--kv-cache)
+  - [Sparse Attention \& KV Cache](#sparse-attention--kv-cache)
   - [Optimal Test-Time Scaling](#optimal-test-time-scaling)
   - [Efficient Sampling](#efficient-sampling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
@@ -26,12 +27,11 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Benchmarks](#benchmarks)
   - [Analysis](#analysis)
   - [Applications](#applications)
-- [Blogs](#blog--project)
+- [Blog \& Project](#blog--project)
 - [Talks](#talks)
 - [Resources](#resources)
-- [Contribution](#contribution)
-  - [Contributors](#contributors)
-  - [Contributing to this paper list](#contributing-to-this-paper-list)
+- [Contributors](#contributors)
+- [Contributing to this paper list](#contributing-to-this-paper-list)
 
 
 ## Keywords Convention
@@ -185,6 +185,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Long-to-Short Chain-of-Thought
 
+- **Revisiting Model Interpolation for Efficient Reasoning**
+  *Taiqiang Wu, Runming Yang, Tao Liu, Jiahao Wang, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2510.10977)], [[code](https://github.com/wutaiqiang/MI)], 2025.10. ![](https://img.shields.io/badge/MI-blue)
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**  
   *Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang*. [[pdf](https://arxiv.org/pdf/2305.10276)], [[code](https://github.com/hanxuhu/chain-of-symbol-planning)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models**  
