@@ -185,8 +185,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Long-to-Short Chain-of-Thought
 
-- **Revisiting Model Interpolation for Efficient Reasoning**
-  *Taiqiang Wu, Runming Yang, Tao Liu, Jiahao Wang, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2510.10977)], [[code](https://github.com/wutaiqiang/MI)], 2025.10. ![](https://img.shields.io/badge/MI-blue)
+- **Revisiting Model Interpolation for Efficient Reasoning**  
+  *Taiqiang Wu, Runming Yang, Tao Liu, Jiahao Wang, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2510.10977)], [[code](https://github.com/wutaiqiang/MI)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MI-blue)
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**  
   *Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang*. [[pdf](https://arxiv.org/pdf/2305.10276)], [[code](https://github.com/hanxuhu/chain-of-symbol-planning)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models**  
