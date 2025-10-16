@@ -540,7 +540,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Reward-Guided Speculative Decoding for Efficient LLM Reasoning**  
   *Baohao Liao, Yuhui Xu, Hanze Dong, Junnan Li, Christof Monz, Silvio Savarese, Doyen Sahoo, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2501.19324)], [[code](https://github.com/BaohaoLiao/RSD)], 2025.01. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/RSD-blue)
 - **SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning**  
-  *Rui Pan, Yinwei Dai, Zhihao Zhang, Gabriele Oliaro, Zhihao Jia, Ravi Netravali*. [[pdf](https://arxiv.org/pdf/2504.07891)], [[code](https://github.com/ruipeterpan/specreason)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecReason-blue)
+  *Rui Pan, Yinwei Dai, Zhihao Zhang, Gabriele Oliaro, Zhihao Jia, Ravi Netravali*. [[pdf](https://arxiv.org/pdf/2504.07891)], [[code](https://github.com/ruipeterpan/specreason)], 2025.04. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/SpecReason-blue)
 - **Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time**  
   *Wang Yang, Xiang Yue, Vipin Chaudhary, Xiaotian Han*. [[pdf](https://arxiv.org/pdf/2504.12329)], [[code](https://github.com/uservan/speculative_thinking)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Speculative_Thinking-blue)
 - **Efficient Reasoning for LLMs through Speculative Chain-of-Thought**  
