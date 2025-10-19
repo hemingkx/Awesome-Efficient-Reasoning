@@ -404,6 +404,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Aniket Didolkar, Nicolas Ballas, Sanjeev Arora, Anirudh Goyal*. [[pdf](https://arxiv.org/pdf/2509.13237)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Revisiting Model Interpolation for Efficient Reasoning**  
   *Taiqiang Wu, Runming Yang, Tao Liu, Jiahao Wang, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2510.10977)], [[code](https://github.com/wutaiqiang/MI)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MI-blue)
+- **From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement**  
+  *Jianzhi Yan, Le Liu, Youcheng Pan, Shiwei Chen, Zike Yuan, Yang Xiang, Buzhou Tang*. [[pdf](https://arxiv.org/pdf/2509.22144)], [[code](https://github.com/Leon221220/MACC)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MACC-blue)
+- **Your Models Have Thought Enough: Training Large Reasoning Models to Stop Overthinking**  
+  *Jinyi Han, Ying Huang, Ying Liao, Zishang Jiang, Xikun Lu, Haiquan Zhao, Xinyi Wang, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2509.23392)], [[code](https://github.com/JinyiHan99/Just-Enough-Think)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/JET-blue)
 
 ### Adaptive Thinking
 
@@ -562,6 +566,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.04708)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAND-blue)
 - **Scaling Speculative Decoding with Lookahead Reasoning**  
   *Yichao Fu, Rui Ge, Zelei Shao, Zhijie Deng, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2506.19830)], [[code](https://github.com/hao-ai-lab/LookaheadReasoning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **FastGRPO: Accelerating Policy Optimization via Concurrency-aware Speculative Decoding and Online Draft Learning**  
+  *Yizhou Zhang, Ning Lv, Teng Wang, Jisheng Dang*. [[pdf](https://arxiv.org/pdf/2509.21792)], [[code](https://github.com/yedaotian9/GRPO_speculative)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastGRPO-blue)
+- **SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts**  
+  *Bingshuai Liu, Ante Wang, Zijun Min, Liang Yao, Haibo Zhang, Yang Liu, Anxiang Zeng, Jinsong Su*. [[pdf](https://arxiv.org/pdf/2509.23232)], [[code](https://github.com/ShopeeLLM/Spec-RL)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPEC--RL-blue)
+- **SpecExit: Accelerating Large Reasoning Model via Speculative Exit**  
+  *Rubing Yang, Huajun Bai, Song Liu, Guanghua Yu, Runzhi Fan, Yanbin Dang, Jiejing Zhang, Kai Liu, Jianchen Zhu, Peng Chen*. [[pdf](https://arxiv.org/pdf/2509.24248)], [[code](https://github.com/Tencent/AngelSlim)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecExit-blue)
 
 ### Parallel Thinking
 
@@ -581,6 +591,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Emil Biju, Shayan Talaei, Zhemin Huang, Mohammadreza Pourreza, Azalia Mirhoseini, Amin Saberi*. [[pdf](https://arxiv.org/pdf/2506.05745)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPRINT-blue) ![](https://img.shields.io/badge/Parallel_Execution-green)
 - **Parallel Thinking, Sequential Answering: Bridging NAR and AR for Efficient Reasoning**  
   *Qihang Ai, Haiyun Jiang*. [[pdf](https://arxiv.org/pdf/2509.20744)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **A2R: An Asymmetric Two-Stage Reasoning Framework for Parallel Reasoning**  
+  *Ziqi Wang, Boye Niu, Zhongli Li, Linghui Meng, Jing Liu, Zhi Zheng, Tong Xu, Hua Wu, Haifeng Wang, Enhong Chen*. [[pdf](https://arxiv.org/pdf/2509.22044)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Sparse Attention & KV Cache
 
@@ -698,6 +710,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Song Wang, Gongfan Fang, Lingdong Kong, Xiangtai Li, Jianyun Xu, Sheng Yang, Qiang Li, Jianke Zhu, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.23727)], [[code](https://github.com/songw-zju/PixelThink)], [[homepage](https://pixelthink.github.io/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PixelThink-blue)
 - **R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**  
   *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*. [[pdf](https://arxiv.org/pdf/2508.21113)], [[code](https://github.com/yannqi/R-4B)], [[huggingface](https://huggingface.co/YannQi/R-4B)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--4B-blue)
+- **Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models**  
+  *Zhichao Sheng, Shilin Zhou, Chen Gong, Zhenghua Li*. [[pdf](https://arxiv.org/pdf/2509.21960)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Other Work
 
@@ -714,7 +728,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling**  
   *Seyyed Saeid Cheshmi, Azal Ahmad Khan, Xinran Wang, Zirui Liu, Ali Anwar*. [[pdf](https://arxiv.org/pdf/2508.01969)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Decoder-Hybrid-Decoder Architecture for Efficient Reasoning with Long Generation**  
-  *Liliang Ren, Congcong Chen, Haoran Xu, Young Jin Kim, Adam Atkinson, Zheng Zhan, Jiankai Sun, Baolin Peng, Liyuan Liu, Shuohang Wang, Hao Cheng, Jianfeng Gao, Weizhu Chen, Yelong Shen*. [[pdf](https://arxiv.org/pdf/2507.06607)], [[code](https://github.com/microsoft/ArchScale)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange) 
+  *Liliang Ren, Congcong Chen, Haoran Xu, Young Jin Kim, Adam Atkinson, Zheng Zhan, Jiankai Sun, Baolin Peng, Liyuan Liu, Shuohang Wang, Hao Cheng, Jianfeng Gao, Weizhu Chen, Yelong Shen*. [[pdf](https://arxiv.org/pdf/2507.06607)], [[code](https://github.com/microsoft/ArchScale)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange)
+- **Retrieval-of-Thought: Efficient Reasoning via Reusing Thoughts**  
+  *Ammar Ahmed, Azal Ahmad Khan, Ayaan Ahmad, Sheng Di, Zirui Liu, Ali Anwar*. [[pdf](https://arxiv.org/pdf/2509.21743)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Benchmarks
 
