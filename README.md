@@ -48,7 +48,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 ### Survey
 
 - **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**  
-  *Yang Sui, Yu-Neng Chuang, Guanchu Wang, Jiamu Zhang, Tianyi Zhang, Jiayi Yuan, Hongyi Liu, Andrew Wen, Shaochen (Henry) Zhong, Hanjie Chen, Xia Hu*. [[pdf](https://arxiv.org/pdf/2503.16419)], [[paper list](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Yang Sui, Yu-Neng Chuang, Guanchu Wang, Jiamu Zhang, Tianyi Zhang, Jiayi Yuan, Hongyi Liu, Andrew Wen, Shaochen (Henry) Zhong, Hanjie Chen, Xia Hu*. [[pdf](https://arxiv.org/pdf/2503.16419)], [[paper list](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)], 2025.03. ![](https://img.shields.io/badge/TMLR2025-orange)
 - **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**  
   *Xiaoye Qu, Yafu Li, Zhaochen Su, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng*. [[pdf](https://arxiv.org/pdf/2503.21614)], [[paper list](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Efficient Inference for Large Reasoning Models: A Survey**  
@@ -56,7 +56,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**  
   *Rui Wang, Hongru Wang, Boyang Xue, Jianhui Pang, Shudong Liu, Yi Chen, Jiahao Qiu, Derek Fai Wong, Heng Ji, Kam-Fai Wong*. [[pdf](https://arxiv.org/pdf/2503.24377)], [[paper list](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Efficient Reasoning Models: A Survey**  
-  *Sicheng Feng, Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2504.10903)], [[paper list](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Sicheng Feng, Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2504.10903)], [[paper list](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)], 2025.04. ![](https://img.shields.io/badge/TMLR2025-orange)
 - **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
   *Xinghao Chen, Anhao Zhao, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang, Wenjie Li, Xiaoyu Shen*. [[pdf](https://arxiv.org/pdf/2505.16782)], [[paper list](https://github.com/EIT-NLP/Awesome-Latent-CoT)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs**  
