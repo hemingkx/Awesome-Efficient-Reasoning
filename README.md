@@ -17,6 +17,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Small Reasoning Models \& CoT Distillation](#small-reasoning-models--cot-distillation)
   - [Small \& Large Reasoning Model Collaboration](#small--large-reasoning-model-collaboration)
   - [Speculative Decoding for CoT Efficiency](#speculative-decoding-for-cot-efficiency)
+  - [Parallel Thinking](#parallel-thinking)
   - [Sparse Attention \& KV Cache](#sparse-attention--kv-cache)
   - [Optimal Test-Time Scaling](#optimal-test-time-scaling)
   - [Efficient Sampling](#efficient-sampling)
@@ -182,6 +183,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Tan-Hanh Pham, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2508.12587)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MCOUT-blue)
 - **LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking**  
   *Chünhung Wu, Jinliang Lu, Zixuan Ren, Gangqiang Hu, Zhi Wu, Dai Dai, Hua Wu*. [[pdf](https://arxiv.org/pdf/2508.03440)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Soft Tokens, Hard Truths**  
+  *Natasha Butt, Ariel Kwiatkowski, Ismail Labiad, Julia Kempe, Yann Ollivier*. [[pdf](https://arxiv.org/pdf/2509.19170)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **SIM-CoT: Supervised Implicit Chain-of-Thought**  
+  *Xilin Wei, Xiaoran Liu, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Jiaqi Wang, Xipeng Qiu, Dahua Lin*. [[pdf](https://arxiv.org/pdf/2509.20317)], [[code](https://github.com/InternLM/SIM-CoT)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SIM--CoT-blue)
 
 ### Long-to-Short Chain-of-Thought
 
@@ -549,6 +554,27 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhihai Wang, Jie Wang, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu*. [[pdf](https://arxiv.org/pdf/2505.02865)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/SCoT-blue)
 - **Accelerated Test-Time Scaling with Model-Free Speculative Sampling**  
   *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.04708)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAND-blue)
+- **Scaling Speculative Decoding with Lookahead Reasoning**  
+  *Yichao Fu, Rui Ge, Zelei Shao, Zhijie Deng, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2506.19830)], [[code](https://github.com/hao-ai-lab/LookaheadReasoning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+
+### Parallel Thinking
+
+- **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**  
+  *Xuefei Ning, Zinan Lin, Zixuan Zhou, Zifu Wang, Huazhong Yang, Yu Wang*. [[pdf](https://openreview.net/pdf?id=mqVgBbNCm9)], [[code](https://github.com/imagination-research/sot)], [[homepage](https://sites.google.com/view/sot-llm)], 2023.06. ![](https://img.shields.io/badge/ICLR2024-orange) ![](https://img.shields.io/badge/SoT-blue)
+- **Adaptive Skeleton Graph Decoding**  
+  *Shuowei Jin, Yongji Wu, Haizhong Zheng, Qingzhao Zhang, Matthew Lentz, Z. Morley Mao, Atul Prakash, Feng Qian, Danyang Zhuo*. [[pdf](https://arxiv.org/pdf/2402.12280)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Accelerate Parallelizable Reasoning via Parallel Decoding within One Sequence**  
+  *Yijiong Yu*. [[pdf](https://arxiv.org/pdf/2503.20533)], [[code](https://github.com/yuyijiong/parallel-decoding-in-one-sequence)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_Decoding-green)
+- **Learning Adaptive Parallel Reasoning with Language Models**  
+  *Jiayi Pan, Xiuyu Li, Long Lian, Charlie Snell, Yifei Zhou, Adam Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr*. [[pdf](https://arxiv.org/pdf/2504.15466)], [[code](https://github.com/Parallel-Reasoning/APR)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/APR-blue) ![](https://img.shields.io/badge/Parallel_Computation-green)
+- **Group Think: Multiple Concurrent Reasoning Agents Collaborating at Token Level Granularity**  
+  *Chan-Jan Hsu, Davide Buffelli, Jamie McGowan, Feng-Ting Liao, Yi-Chang Chen, Sattar Vakili, Da-shan Shiu*. [[pdf](https://arxiv.org/pdf/2505.11107)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**  
+  *Xinyu Yang, Yuwei An, Hongyi Liu, Tianqi Chen, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2506.09991)], [[homepage](https://multiverse4fm.github.io/)], [[code](https://github.com/Infini-AI-Lab/Multiverse)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **SPRINT: Enabling Interleaved Planning and Parallelized Execution in Reasoning Models**  
+  *Emil Biju, Shayan Talaei, Zhemin Huang, Mohammadreza Pourreza, Azalia Mirhoseini, Amin Saberi*. [[pdf](https://arxiv.org/pdf/2506.05745)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPRINT-blue) ![](https://img.shields.io/badge/Parallel_Execution-green)
+- **Parallel Thinking, Sequential Answering: Bridging NAR and AR for Efficient Reasoning**  
+  *Qihang Ai, Haiyun Jiang*. [[pdf](https://arxiv.org/pdf/2509.20744)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Sparse Attention & KV Cache
 
@@ -669,28 +695,14 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Other Work
 
-- **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**  
-  *Xuefei Ning, Zinan Lin, Zixuan Zhou, Zifu Wang, Huazhong Yang, Yu Wang*. [[pdf](https://openreview.net/pdf?id=mqVgBbNCm9)], [[code](https://github.com/imagination-research/sot)], [[homepage](https://sites.google.com/view/sot-llm)], 2023.06. ![](https://img.shields.io/badge/ICLR2024-orange) ![](https://img.shields.io/badge/SoT-blue) ![](https://img.shields.io/badge/Parallel_CoT-green)
-- **Adaptive Skeleton Graph Decoding**  
-  *Shuowei Jin, Yongji Wu, Haizhong Zheng, Qingzhao Zhang, Matthew Lentz, Z. Morley Mao, Atul Prakash, Feng Qian, Danyang Zhuo*. [[pdf](https://arxiv.org/pdf/2402.12280)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
 - **PENCIL: Long Thoughts with Short Memory**  
   *PENCIL: Long Thoughts with Short Memory*. [[pdf](https://arxiv.org/pdf/2503.14337)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PENCIL-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Reduction-green)
-- **Accelerate Parallelizable Reasoning via Parallel Decoding within One Sequence**  
-  *Yijiong Yu*. [[pdf](https://arxiv.org/pdf/2503.20533)], [[code](https://github.com/yuyijiong/parallel-decoding-in-one-sequence)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_Decoding-green)
 - **Fast-Slow-Thinking: Complex Task Solving with Large Language Models**  
   *Yiliu Sun, Yanfang Zhang, Zicheng Zhao, Sheng Wan, Dacheng Tao, Chen Gong*. [[pdf](https://arxiv.org/pdf/2504.08690)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System2-green)
-- **Learning Adaptive Parallel Reasoning with Language Models**  
-  *Jiayi Pan, Xiuyu Li, Long Lian, Charlie Snell, Yifei Zhou, Adam Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr*. [[pdf](https://arxiv.org/pdf/2504.15466)], [[code](https://github.com/Parallel-Reasoning/APR)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/APR-blue) ![](https://img.shields.io/badge/Parallel_Computation-green)
 - **M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**  
   *Junxiong Wang, Wen-Ding Li, Daniele Paliotta, Daniel Ritter, Alexander M. Rush, Tri Dao*. [[pdf](https://arxiv.org/pdf/2504.10449)], [[code](https://github.com/jxiw/M1)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/M1-blue) ![](https://img.shields.io/badge/Mamba-green)
-- **Group Think: Multiple Concurrent Reasoning Agents Collaborating at Token Level Granularity**  
-  *Chan-Jan Hsu, Davide Buffelli, Jamie McGowan, Feng-Ting Liao, Yi-Chang Chen, Sattar Vakili, Da-shan Shiu*. [[pdf](https://arxiv.org/pdf/2505.11107)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
 - **Thinker: Learning to Think Fast and Slow**  
   *Stephen Chung, Wenyu Du, Jie Fu*. [[pdf](https://arxiv.org/pdf/2505.21097)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System2-green)
-- **Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**  
-  *Xinyu Yang, Yuwei An, Hongyi Liu, Tianqi Chen, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2506.09991)], [[homepage](https://multiverse4fm.github.io/)], [[code](https://github.com/Infini-AI-Lab/Multiverse)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Parallel_CoT-green)
-- **SPRINT: Enabling Interleaved Planning and Parallelized Execution in Reasoning Models**  
-  *Emil Biju, Shayan Talaei, Zhemin Huang, Mohammadreza Pourreza, Azalia Mirhoseini, Amin Saberi*. [[pdf](https://arxiv.org/pdf/2506.05745)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPRINT-blue) ![](https://img.shields.io/badge/Parallel_Execution-green)
 - **Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router**  
   *Chenyang Shao, Xinyang Liu, Yutang Lin, Fengli Xu, Yong Li*. [[pdf](https://arxiv.org/pdf/2506.05901)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R2--Reasoner-blue) ![](https://img.shields.io/badge/Model_Router-green)
 - **Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling**  
