@@ -437,6 +437,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Ruiqi Zhang, Changyi Xiao, Yixin Cao*. [[pdf](https://arxiv.org/pdf/2506.04182)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwitchCoT-blue)
 - **Token Signature: Predicting Chain-of-Thought Gains with Token Decoding Feature in Large Language Models**  
   *Peijie Liu, Fengli Xu, Yong Li*. [[pdf](https://arxiv.org/pdf/2506.06008)], [[code](https://github.com/tsinghua-fib-lab/Token_Signature)], 2025.06. ![](https://img.shields.io/badge/ICML2025-orange)
+- **Flexible Realignment of Language Models**  
+  *Wenhong Zhu, Ruobing Xie, Weinan Zhang, Rui Wang*. [[pdf](https://arxiv.org/pdf/2506.12704)], [[code](https://github.com/zwhong714/Realigner)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**  
   *Wencheng Zhang, Shiqin Qiao, Lingjie Luo, Yinfeng Li, Chuanyang Zheng, Qian Xu, Meng Li, Yong Gui, Yijun He, Jianing Qiu, Jindong Hong, Jiankai Sun*. [[pdf](https://arxiv.org/pdf/2507.02822)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SynapseRoute-blue)
 - **Large Reasoning Models Know How to Think Efficiently**  
