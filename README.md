@@ -714,6 +714,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*. [[pdf](https://arxiv.org/pdf/2508.21113)], [[code](https://github.com/yannqi/R-4B)], [[huggingface](https://huggingface.co/YannQi/R-4B)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--4B-blue)
 - **Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models**  
   *Zhichao Sheng, Shilin Zhou, Chen Gong, Zhenghua Li*. [[pdf](https://arxiv.org/pdf/2509.21960)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision**  
+  *Luozheng Qin, Jia Gong, Yuqing Sun, Tianjiao Li, Mengping Yang, Xiaomeng Yang, Chao Qu, Zhiyu Tan, Hao Li*. [[pdf](https://arxiv.org/pdf/2508.05606)], [[code](https://github.com/Fr0zenCrane/UniCoT)], [[homepage](https://sais-fuxi.github.io/projects/uni-cot/)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Uni--cot-blue)
 
 ### Other Work
 
