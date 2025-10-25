@@ -116,6 +116,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Peixuan Han, Adit Krishnan, Gerald Friedland, Jiaxuan You, Chris Kong*. [[pdf](https://arxiv.org/pdf/2509.05489)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SAR-blue)
 - **CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models**  
   *Runpeng Dai, Linfeng Song, Haolin Liu, Zhenwen Liang, Dian Yu, Haitao Mi, Zhaopeng Tu, Rui Liu, Tong Zheng, Hongtu Zhu, Dong Yu*. [[pdf](https://arxiv.org/pdf/2509.09675)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CDE-blue)
+- **On Predictability of Reinforcement Learning Dynamics for Large Language Models**  
+  *Yuchen Cai, Ding Cao, Xin Xu, Zijun Yao, Yuqing Huang, Zhenyu Tan, Benyi Zhang, Guiquan Liu, Junfeng Fang*. [[pdf](https://arxiv.org/pdf/2510.00553)], [[code](https://github.com/caiyuchen-ustc/Alpha-RL)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AlphaRL-blue)
 
 ### Latent Chain-of-Thought
 
@@ -410,6 +412,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jinyi Han, Ying Huang, Ying Liao, Zishang Jiang, Xikun Lu, Haiquan Zhao, Xinyi Wang, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2509.23392)], [[code](https://github.com/JinyiHan99/Just-Enough-Think)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/JET-blue)
 - **Entropy After ⟨/𝚃𝚑𝚒𝚗𝚔⟩ for reasoning model early exiting**  
   *Xi Wang, James McInerney, Lequn Wang, Nathan Kallus*. [[pdf](https://arxiv.org/pdf/2509.26522)], [[code](https://github.com/xidulu/EAT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Early_Exit-green)
+- **SIRI: Scaling Iterative Reinforcement Learning with Interleaved Compression**  
+  *Haoming Wen, Yushi Bai, Juanzi Li, Jie Tang*. [[pdf](https://arxiv.org/pdf/2509.25176)], [[huggingface](https://huggingface.co/collections/THU-KEG/siri)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SIRI-blue)
 
 ### Adaptive Thinking
 
@@ -532,6 +536,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Shangshang Wang, Julian Asilis, Ömer Faruk Akgül, Enes Burak Bilgin, Ollie Liu, Willie Neiswanger*. [[pdf](https://arxiv.org/pdf/2504.15777)], [[code](https://github.com/shangshang-wang/Tina)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Tina-blue)
 - **A Technical Study into Small Reasoning Language Models**  
   *Xialie Zhuang, Peixian Ma, Zhikai Jia, Zheng Cao, Shiwei Liu*. [[pdf](https://arxiv.org/pdf/2506.13404)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners**  
+  *Xin Xu, Cliveb AI, Kai Yang, Tianhao Chen, Yang Wang, Saiyong Yang, Can Yang*. [[pdf](https://arxiv.org/pdf/2509.26226)], [[code](https://github.com/XinXU-USTC/TFPI-temp)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Small & Large Reasoning Model Collaboration
 
@@ -736,7 +742,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Decoder-Hybrid-Decoder Architecture for Efficient Reasoning with Long Generation**  
   *Liliang Ren, Congcong Chen, Haoran Xu, Young Jin Kim, Adam Atkinson, Zheng Zhan, Jiankai Sun, Baolin Peng, Liyuan Liu, Shuohang Wang, Hao Cheng, Jianfeng Gao, Weizhu Chen, Yelong Shen*. [[pdf](https://arxiv.org/pdf/2507.06607)], [[code](https://github.com/microsoft/ArchScale)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Retrieval-of-Thought: Efficient Reasoning via Reusing Thoughts**  
-  *Ammar Ahmed, Azal Ahmad Khan, Ayaan Ahmad, Sheng Di, Zirui Liu, Ali Anwar*. [[pdf](https://arxiv.org/pdf/2509.21743)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Ammar Ahmed, Azal Ahmad Khan, Ayaan Ahmad, Sheng Di, Zirui Liu, Ali Anwar*. [[pdf](https://arxiv.org/pdf/2509.21743)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Intra-request branch orchestration for efficient LLM reasoning**  
+  *Weifan Jiang, Rana Shahout, Yilun Du, Michael Mitzenmacher, Minlan Yu*. [[pdf](https://arxiv.org/pdf/2509.24957)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Benchmarks
 
@@ -797,6 +805,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wenquan Lu, Yuechuan Yang, Kyle Lee, Yanshu Li, Enqi Liu*. [[pdf](https://arxiv.org/pdf/2507.02199)], [[code](https://github.com/wenquanlu/huginn-latent-cot)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **First Try Matters: Revisiting the Role of Reflection in Reasoning Models**
   *Liwei Kang, Yue Deng, Yao Xiao, Zhanfeng Mo, Wee Sun Lee, Lidong Bing*. [[pdf](https://arxiv.org/pdf/2510.08308)], [[code](https://github.com/Olafyii/first-try-matters)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Rethinking Thinking Tokens: LLMs as Improvement Operators**
+  *Lovish Madaan, Aniket Didolkar, Suchin Gururangan, John Quan, Ruan Silva, Ruslan Salakhutdinov, Manzil Zaheer, Sanjeev Arora, Anirudh Goyal*. [[pdf](https://arxiv.org/pdf/2510.01123)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Applications
 
