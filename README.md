@@ -408,6 +408,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jianzhi Yan, Le Liu, Youcheng Pan, Shiwei Chen, Zike Yuan, Yang Xiang, Buzhou Tang*. [[pdf](https://arxiv.org/pdf/2509.22144)], [[code](https://github.com/Leon221220/MACC)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MACC-blue)
 - **Your Models Have Thought Enough: Training Large Reasoning Models to Stop Overthinking**  
   *Jinyi Han, Ying Huang, Ying Liao, Zishang Jiang, Xikun Lu, Haiquan Zhao, Xinyi Wang, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2509.23392)], [[code](https://github.com/JinyiHan99/Just-Enough-Think)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/JET-blue)
+- **Entropy After ⟨/𝚃𝚑𝚒𝚗𝚔⟩ for reasoning model early exiting**  
+  *Xi Wang, James McInerney, Lequn Wang, Nathan Kallus*. [[pdf](https://arxiv.org/pdf/2509.26522)], [[code](https://github.com/xidulu/EAT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Early_Exit-green)
 
 ### Adaptive Thinking
 
@@ -423,6 +425,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Guosheng Liang, Longguang Zhong, Ziyi Yang, Xiaojun Quan*. [[pdf](https://arxiv.org/pdf/2505.14183)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkSwitcher-blue)
 - **Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**  
   *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang*. [[pdf](https://arxiv.org/pdf/2505.15154)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CAR-blue)
+- **ARM: Adaptive Reasoning Model**  
+  *Siye Wu, Jian Xie, Yikai Zhang, Aili Chen, Kai Zhang, Yu Su, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2505.20258)], [[homepage](https://team-arm.github.io/arm/)], [[code](https://github.com/TEAM-ARM/ARM)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/ARM-blue)
 - **When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning**  
   *Xiaoyun Zhang, Jingqing Ruan, Xing Ma, Yawen Zhu, Haodong Zhao, Hao Li, Jiansong Chen, Ke Zeng, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2505.15400)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASRR-blue)
 - **AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning**  
@@ -445,8 +449,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zeyu XING, Xing Li, Huiling Zhen, Xianzhi Yu, Mingxuan Yuan, Sinno Jialin Pan*. [[pdf](https://openreview.net/forum?id=pLKDeGm2t1)], 2025.07. ![](https://img.shields.io/badge/ESFoMoIII@ICML2025-orange) ![](https://img.shields.io/badge/SelfThink-blue)
 - **Think in Blocks: Adaptive Reasoning from Direct Response to Deep Reasoning**  
   *Yekun Zhu, Guang Chen, Chengjun Mao*. [[pdf](https://arxiv.org/pdf/2508.15507)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
-- **ARM: Adaptive Reasoning Model**  
-  *Siye Wu, Jian Xie, Yikai Zhang, Aili Chen, Kai Zhang, Yu Su, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2505.20258)], [[homepage](https://team-arm.github.io/arm/)], [[code](https://github.com/TEAM-ARM/ARM)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/ARM-blue)
 
 ### Reasoning Shortcuts
 
@@ -802,6 +804,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wenhao Zeng, Yaoning Wang, Chao Hu, Yuling Shi, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu*. [[pdf](https://arxiv.org/pdf/2508.05988)], [[code](https://github.com/Zengwh02/ASAP)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Code-green)
 - **Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning**  
   *Shu Wu, Chenxing Li, Wenfu Wang, Hao Zhang, Hualei Wang, Meng Yu, Dong Yu*. [[pdf](https://arxiv.org/pdf/2508.08039)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Audio-green)
+- **ThinkBrake: Mitigating Overthinking in Tool Reasoning**  
+  *Minjae Oh, Sangjun Song, Seungkyu Lee, Sungmin Jo, Yohan Jo*. [[pdf](https://arxiv.org/pdf/2510.00546)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Tool_Use-green)
 
 ## Blog & Project
 
