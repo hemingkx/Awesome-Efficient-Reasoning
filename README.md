@@ -112,6 +112,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, Ke Ji, Wenyu Chen, Yan Xu, Yasheng Wang, Lifeng Shang, Benyou Wang*. [[pdf](https://arxiv.org/pdf/2506.12860)], [[code](https://github.com/LWL-cpu/Question-Free-Fine-Tuning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/QFFT-blue)
 - **TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling**  
   *Yizhi Li, Qingshui Gu, Zhoufutu Wen, Ziniu Li, Tianshun Xing, Shuyue Guo, Tianyu Zheng, Xin Zhou, Xingwei Qu, Wangchunshu Zhou, Zheng Zhang, Wei Shen, Qian Liu, Chenghua Lin, Jian Yang, Ge Zhang, Wenhao Huang*. [[pdf](https://arxiv.org/pdf/2508.17445)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TreePO-blue)
+- **History Rhymes: Accelerating LLM Reinforcement Learning with RhymeRL**  
+  *Jingkai He, Tianjian Li, Erhu Feng, Dong Du, Qian Liu, Tao Liu, Yubin Xia, Haibo Chen*. [[pdf](https://arxiv.org/pdf/2508.18588)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RhymeRL-blue)
+- **FastGRPO: Accelerating Policy Optimization via Concurrency-aware Speculative Decoding and Online Draft Learning**  
+  *Yizhou Zhang, Ning Lv, Teng Wang, Jisheng Dang*. [[pdf](https://arxiv.org/pdf/2509.21792)], [[code](https://github.com/yedaotian9/GRPO_speculative)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastGRPO-blue)
+- **SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts**  
+  *Bingshuai Liu, Ante Wang, Zijun Min, Liang Yao, Haibo Zhang, Yang Liu, Anxiang Zeng, Jinsong Su*. [[pdf](https://arxiv.org/pdf/2509.23232)], [[code](https://github.com/ShopeeLLM/Spec-RL)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPEC--RL-blue)
 - **Self-Aligned Reward: Towards Effective and Efficient Reasoners**  
   *Peixuan Han, Adit Krishnan, Gerald Friedland, Jiaxuan You, Chris Kong*. [[pdf](https://arxiv.org/pdf/2509.05489)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SAR-blue)
 - **CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models**  
@@ -596,10 +602,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.04708)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAND-blue)
 - **Scaling Speculative Decoding with Lookahead Reasoning**  
   *Yichao Fu, Rui Ge, Zelei Shao, Zhijie Deng, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2506.19830)], [[code](https://github.com/hao-ai-lab/LookaheadReasoning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
-- **FastGRPO: Accelerating Policy Optimization via Concurrency-aware Speculative Decoding and Online Draft Learning**  
-  *Yizhou Zhang, Ning Lv, Teng Wang, Jisheng Dang*. [[pdf](https://arxiv.org/pdf/2509.21792)], [[code](https://github.com/yedaotian9/GRPO_speculative)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastGRPO-blue)
-- **SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts**  
-  *Bingshuai Liu, Ante Wang, Zijun Min, Liang Yao, Haibo Zhang, Yang Liu, Anxiang Zeng, Jinsong Su*. [[pdf](https://arxiv.org/pdf/2509.23232)], [[code](https://github.com/ShopeeLLM/Spec-RL)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPEC--RL-blue)
 - **SpecExit: Accelerating Large Reasoning Model via Speculative Exit**  
   *Rubing Yang, Huajun Bai, Song Liu, Guanghua Yu, Runzhi Fan, Yanbin Dang, Jiejing Zhang, Kai Liu, Jianchen Zhu, Peng Chen*. [[pdf](https://arxiv.org/pdf/2509.24248)], [[code](https://github.com/Tencent/AngelSlim)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecExit-blue)
 
