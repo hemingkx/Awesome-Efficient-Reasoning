@@ -124,6 +124,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Runpeng Dai, Linfeng Song, Haolin Liu, Zhenwen Liang, Dian Yu, Haitao Mi, Zhaopeng Tu, Rui Liu, Tong Zheng, Hongtu Zhu, Dong Yu*. [[pdf](https://arxiv.org/pdf/2509.09675)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CDE-blue)
 - **On Predictability of Reinforcement Learning Dynamics for Large Language Models**  
   *Yuchen Cai, Ding Cao, Xin Xu, Zijun Yao, Yuqing Huang, Zhenyu Tan, Benyi Zhang, Guiquan Liu, Junfeng Fang*. [[pdf](https://arxiv.org/pdf/2510.00553)], [[code](https://github.com/caiyuchen-ustc/Alpha-RL)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AlphaRL-blue)
+- **ReSpec: Towards Optimizing Speculative Decoding in Reinforcement Learning Systems**  
+  *Qiaoling Chen, Zijun Liu, Peng Sun, Shenggui Li, Guoteng Wang, Ziming Liu, Yonggang Wen, Siyuan Feng, Tianwei Zhang*. [[pdf](https://arxiv.org/pdf/2510.26475)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ReSpec-blue)
+- **SRT: Accelerating Reinforcement Learning via Speculative Rollout with Tree-Structured Cache**  
+  *Chi-Chih Chang, Siqi Zhu, Zhichen Zeng, Haibin Lin, Xin Liu, Jiaxuan You, Mohamed S. Abdelfattah, Ziheng Jiang, Xuehai Qian*. [[pdf](https://openreview.net/attachment?id=UpEKKJStAY&name=pdf)], 2025.10.
 
 ### Latent Chain-of-Thought
 
