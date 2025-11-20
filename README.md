@@ -270,6 +270,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Xixian Yong, Xiao Zhou, Yingying Zhang, Jinlin Li, Yefeng Zheng, Xian Wu*. [[pdf](https://arxiv.org/pdf/2505.04881)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Scalable Chain of Thoughts via Elastic Reasoning**  
   *Yuhui Xu, Hanze Dong, Lei Wang, Doyen Sahoo, Junnan Li, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2505.05315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Elastic_Reasoning-blue) ![](https://img.shields.io/badge/Length_Control-green)
+- **Let LRMs Break Free from Overthinking via Self-Braking Tuning**  
+  *Haoran Zhao, Yuchen Yan, Yongliang Shen, Haolei Xu, Wenqi Zhang, Kaitao Song, Jian Shao, Weiming Lu, Jun Xiao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2505.14604)], [[code](https://github.com/ZJU-REAL/Self-Braking-Tuning)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Self--Braking--Tuning-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**  
   *Muzhi Dai, Chenxu Yang, Qingyi Si*. [[pdf](https://arxiv.org/pdf/2505.07686)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S--GRPO-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement**  
