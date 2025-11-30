@@ -295,7 +295,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models**  
   *Yuxuan Jiang, Dawei Li, Frank Ferraro*. [[pdf](https://arxiv.org/pdf/2505.13975)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DRP-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **SEAL: Steerable Reasoning Calibration of Large Language Models for Free**  
-  *Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang*. [[pdf](https://arxiv.org/pdf/2504.07986)], [[code](https://github.com/VITA-Group/SEAL)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SEAL-blue) ![](https://img.shields.io/badge/Steering-green)
+  *Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang*. [[pdf](https://arxiv.org/pdf/2504.07986)], [[code](https://github.com/VITA-Group/SEAL)], 2025.05. ![](https://img.shields.io/badge/COLM2025-orange) ![](https://img.shields.io/badge/SEAL-blue) ![](https://img.shields.io/badge/Steering-green)
 - **FlashThink: An Early Exit Method For Efficient Reasoning**  
   *Guochao Jiang, Guofeng Quan, Zepeng Ding, Ziqin Luo, Dixuan Wang, Zheng Hu*. [[pdf](https://arxiv.org/pdf/2505.13949)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FlashThink-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Optimizing Anytime Reasoning via Budget Relative Policy Optimization**  
@@ -385,7 +385,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **SmartThinker: Learning to Compress and Preserve Reasoning by Step-Level Length Control**  
   *Xingyang He, Xiao Ling, Jie Liu*. [[pdf](https://arxiv.org/pdf/2507.04348)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Controlling Thinking Speed in Reasoning Models**  
-  *Zhengkai Lin, Zhihang Fu, Ze Chen, Chao Chen, Liang Xie, Wenxiao Wang, Deng Cai, Zheng Wang, Jieping Ye*. [[pdf](https://arxiv.org/pdf/2507.03704v1)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Steering-green)
+  *Zhengkai Lin, Zhihang Fu, Ze Chen, Chao Chen, Liang Xie, Wenxiao Wang, Deng Cai, Zheng Wang, Jieping Ye*. [[pdf](https://arxiv.org/pdf/2507.03704v1)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025_Spotlight-orange) ![](https://img.shields.io/badge/Steering-green)
 - **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**  
   *Joonwon Jang, Jaehee Kim, Wonbin Kweon, Seonghyeon Lee, Hwanjo Yu*. [[pdf](https://aclanthology.org/2025.findings-acl.1068.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025--findings-orange)
 - **Test-time Prompt Intervention**  
