@@ -130,6 +130,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qiaoling Chen, Zijun Liu, Peng Sun, Shenggui Li, Guoteng Wang, Ziming Liu, Yonggang Wen, Siyuan Feng, Tianwei Zhang*. [[pdf](https://arxiv.org/pdf/2510.26475)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ReSpec-blue)
 - **SRT: Accelerating Reinforcement Learning via Speculative Rollout with Tree-Structured Cache**  
   *Chi-Chih Chang, Siqi Zhu, Zhichen Zeng, Haibin Lin, Xin Liu, Jiaxuan You, Mohamed S. Abdelfattah, Ziheng Jiang, Xuehai Qian*. [[pdf](https://openreview.net/attachment?id=UpEKKJStAY&name=pdf)], 2025.10.
+- **Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**  
+  *Ruoyu Qin, Weiran He, Weixiao Huang, Yangkun Zhang, Yikai Zhao, Bo Pang, Xinran Xu, Yingdi Shan, Yongwei Wu, Mingxing Zhang*. [[pdf](https://arxiv.org/pdf/2511.14617)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Seer-blue)
+  
 
 ### Latent Chain-of-Thought
 
