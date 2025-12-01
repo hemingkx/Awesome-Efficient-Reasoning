@@ -211,7 +211,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Dachuan Shi, Abedelkadir Asi, Keying Li, Xiangchi Yuan, Leyan Pan, Wenke Lee, Wen Xiao*. [[pdf](https://arxiv.org/pdf/2510.05069)], [[code](https://github.com/sdc17/SwiReasoning)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwiReasoning-blue)
 - **Towards Inference-time Scaling for Continuous Space Reasoning**  
   *Minghan Wang, Thuy-Trang Vu, Ehsan Shareghi, Gholamreza Haffari*. [[pdf](https://arxiv.org/pdf/2510.12167)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
-
+- **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**  
+  *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/abs/2511.08577)], [[code](https://github.com/thu-nics/TaH)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TaH-blue)
+  
 ### Long-to-Short Chain-of-Thought
 
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**  
