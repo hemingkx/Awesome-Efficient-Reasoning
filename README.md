@@ -214,6 +214,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Dachuan Shi, Abedelkadir Asi, Keying Li, Xiangchi Yuan, Leyan Pan, Wenke Lee, Wen Xiao*. [[pdf](https://arxiv.org/pdf/2510.05069)], [[code](https://github.com/sdc17/SwiReasoning)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwiReasoning-blue)
 - **Towards Inference-time Scaling for Continuous Space Reasoning**  
   *Minghan Wang, Thuy-Trang Vu, Ehsan Shareghi, Gholamreza Haffari*. [[pdf](https://arxiv.org/pdf/2510.12167)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Latent Reasoning in LLMs as a Vocabulary-Space Superposition**  
+  *Jingcheng Deng, Liang Pang, Zihao Wei, Shichen Xu, Zenghao Duan, Kun Xu, Yang Song, Huawei Shen, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2510.15522)], [[code](https://github.com/DJC-GO-SOLO/Latent-SFT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**  
   *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/abs/2511.08577)], [[code](https://github.com/thu-nics/TaH)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TaH-blue)
   
@@ -463,6 +465,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yujian Zhang, Keyu Chen, Zhifeng Shen, Ruizhi Qiao, Xing Sun*. [[pdf](https://arxiv.org/pdf/2510.10207)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Concise Reasoning in the Lens of Lagrangian Optimization**  
   *Chengqian Gao, Haonan Li, Taylor W. Killian, Jianshu She, Renxi Wang, Liqun Ma, Zhoujun Cheng, Shibo Hao, Zhiqiang Xu*. [[pdf](https://arxiv.org/pdf/2510.10168)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Towards Flash Thinking via Decoupled Advantage Policy Optimization**  
+  *Zezhong Tan, Hang Gao, Xinhong Ma, Feng Zhang, Ziqiang Dong*. [[pdf](https://arxiv.org/pdf/2510.15374)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per Token via Reinforcement Learning**  
+  *Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov*. [[pdf](https://arxiv.org/pdf/2510.15110)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DLER-blue)
 
 ### Adaptive Thinking
 
@@ -821,7 +827,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Intra-request branch orchestration for efficient LLM reasoning**  
   *Weifan Jiang, Rana Shahout, Yilun Du, Michael Mitzenmacher, Minlan Yu*. [[pdf](https://arxiv.org/pdf/2509.24957)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **The Markovian Thinker: Architecture-Agnostic Linear Scaling of Reasoning**  
-  *Milad Aghajohari, Kamran Chitsaz, Amirhossein Kazemnejad, Sarath Chandar, Alessandro Sordoni, Aaron Courville, Siva Reddy*. [[pdf](https://arxiv.org/pdf/2510.06557)], [[code](https://github.com/McGill-NLP/the-markovian-thinker)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Milad Aghajohari, Kamran Chitsaz, Amirhossein Kazemnejad, Sarath Chandar, Alessandro Sordoni, Aaron Courville, Siva Reddy*. [[pdf](https://arxiv.org/pdf/2510.06557)], [[code](https://github.com/McGill-NLP/the-markovian-thinker)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **StreamingThinker: Large Language Models Can Think While Reading**  
+  *Junlong Tong, Yingqi Fan, Anhao Zhao, Yunpu Ma, Xiaoyu Shen*. [[pdf](https://arxiv.org/pdf/2510.17238)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Benchmarks
 
@@ -886,6 +894,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Lovish Madaan, Aniket Didolkar, Suchin Gururangan, John Quan, Ruan Silva, Ruslan Salakhutdinov, Manzil Zaheer, Sanjeev Arora, Anirudh Goyal*. [[pdf](https://arxiv.org/pdf/2510.01123)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Do LLMs Really Need 10+ Thoughts for "Find the Time 1000 Days Later"? Towards Structural Understanding of LLM Overthinking**
   *Xinliang Frederick Zhang, Anhad Mohananey, Alexandra Chronopoulou, Pinelopi Papalampidi, Somit Gupta, Tsendsuren Munkhdalai, Lu Wang, Shyam Upadhyay*. [[pdf](https://arxiv.org/pdf/2510.07880)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Demystifying Hybrid Thinking: Can LLMs Truly Switch Between Think and No-Think?**
+  *Shouren Wang, Wang Yang, Xianxuan Long, Qifan Wang, Vipin Chaudhary, Xiaotian Han*. [[pdf](https://arxiv.org/pdf/2510.12680)], [[code](https://github.com/SR-A-W/demystifying-hybrid-thinking)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Applications
 
