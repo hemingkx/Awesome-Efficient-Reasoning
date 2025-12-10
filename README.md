@@ -132,7 +132,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chi-Chih Chang, Siqi Zhu, Zhichen Zeng, Haibin Lin, Xin Liu, Jiaxuan You, Mohamed S. Abdelfattah, Ziheng Jiang, Xuehai Qian*. [[pdf](https://openreview.net/attachment?id=UpEKKJStAY&name=pdf)], 2025.10.
 - **Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**  
   *Ruoyu Qin, Weiran He, Weixiao Huang, Yangkun Zhang, Yikai Zhao, Bo Pang, Xinran Xu, Yingdi Shan, Yongwei Wu, Mingxing Zhang*. [[pdf](https://arxiv.org/pdf/2511.14617)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Seer-blue)
-  
 
 ### Latent Chain-of-Thought
 
@@ -216,9 +215,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Minghan Wang, Thuy-Trang Vu, Ehsan Shareghi, Gholamreza Haffari*. [[pdf](https://arxiv.org/pdf/2510.12167)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Latent Reasoning in LLMs as a Vocabulary-Space Superposition**  
   *Jingcheng Deng, Liang Pang, Zihao Wei, Shichen Xu, Zenghao Duan, Kun Xu, Yang Song, Huawei Shen, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2510.15522)], [[code](https://github.com/DJC-GO-SOLO/Latent-SFT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Continuous Autoregressive Language Models**  
+  *Chenze Shao, Darren Li, Fandong Meng, Jie Zhou*. [[pdf](https://arxiv.org/pdf/2510.27688)], [[code](https://github.com/shaochenze/calm)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**  
   *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/abs/2511.08577)], [[code](https://github.com/thu-nics/TaH)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TaH-blue)
-  
 ### Long-to-Short Chain-of-Thought
 
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**  
@@ -514,6 +514,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Haiquan Lu, Gongfan Fang, Xinyin Ma, Qi Li, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2510.06052)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **When to Reason: Semantic Router for vLLM**  
   *Chen Wang, Xunzhuo Liu, Yuhan Liu, Yue Zhu, Xiangxi Mo, Junchen Jiang, Huamin Chen*. [[pdf](https://arxiv.org/pdf/2510.08731)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference**  
+  *Xiang Liu, Xuming Hu, Xiaowen Chu, Eunsol Choi*. [[pdf](https://arxiv.org/pdf/2510.19669)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Reasoning Shortcuts
 
@@ -760,6 +762,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zenan Xu, Zexuan Qiu, Guanhua Huang, Kun Li, Siheng Li, Chenchen Zhang, Kejiao Li, Qi Yi, Yuhao Jiang, Bo Zhou, Fengzong Lian, Zhanhui Kang*. [[pdf](https://arxiv.org/pdf/2507.06829)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **MUR: Momentum Uncertainty guided Reasoning for Large Language Models**  
   *Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, Qika Lin, Jun Liu*. [[pdf](https://arxiv.org/pdf/2507.14958)], [[code](https://github.com/yayayacc/MUR)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Parallel Loop Transformer for Efficient Test-Time Computation Scaling**  
+  *Bohong Wu, Mengzhao Chen, Xiang Luo, Shen Yan, Qifan Yu, Fan Xia, Tianqi Zhang, Hongrui Zhan, Zheng Zhong, Xun Zhou, Siyuan Qiao, Xingyan Bin*. [[pdf](https://arxiv.org/pdf/2510.24824)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Self-Consistency
 
