@@ -341,6 +341,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **LLMs Can Reason Faster Only If We Let Them**  
   *Bilgehan Sel, Lifu Huang, Naren Ramakrishnan, Ruoxi Jia, Ming Jin*. [[pdf](https://openreview.net/pdf?id=uTv5rOPZr4)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange)
+- **DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per Token via Reinforcement Learning**  
+  *Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov*. [[pdf](https://arxiv.org/pdf/2510.15110)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DLER-blue)
 - **A\*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings**  
   *Xiaoang Xu, Shuo Wang, Xu Han, Zhenghao Liu, Huijia Wu, Peipei Li, Zhiyuan Liu, Maosong Sun, Zhaofeng He*. [[pdf](https://arxiv.org/pdf/2505.24550)], [[code](https://github.com/AI9Stars/AStar-Thought)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/A*--Thought-blue)
 - **TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression**  
@@ -467,8 +469,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chengqian Gao, Haonan Li, Taylor W. Killian, Jianshu She, Renxi Wang, Liqun Ma, Zhoujun Cheng, Shibo Hao, Zhiqiang Xu*. [[pdf](https://arxiv.org/pdf/2510.10168)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Towards Flash Thinking via Decoupled Advantage Policy Optimization**  
   *Zezhong Tan, Hang Gao, Xinhong Ma, Feng Zhang, Ziqiang Dong*. [[pdf](https://arxiv.org/pdf/2510.15374)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
-- **DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per Token via Reinforcement Learning**  
-  *Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov*. [[pdf](https://arxiv.org/pdf/2510.15110)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DLER-blue)
+- **DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models**  
+  *Ruofan Zhang, Bin Xia, Zhen Cheng, Cairen Jian, Minglun Yang, Ngai Wong, Yuan Cheng*. [[pdf](https://arxiv.org/pdf/2511.01170)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DART-blue)
+- **e1: Learning Adaptive Control of Reasoning Effort**  
+  *Michael Kleinman, Matthew Trager, Alessandro Achille, Wei Xia, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2510.27042)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Adaptive Thinking
 
@@ -516,6 +520,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chen Wang, Xunzhuo Liu, Yuhan Liu, Yue Zhu, Xiangxi Mo, Junchen Jiang, Huamin Chen*. [[pdf](https://arxiv.org/pdf/2510.08731)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference**  
   *Xiang Liu, Xuming Hu, Xiaowen Chu, Eunsol Choi*. [[pdf](https://arxiv.org/pdf/2510.19669)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains**  
+  *Tian Liang, Wenxiang Jiao, Zhiwei He, Jiahao Xu, Haitao Mi, Dong Yu*. [[pdf](https://arxiv.org/pdf/2510.27419)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Reasoning Shortcuts
 
