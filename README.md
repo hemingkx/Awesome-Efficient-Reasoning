@@ -140,6 +140,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qinghao Hu, Shang Yang, Junxian Guo, Xiaozhe Yao, Yujun Lin, Yuxian Gu, Han Cai, Chuang Gan, Ana Klimovic, Song Han*. [[pdf](https://arxiv.org/pdf/2511.16665)], [[code](https://github.com/mit-han-lab/fastrl)], 2025.11. ![](https://img.shields.io/badge/ASPLOS'26-orange) ![](https://img.shields.io/badge/TLT-blue)
 - **Fast LLM Post-training via Decoupled and Best-of-N Speculation**  
   *Rongxin Cheng, Kai Zhou, Xingda Wei, Siyuan Liu, Mingcong Han, Mingjing Ai, Yeju Zhou, Baoquan Zhong, Wencong Xiao, Rong Chen, Haibo Chen*. [[pdf](https://arxiv.org/pdf/2511.16193)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting**  
+  *Siqi Wang, Hailong Yang, Junjie Zhu, Xuezhu Wang, Yufan Xu, Depei Qian*. [[pdf](https://arxiv.org/pdf/2512.04752)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Latent Chain-of-Thought
 
@@ -229,6 +231,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/abs/2511.08577)], [[code](https://github.com/thu-nics/TaH)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TaH-blue)
 - **Think Consistently, Reason Efficiently: Energy-Based Calibration for Implicit Chain-of-Thought**  
   *Zhikang Chen, Sen Cui, Deheng Ye, Yu Zhang, Yatao Bian, Tingting Zhu*. [[pdf](https://arxiv.org/pdf/2511.07124)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space**  
+  *Chengzhi Liu, Yuzhe Yang, Yue Fan, Qingyue Wei, Sheng Liu, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2512.12623)], [[homepage](https://mllm-dmlr.github.io/)], [[code](https://github.com/eric-ai-lab/DMLR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
 ### Long-to-Short Chain-of-Thought
 
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**  
@@ -485,6 +489,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Michael Kleinman, Matthew Trager, Alessandro Achille, Wei Xia, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2510.27042)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Efficient Reasoning via Reward Model**  
   *Yuhao Wang, Xiaopeng Li, Cheng Gong, Ziru Liu, Suiyun Zhang, Rui Liu, Xiangyu Zhao*. [[pdf](https://arxiv.org/pdf/2511.09158)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **ORION: Teaching Language Models to Reason Efficiently in the Language of Thought**  
+  *Kumar Tanmay, Kriti Aggarwal, Paul Pu Liang, Subhabrata Mukherjee*. [[pdf](https://arxiv.org/pdf/2511.22891)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Dual-Density Inference for Efficient Language Model Reasoning**  
+  *Zhengyi Zhao, Shubo Zhang, Yuxi Zhang, Huimin Wang, Binyang Li, Kam-Fai Wong*. [[pdf](https://arxiv.org/pdf/2512.15358)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Adaptive Thinking
 
@@ -675,6 +683,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Rubing Yang, Huajun Bai, Song Liu, Guanghua Yu, Runzhi Fan, Yanbin Dang, Jiejing Zhang, Kai Liu, Jianchen Zhu, Peng Chen*. [[pdf](https://arxiv.org/pdf/2509.24248)], [[code](https://github.com/Tencent/AngelSlim)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecExit-blue)
 - **SpecCoT: Accelerating Chain-of-Thought Reasoning through Speculative Exploration**  
   *Junhan Shi, Yijia Zhu, Zhenning Shi, Dan Zhao, Qing Li, Yong Jiang*. [[pdf](https://aclanthology.org/2025.findings-emnlp.1326.pdf)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025_findings-orange) ![](https://img.shields.io/badge/SpecCoT-blue)
+- **Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding**  
+  *Yilong Zhao, Jiaming Tang, Kan Zhu, Zihao Ye, Chi-Chih Chang, Chaofan Lin, Jongseok Park, Guangxuan Xiao, Mohamed S. Abdelfattah, Mingyu Gao, Baris Kasikci, Song Han, Ion Stoica*. [[pdf](https://arxiv.org/pdf/2512.01278)], [[code](https://github.com/sspec-project/SparseSpec/tree/main)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Parallel Thinking
 
