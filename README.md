@@ -845,6 +845,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qixiang Yin, Huanjin Yao, Jianghao Chen, Jiaxing Huang, Zhicheng Zhao, Fei Su*. [[pdf](https://arxiv.org/pdf/2510.08987)], [[code](https://github.com/buptyqx/Tiny-R1V)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Learning to Think Fast and Slow for Visual Language Models**  
   *Chenyu Lin, Cheng Chi, Jinlin Wu, Sharon Li, Kaiyang Zhou*. [[pdf](https://arxiv.org/pdf/2511.16670)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **ChainV: Atomic Visual Hints Make Multimodal Reasoning Shorter and Better**  
+  *Yuan Zhang, Ming Lu, Junwen Pan, Tao Huang, Kuan Cheng, Qi She, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2511.17106)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Other Work
 
