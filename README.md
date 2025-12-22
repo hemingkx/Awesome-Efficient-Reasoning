@@ -71,6 +71,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Jindong Li, Yali Fu, Li Fan, Jiahong Liu, Yao Shu, Chengwei Qin, Menglin Yang, Irwin King, Rex Ying*. [[pdf](https://arxiv.org/pdf/2509.02350)], [[paper list](https://github.com/digailab/awesome-llm-implicit-reasoning)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **A Survey on Parallel Reasoning**  
   *Ziqi Wang, Boye Niu, Zipeng Gao, Zhi Zheng, Tong Xu, Linghui Meng, Zhongli Li, Jing Liu, Yilong Chen, Chen Zhu, Hua Wu, Haifeng Wang, Enhong Chen*. [[pdf](https://arxiv.org/pdf/2510.12164)], [[paper list](https://github.com/PPPP-kaqiu/Awesome-Parallel-Reasoning)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models**  
+  *Chao Wu, Baoheng Li, Mingchen Gao, Zhenyi Wang*. [[pdf](https://arxiv.org/pdf/2511.10788)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Training
 
@@ -132,6 +134,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chi-Chih Chang, Siqi Zhu, Zhichen Zeng, Haibin Lin, Xin Liu, Jiaxuan You, Mohamed S. Abdelfattah, Ziheng Jiang, Xuehai Qian*. [[pdf](https://openreview.net/attachment?id=UpEKKJStAY&name=pdf)], 2025.10.
 - **Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**  
   *Ruoyu Qin, Weiran He, Weixiao Huang, Yangkun Zhang, Yikai Zhao, Bo Pang, Xinran Xu, Yingdi Shan, Yongwei Wu, Mingxing Zhang*. [[pdf](https://arxiv.org/pdf/2511.14617)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Seer-blue)
+- **Beat the long tail: Distribution-Aware Speculative Decoding for RL Training**  
+  *Zelei Shao, Vikranth Srivatsa, Sanjana Srivastava, Qingyang Wu, Alpay Ariyak, Xiaoxia Wu, Ameen Patel, Jue Wang, Percy Liang, Tri Dao, Ce Zhang, Yiying Zhang, Ben Athiwaratkun, Chenfeng Xu, Junxiong Wang*. [[pdf](https://arxiv.org/pdf/2511.13841)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**  
+  *Qinghao Hu, Shang Yang, Junxian Guo, Xiaozhe Yao, Yujun Lin, Yuxian Gu, Han Cai, Chuang Gan, Ana Klimovic, Song Han*. [[pdf](https://arxiv.org/pdf/2511.16665)], [[code](https://github.com/mit-han-lab/fastrl)], 2025.11. ![](https://img.shields.io/badge/ASPLOS'26-orange) ![](https://img.shields.io/badge/TLT-blue)
+- **Fast LLM Post-training via Decoupled and Best-of-N Speculation**  
+  *Rongxin Cheng, Kai Zhou, Xingda Wei, Siyuan Liu, Mingcong Han, Mingjing Ai, Yeju Zhou, Baoquan Zhong, Wencong Xiao, Rong Chen, Haibo Chen*. [[pdf](https://arxiv.org/pdf/2511.16193)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Latent Chain-of-Thought
 
@@ -807,6 +815,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhi Zhou, Tan Yuhao, Zenan Li, Yuan Yao, Lan-Zhe Guo, Xiaoxing Ma, Yu-Feng Li*. [[pdf](https://arxiv.org/pdf/2502.00511)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RPC-blue)
 - **Slim-SC: Thought Pruning for Efficient Scaling with Self-Consistency**  
   *Colin Hong, Xu Guo, Anand Chaanan Singh, Esha Choukse, Dmitrii Ustiugov*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Slim--SC-blue)
+- **Optimal Self-Consistency for Efficient Reasoning with Large Language Models**  
+  *Austin Feng, Marius Alonso, Ambroise Odonnat*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Long-Context Reasoning Efficiency
 
@@ -833,6 +843,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Shuang Chen, Yue Guo, Yimeng Ye, Shijue Huang, Wenbo Hu, Haoxi Li, Manyuan Zhang, Jiayu Chen, Song Guo, Nanyun Peng*. [[pdf](https://arxiv.org/pdf/2510.08457)], [[code](https://github.com/shawn0728/ARES)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ARES-blue)
 - **Towards Efficient Multimodal Unified Reasoning Model via Model Merging**  
   *Qixiang Yin, Huanjin Yao, Jianghao Chen, Jiaxing Huang, Zhicheng Zhao, Fei Su*. [[pdf](https://arxiv.org/pdf/2510.08987)], [[code](https://github.com/buptyqx/Tiny-R1V)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Learning to Think Fast and Slow for Visual Language Models**  
+  *Chenyu Lin, Cheng Chi, Jinlin Wu, Sharon Li, Kaiyang Zhou*. [[pdf](https://arxiv.org/pdf/2511.16670)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Other Work
 
