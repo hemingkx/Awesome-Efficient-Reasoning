@@ -720,7 +720,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **ThinKV: Thought-Adaptive KV Cache Compression for Efficient Reasoning Models**  
   *Akshat Ramachandran, Marina Neseem, Charbel Sakr, Rangharajan Venkatesan, Brucek Khailany, Tushar Krishna*. [[pdf](https://arxiv.org/pdf/2510.01290)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Which Heads Matter for Reasoning? RL-Guided KV Cache Compression**  
-  *Wenjie Du, Li Jiang, Keda Tao, Xue Liu, Huan Wang*. [[pdf](https://arxiv.org/pdf/2510.01290)], [[homepage](https://kurt232.github.io/RLKV_Web/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Wenjie Du, Li Jiang, Keda Tao, Xue Liu, Huan Wang*. [[pdf](https://arxiv.org/pdf/2510.08525)], [[homepage](https://kurt232.github.io/RLKV_Web/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Optimal Test-Time Scaling
 
