@@ -674,7 +674,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Accelerating Large Language Model Reasoning via Speculative Search**  
   *Zhihai Wang, Jie Wang, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu*. [[pdf](https://arxiv.org/pdf/2505.02865)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/SCoT-blue)
 - **R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing**  
-  *Tianyu Fu, Yi Ge, Yichen You, Enshu Liu, Zhihang Yuan, Guohao Dai, Shengen Yan, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/pdf/2505.02865)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/R2R-blue)
+  *Tianyu Fu, Yi Ge, Yichen You, Enshu Liu, Zhihang Yuan, Guohao Dai, Shengen Yan, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/pdf/2505.21600)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/R2R-blue)
 - **Accelerated Test-Time Scaling with Model-Free Speculative Sampling**  
   *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.04708)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAND-blue)
 - **Scaling Speculative Decoding with Lookahead Reasoning**  
@@ -684,7 +684,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **SpecCoT: Accelerating Chain-of-Thought Reasoning through Speculative Exploration**  
   *Junhan Shi, Yijia Zhu, Zhenning Shi, Dan Zhao, Qing Li, Yong Jiang*. [[pdf](https://aclanthology.org/2025.findings-emnlp.1326.pdf)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025_findings-orange) ![](https://img.shields.io/badge/SpecCoT-blue)
 - **Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding**  
-  *Yilong Zhao, Jiaming Tang, Kan Zhu, Zihao Ye, Chi-Chih Chang, Chaofan Lin, Jongseok Park, Guangxuan Xiao, Mohamed S. Abdelfattah, Mingyu Gao, Baris Kasikci, Song Han, Ion Stoica*. [[pdf](https://arxiv.org/pdf/2512.01278)], [[code](https://github.com/sspec-project/SparseSpec/tree/main)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Yilong Zhao, Jiaming Tang, Kan Zhu, Zihao Ye, Chi-Chih Chang, Chaofan Lin, Jongseok Park, Guangxuan Xiao, Mohamed S. Abdelfattah, Mingyu Gao, Baris Kasikci, Song Han, Ion Stoica*. [[pdf](https://arxiv.org/pdf/2512.01278)], [[code](https://github.com/sspec-project/SparseSpec/tree/main)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Parallel Thinking
 
