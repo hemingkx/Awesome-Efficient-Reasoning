@@ -293,6 +293,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Ziqing Qiao, Yongheng Deng, Jiali Zeng, Dong Wang, Lai Wei, Fandong Meng, Jie Zhou, Ju Ren, Yaoxue Zhang*. [[pdf](https://arxiv.org/pdf/2505.04881)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ConCISE-blue)
 - **Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens**  
   *Xixian Yong, Xiao Zhou, Yingying Zhang, Jinlin Li, Yefeng Zheng, Xian Wu*. [[pdf](https://arxiv.org/pdf/2505.04881)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
+- **Activation-Guided Consensus Merging for Large Language Models**  
+  *Yuxuan Yao, Shuqi Liu, Zehua Liu, Qintong Li, Mingyang Liu, Xiongwei Han, Zhijiang Guo, Han Wu, Linqi Song*. [[pdf](https://arxiv.org/pdf/2505.14009)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Scalable Chain of Thoughts via Elastic Reasoning**  
   *Yuhui Xu, Hanze Dong, Lei Wang, Doyen Sahoo, Junnan Li, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2505.05315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Elastic_Reasoning-blue) ![](https://img.shields.io/badge/Length_Control-green)
 - **Let LRMs Break Free from Overthinking via Self-Braking Tuning**  
