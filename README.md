@@ -501,7 +501,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL**  
   *Songjun Tu, Jiahao Lin, Qichao Zhang, Xiangyu Tian, Linjing Li, Xiangyuan Lan, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2505.10832)], [[code](https://github.com/TU2021/AutoThink)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **AdaptThink: Reasoning Models Can Learn When to Think**  
-  *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*. [[pdf](https://arxiv.org/pdf/2505.13417)], [[code](https://github.com/THU-KEG/AdaptThink)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaptThink-blue)
+  *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*. [[pdf](https://arxiv.org/pdf/2505.13417)], [[code](https://github.com/THU-KEG/AdaptThink)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/AdaptThink-blue)
 - **Thinkless: LLM Learns When to Think**  
   *Gongfan Fang, Xinyin Ma, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.13379)], [[code](https://github.com/VainF/Thinkless)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Thinkless-blue)
 - **Think Only When You Need with Large Hybrid-Reasoning Models**  
