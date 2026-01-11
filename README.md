@@ -500,6 +500,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yuhao Wang, Xiaopeng Li, Cheng Gong, Ziru Liu, Suiyun Zhang, Rui Liu, Xiangyu Zhao*. [[pdf](https://arxiv.org/pdf/2511.09158)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ORION: Teaching Language Models to Reason Efficiently in the Language of Thought**  
   *Kumar Tanmay, Kriti Aggarwal, Paul Pu Liang, Subhabrata Mukherjee*. [[pdf](https://arxiv.org/pdf/2511.22891)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Efficient Reasoning via Thought-Training and Thought-Free Inference**  
+  *Canhui Wu, Qiong Cao, Chao Xue, Wei Xi, Xiaodong He*. [[pdf](https://arxiv.org/pdf/2511.03408)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Dual-Density Inference for Efficient Language Model Reasoning**  
   *Zhengyi Zhao, Shubo Zhang, Yuxi Zhang, Huimin Wang, Binyang Li, Kam-Fai Wong*. [[pdf](https://arxiv.org/pdf/2512.15358)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
 
@@ -535,8 +537,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wencheng Zhang, Shiqin Qiao, Lingjie Luo, Yinfeng Li, Chuanyang Zheng, Qian Xu, Meng Li, Yong Gui, Yijun He, Jianing Qiu, Jindong Hong, Jiankai Sun*. [[pdf](https://arxiv.org/pdf/2507.02822)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SynapseRoute-blue)
 - **Large Reasoning Models Know How to Think Efficiently**  
   *Zeyu XING, Xing Li, Huiling Zhen, Xianzhi Yu, Mingxuan Yuan, Sinno Jialin Pan*. [[pdf](https://openreview.net/forum?id=pLKDeGm2t1)], 2025.07. ![](https://img.shields.io/badge/ESFoMoIII@ICML2025-orange) ![](https://img.shields.io/badge/SelfThink-blue)
-- **Think in Blocks: Adaptive Reasoning from Direct Response to Deep Reasoning**  
-  *Yekun Zhu, Guang Chen, Chengjun Mao*. [[pdf](https://arxiv.org/pdf/2508.15507)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Gold-Switch: Training-Free Superposition of Slow- and Fast- Thinking LLMs**  
   *Jaeseong Lee, Dayoung Kwon, seung-won hwang*. [[pdf](https://arxiv.org/pdf/2510.06750)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **MixReasoning: Switching Modes to Think**  
@@ -551,8 +551,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wenshuo Zhao, Haoxing Zhai, Xinyu Qiu, Zhenting Qi, Shuhe Li, Linchao Zhu*. [[pdf](https://arxiv.org/pdf/2510.27419)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025-orange)
 - **Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning**  
   *Renos Zabounidis, Aditya Golatkar, Michael Kleinman, Alessandro Achille, Wei Xia, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2511.02130)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Efficient Reasoning via Thought-Training and Thought-Free Inference**  
-  *Canhui Wu, Qiong Cao, Chao Xue, Wei Xi, Xiaodong He*. [[pdf](https://arxiv.org/pdf/2511.03408)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Reasoning Shortcuts
 
@@ -883,6 +881,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Seyyed Saeid Cheshmi, Azal Ahmad Khan, Xinran Wang, Zirui Liu, Ali Anwar*. [[pdf](https://arxiv.org/pdf/2508.01969)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Decoder-Hybrid-Decoder Architecture for Efficient Reasoning with Long Generation**  
   *Liliang Ren, Congcong Chen, Haoran Xu, Young Jin Kim, Adam Atkinson, Zheng Zhan, Jiankai Sun, Baolin Peng, Liyuan Liu, Shuohang Wang, Hao Cheng, Jianfeng Gao, Weizhu Chen, Yelong Shen*. [[pdf](https://arxiv.org/pdf/2507.06607)], [[code](https://github.com/microsoft/ArchScale)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange)
+- **Think in Blocks: Adaptive Reasoning from Direct Response to Deep Reasoning**  
+  *Yekun Zhu, Guang Chen, Chengjun Mao*. [[pdf](https://arxiv.org/pdf/2508.15507)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Retrieval-of-Thought: Efficient Reasoning via Reusing Thoughts**  
   *Ammar Ahmed, Azal Ahmad Khan, Ayaan Ahmad, Sheng Di, Zirui Liu, Ali Anwar*. [[pdf](https://arxiv.org/pdf/2509.21743)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Intra-request branch orchestration for efficient LLM reasoning**  
