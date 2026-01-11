@@ -217,6 +217,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Anna Kuzina, Maciej Pioro, Paul N. Whatmough, Babak Ehteshami Bejnordi*. [[pdf](https://arxiv.org/pdf/2510.02312)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/KaVa-blue)
 - **SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs**  
   *Dachuan Shi, Abedelkadir Asi, Keying Li, Xiangchi Yuan, Leyan Pan, Wenke Lee, Wen Xiao*. [[pdf](https://arxiv.org/pdf/2510.05069)], [[code](https://github.com/sdc17/SwiReasoning)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwiReasoning-blue)
+- **Parallel Test-Time Scaling for Latent Reasoning Models**
+  *Runyang You, Yongqi Li, Meng Liu, Wenjie Wang, Liqiang Nie, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2510.07745),[code](https://github.com/ModalityDance/LatentTTS/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Towards Inference-time Scaling for Continuous Space Reasoning**  
   *Minghan Wang, Thuy-Trang Vu, Ehsan Shareghi, Gholamreza Haffari*. [[pdf](https://arxiv.org/pdf/2510.12167)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Analysis-green)
 - **Latent Reasoning in LLMs as a Vocabulary-Space Superposition**  
@@ -229,6 +231,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhikang Chen, Sen Cui, Deheng Ye, Yu Zhang, Yatao Bian, Tingting Zhu*. [[pdf](https://arxiv.org/pdf/2511.07124)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EBM--CoT-blue)
 - **Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space**  
   *Chengzhi Liu, Yuzhe Yang, Yue Fan, Qingyue Wei, Sheng Liu, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2512.12623)], [[homepage](https://mllm-dmlr.github.io/)], [[code](https://github.com/eric-ai-lab/DMLR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DMLR-blue)
+ - **Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space**
+  *Chao Chen, Zhixin Ma, Yongqi Li, Yupeng Hu, Yinwei Wei, Wenjie Li, Liqiang Nie*. [[pdf](https://arxiv.org/pdf/2510.12603), [code](https://github.com/FYYDCC/IVT-LR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/IVT--LR-blue) ![](https://img.shields.io/badge/Multimodal-green)
+- **Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**
+  *Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan*. [[pdf](https://arxiv.org/pdf/2506.17218), [code](https://github.com/UMass-Embodied-AGI/Mirage), [project](https://vlm-mirage.github.io/)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Mirage-blue) ![](https://img.shields.io/badge/Multimodal-green)
+- **Mull-Tokens: Modality-Agnostic Latent Thinking**
+*Arijit Ray, Ahmed Abdelkader, Chengzhi Mao, Bryan A. Plummer, Kate Saenko, Ranjay Krishna, Leonidas Guibas, Wen-Sheng Chu*. [[pdf](https://arxiv.org/pdf/2512.10941), [project](https://arijitray.com/multimodal_thinking/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Mull--Tokens-blue) ![](https://img.shields.io/badge/Multimodal-green)
+
 ### Long-to-Short Chain-of-Thought
 
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**  
@@ -855,6 +864,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chenyu Lin, Cheng Chi, Jinlin Wu, Sharon Li, Kaiyang Zhou*. [[pdf](https://arxiv.org/pdf/2511.16670)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ChainV: Atomic Visual Hints Make Multimodal Reasoning Shorter and Better**  
   *Yuan Zhang, Ming Lu, Junwen Pan, Tao Huang, Kuan Cheng, Qi She, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2511.17106)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Thinking with Visual Abstract: Enhancing Multimodal Reasoning via Visual Abstraction**
+  *Dairu Liu, Ziyue Wang, Minyuan Ruan, Fuwen Luo, Chi Chen, Peng Li, Yang Liu*. [[pdf](https://arxiv.org/pdf/2505.20164)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VAT-blue) ![](https://img.shields.io/badge/Multimodal-green)
 
 ### Other Work
 
