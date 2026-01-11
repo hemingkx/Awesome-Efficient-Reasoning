@@ -499,7 +499,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 ### Adaptive Thinking
 
 - **Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL**  
-  *Songjun Tu, Jiahao Lin, Qichao Zhang, Xiangyu Tian, Linjing Li, Xiangyuan Lan, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2505.10832)], [[code](https://github.com/TU2021/AutoThink)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Songjun Tu, Jiahao Lin, Qichao Zhang, Xiangyu Tian, Linjing Li, Xiangyuan Lan, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2505.10832)], [[code](https://github.com/TU2021/AutoThink)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **AdaptThink: Reasoning Models Can Learn When to Think**  
   *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li*. [[pdf](https://arxiv.org/pdf/2505.13417)], [[code](https://github.com/THU-KEG/AdaptThink)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/AdaptThink-blue)
 - **Thinkless: LLM Learns When to Think**  
