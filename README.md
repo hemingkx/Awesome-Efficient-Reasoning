@@ -299,6 +299,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yuhui Xu, Hanze Dong, Lei Wang, Doyen Sahoo, Junnan Li, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2505.05315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Elastic_Reasoning-blue) ![](https://img.shields.io/badge/Length_Control-green)
 - **Let LRMs Break Free from Overthinking via Self-Braking Tuning**  
   *Haoran Zhao, Yuchen Yan, Yongliang Shen, Haolei Xu, Wenqi Zhang, Kaitao Song, Jian Shao, Weiming Lu, Jun Xiao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2505.14604)], [[code](https://github.com/ZJU-REAL/Self-Braking-Tuning)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Self--Braking--Tuning-blue) ![](https://img.shields.io/badge/Early_Exit-green)
+- **AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**  
+  *Junyu Zhang, Runpei Dong, Han Wang, Xuying Ning, Haoran Geng, Peihao Li, Xialin He, Yutong Bai, Jitendra Malik, Saurabh Gupta, Huan Zhang*. [[pdf](https://arxiv.org/pdf/2505.24863)], [[homepage](https://alphaone-project.github.io/)], [[code](https://github.com/ASTRAL-Group/AlphaOne)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/AlphaOne-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**  
   *Muzhi Dai, Chenxu Yang, Qingyi Si*. [[pdf](https://arxiv.org/pdf/2505.07686)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S--GRPO-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement**  
@@ -513,13 +515,11 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **ARM: Adaptive Reasoning Model**  
   *Siye Wu, Jian Xie, Yikai Zhang, Aili Chen, Kai Zhang, Yu Su, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2505.20258)], [[homepage](https://team-arm.github.io/arm/)], [[code](https://github.com/TEAM-ARM/ARM)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/ARM-blue)
 - **When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning**  
-  *Xiaoyun Zhang, Jingqing Ruan, Xing Ma, Yawen Zhu, Haodong Zhao, Hao Li, Jiansong Chen, Ke Zeng, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2505.15400)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASRR-blue)
+  *Xiaoyun Zhang, Jingqing Ruan, Xing Ma, Yawen Zhu, Haodong Zhao, Hao Li, Jiansong Chen, Ke Zeng, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2505.15400)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025--findings-orange) ![](https://img.shields.io/badge/ASRR-blue)
 - **AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning**  
   *Chenwei Lou, Zewei Sun, Xinnian Liang, Meng Qu, Wei Shen, Wenqi Wang, Yuntao Li, Qingping Yang, Shuangzhi Wu*. [[pdf](https://arxiv.org/pdf/2505.11896)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaCoT-blue)
 - **AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**  
   *Feng Luo, Yu-Neng Chuang, Guanchu Wang, Hoang Anh Duy Le, Shaochen Zhong, Hongyi Liu, Jiayi Yuan, Yang Sui, Vladimir Braverman, Vipin Chaudhary, Xia Hu*. [[pdf](https://arxiv.org/pdf/2505.22662)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AutoL2S-blue)
-- **AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**  
-  *Junyu Zhang, Runpei Dong, Han Wang, Xuying Ning, Haoran Geng, Peihao Li, Xialin He, Yutong Bai, Jitendra Malik, Saurabh Gupta, Huan Zhang*. [[pdf](https://arxiv.org/pdf/2505.24863)], [[homepage](https://alphaone-project.github.io/)], [[code](https://github.com/ASTRAL-Group/AlphaOne)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AlphaOne-blue)
 - **OThink-R1: Intrinsic Fast/Slow Thinking Mode Switching for Over-Reasoning Mitigation**  
   *Shengjia Zhang, Junjie Wu, Jiawei Chen, Changwang Zhang, Xingyu Lou, Wangchunshu Zhou, Sheng Zhou, Can Wang, Jun Wang*. [[pdf](https://arxiv.org/pdf/2506.02397)], [[code](https://github.com/AgenticIR-Lab/OThink-R1)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/OThink--R1-blue)
 - **Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models**  
