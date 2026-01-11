@@ -250,7 +250,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Kimi k1.5: Scaling Reinforcement Learning with LLMs**  
   *Kimi Team*. [[pdf](https://arxiv.org/pdf/2501.12599)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Kimi_k1.5-blue)
 - **Training Language Models to Reason Efficiently**  
-  *Daman Arora, Andrea Zanette*. [[pdf](https://arxiv.org/pdf/2502.04463)], [[code](https://github.com/Zanette-Labs/efficient-reasoning)], [[homepage](https://zanette-labs.github.io/efficient-reasoning/)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Daman Arora, Andrea Zanette*. [[pdf](https://arxiv.org/pdf/2502.04463)], [[code](https://github.com/Zanette-Labs/efficient-reasoning)], [[homepage](https://zanette-labs.github.io/efficient-reasoning/)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models**  
   *Yuan Sui, Yufei He, Tri Cao, Simeng Han, Bryan Hooi*. [[pdf](https://arxiv.org/pdf/2502.19918)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Meta--Reasoner-blue)
 - **CoT-Valve: Length-Compressible Chain-of-Thought Tuning**  
