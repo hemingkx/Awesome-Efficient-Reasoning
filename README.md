@@ -517,8 +517,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Lingjie Jiang, Xun Wu, Shaohan Huang, Qingxiu Dong, Zewen Chi, Li Dong, Xingxing Zhang, Tengchao Lv, Lei Cui, Furu Wei*. [[pdf](https://arxiv.org/pdf/2505.14631)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **ThinkSwitcher: When to Think Hard, When to Think Fast**  
   *Guosheng Liang, Longguang Zhong, Ziyi Yang, Xiaojun Quan*. [[pdf](https://arxiv.org/pdf/2505.14183)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025--findings-orange) ![](https://img.shields.io/badge/ThinkSwitcher-blue)
-- **Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**  
-  *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang*. [[pdf](https://arxiv.org/pdf/2505.15154)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CAR-blue)
 - **ARM: Adaptive Reasoning Model**  
   *Siye Wu, Jian Xie, Yikai Zhang, Aili Chen, Kai Zhang, Yu Su, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2505.20258)], [[homepage](https://team-arm.github.io/arm/)], [[code](https://github.com/TEAM-ARM/ARM)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/ARM-blue)
 - **When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning**  
@@ -844,6 +842,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 - **PixelThink: Towards Efficient Chain-of-Pixel Reasoning**  
   *Song Wang, Gongfan Fang, Lingdong Kong, Xiangtai Li, Jianyun Xu, Sheng Yang, Qiang Li, Jianke Zhu, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.23727)], [[code](https://github.com/songw-zju/PixelThink)], [[homepage](https://pixelthink.github.io/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PixelThink-blue)
+- **Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**  
+  *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang*. [[pdf](https://arxiv.org/pdf/2505.15154)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CAR-blue)
 - **R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**  
   *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*. [[pdf](https://arxiv.org/pdf/2508.21113)], [[code](https://github.com/yannqi/R-4B)], [[huggingface](https://huggingface.co/YannQi/R-4B)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--4B-blue)
 - **Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models**  
