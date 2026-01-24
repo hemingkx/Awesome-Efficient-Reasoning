@@ -117,7 +117,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling**  
   *Yizhi Li, Qingshui Gu, Zhoufutu Wen, Ziniu Li, Tianshun Xing, Shuyue Guo, Tianyu Zheng, Xin Zhou, Xingwei Qu, Wangchunshu Zhou, Zheng Zhang, Wei Shen, Qian Liu, Chenghua Lin, Jian Yang, Ge Zhang, Wenhao Huang*. [[pdf](https://arxiv.org/pdf/2508.17445)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TreePO-blue)
 - **History Rhymes: Accelerating LLM Reinforcement Learning with RhymeRL**  
-  *Jingkai He, Tianjian Li, Erhu Feng, Dong Du, Qian Liu, Tao Liu, Yubin Xia, Haibo Chen*. [[pdf](https://arxiv.org/pdf/2508.18588)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RhymeRL-blue)
+  *Jingkai He, Tianjian Li, Erhu Feng, Dong Du, Qian Liu, Tao Liu, Yubin Xia, Haibo Chen*. [[pdf](https://arxiv.org/pdf/2508.18588)], 2025.08. ![](https://img.shields.io/badge/ASPLOS2026-orange) ![](https://img.shields.io/badge/RhymeRL-blue)
 - **FastGRPO: Accelerating Policy Optimization via Concurrency-aware Speculative Decoding and Online Draft Learning**  
   *Yizhou Zhang, Ning Lv, Teng Wang, Jisheng Dang*. [[pdf](https://arxiv.org/pdf/2509.21792)], [[code](https://github.com/yedaotian9/GRPO_speculative)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastGRPO-blue)
 - **SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts**  
@@ -433,7 +433,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning**  
   *Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, Shivam Garg, Harkirat Behl, Dimitris Papailiopoulos*. [[pdf](https://arxiv.org/pdf/2508.09726)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GFPO-blue)
 - **SABER: Switchable and Balanced Training for Efficient LLM Reasoning**  
-  *Kai Zhao, Yanjun Zhao, Jiaming Song, Shien He, Lusheng Zhang, Qiang Zhang, Tianjiao Li*. [[pdf](https://arxiv.org/pdf/2508.10026)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SABER-blue)
+  *Kai Zhao, Yanjun Zhao, Jiaming Song, Shien He, Lusheng Zhang, Qiang Zhang, Tianjiao Li*. [[pdf](https://arxiv.org/pdf/2508.10026)], 2025.08. ![](https://img.shields.io/badge/AAAI2026-orange) ![](https://img.shields.io/badge/SABER-blue)
 - **Promoting Efficient Reasoning with Verifiable Stepwise Reward**  
   *Chuhuai Yue, Chengqi Dong, Yinan Gao, Hang He, Jiajun Chai, Guojun Yin, Wei Lin*. [[pdf](https://arxiv.org/pdf/2508.10293)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VSRM-blue)
 - **Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models**  
@@ -461,7 +461,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Revisiting Model Interpolation for Efficient Reasoning**  
   *Taiqiang Wu, Runming Yang, Tao Liu, Jiahao Wang, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2510.10977)], [[code](https://github.com/wutaiqiang/MI)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MI-blue)
 - **From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement**  
-  *Jianzhi Yan, Le Liu, Youcheng Pan, Shiwei Chen, Zike Yuan, Yang Xiang, Buzhou Tang*. [[pdf](https://arxiv.org/pdf/2509.22144)], [[code](https://github.com/Leon221220/MACC)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MACC-blue)
+  *Jianzhi Yan, Le Liu, Youcheng Pan, Shiwei Chen, Zike Yuan, Yang Xiang, Buzhou Tang*. [[pdf](https://arxiv.org/pdf/2509.22144)], [[code](https://github.com/Leon221220/MACC)], 2025.09. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/MACC-blue)
 - **Your Models Have Thought Enough: Training Large Reasoning Models to Stop Overthinking**  
   *Jinyi Han, Ying Huang, Ying Liao, Zishang Jiang, Xikun Lu, Haiquan Zhao, Xinyi Wang, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2509.23392)], [[code](https://github.com/JinyiHan99/Just-Enough-Think)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/JET-blue)
 - **Entropy After ⟨/𝚃𝚑𝚒𝚗𝚔⟩ for reasoning model early exiting**  
