@@ -122,6 +122,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yizhou Zhang, Ning Lv, Teng Wang, Jisheng Dang*. [[pdf](https://arxiv.org/pdf/2509.21792)], [[code](https://github.com/yedaotian9/GRPO_speculative)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastGRPO-blue)
 - **SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts**  
   *Bingshuai Liu, Ante Wang, Zijun Min, Liang Yao, Haibo Zhang, Yang Liu, Anxiang Zeng, Jinsong Su*. [[pdf](https://arxiv.org/pdf/2509.23232)], [[code](https://github.com/ShopeeLLM/Spec-RL)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPEC--RL-blue)
+- **RollPacker: Mitigating Long-Tail Rollouts for Fast, Synchronous RL Post-Training**  
+  *Wei Gao, Yuheng Zhao, Dakai An, Tianyuan Wu, Lunxi Cao, Shaopan Xiong, Ju Huang, Weixun Wang, Siran Yang, Wenbo Su, Jiamang Wang, Lin Qu, Bo Zheng, Wei Wang*. [[pdf](https://arxiv.org/pdf/2509.21009)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RollPacker-blue)
 - **Self-Aligned Reward: Towards Effective and Efficient Reasoners**  
   *Peixuan Han, Adit Krishnan, Gerald Friedland, Jiaxuan You, Chris Kong*. [[pdf](https://arxiv.org/pdf/2509.05489)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SAR-blue)
 - **CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models**  
@@ -435,7 +437,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **SABER: Switchable and Balanced Training for Efficient LLM Reasoning**  
   *Kai Zhao, Yanjun Zhao, Jiaming Song, Shien He, Lusheng Zhang, Qiang Zhang, Tianjiao Li*. [[pdf](https://arxiv.org/pdf/2508.10026)], 2025.08. ![](https://img.shields.io/badge/AAAI2026-orange) ![](https://img.shields.io/badge/SABER-blue)
 - **Promoting Efficient Reasoning with Verifiable Stepwise Reward**  
-  *Chuhuai Yue, Chengqi Dong, Yinan Gao, Hang He, Jiajun Chai, Guojun Yin, Wei Lin*. [[pdf](https://arxiv.org/pdf/2508.10293)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VSRM-blue)
+  *Chuhuai Yue, Chengqi Dong, Yinan Gao, Hang He, Jiajun Chai, Guojun Yin, Wei Lin*. [[pdf](https://arxiv.org/pdf/2508.10293)], 2025.08. ![](https://img.shields.io/badge/AAAI2026-orange) ![](https://img.shields.io/badge/VSRM-blue)
 - **Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models**  
   *Qiguang Chen, Dengyun Peng, Jinhao Liu, HuiKang Su, Jiannan Guan, Libo Qin, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2508.11582)], [[code](https://github.com/sfasfaffa/DR_SAF)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DR.SAF-blue)
 - **Stop Spinning Wheels: Mitigating LLM Overthinking via Mining Patterns for Early Reasoning Exit**  
@@ -661,6 +663,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Byeongchan Lee, Jonghoon Lee, Dongyoung Kim, Jaehyung Kim, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2506.11578)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
   *Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang*. [[pdf](https://arxiv.org/pdf/2507.17307)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **RelayLLM: Efficient Reasoning via Collaborative Decoding**  
+  *Chengsong Huang, Tong Zheng, Langlin Huang, Jinyuan Li, Haolin Liu, Jiaxin Huang*. [[pdf](https://arxiv.org/pdf/2601.05167)], [[code](https://github.com/Chengsong-Huang/RelayLLM)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Speculative Decoding for CoT Efficiency
 
