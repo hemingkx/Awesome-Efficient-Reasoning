@@ -473,7 +473,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement**  
   *Jianzhi Yan, Le Liu, Youcheng Pan, Shiwei Chen, Zike Yuan, Yang Xiang, Buzhou Tang*. [[pdf](https://arxiv.org/pdf/2509.22144)], [[code](https://github.com/Leon221220/MACC)], 2025.09. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/MACC-blue)
 - **Your Models Have Thought Enough: Training Large Reasoning Models to Stop Overthinking**  
-  *Jinyi Han, Ying Huang, Ying Liao, Zishang Jiang, Xikun Lu, Haiquan Zhao, Xinyi Wang, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2509.23392)], [[code](https://github.com/JinyiHan99/Just-Enough-Think)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/JET-blue)
+  *Jinyi Han, Ying Huang, Ying Liao, Zishang Jiang, Xikun Lu, Haiquan Zhao, Xinyi Wang, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2509.23392)], [[code](https://github.com/JinyiHan99/Just-Enough-Think)], 2025.09. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/JET-blue)
 - **Entropy After ⟨/𝚃𝚑𝚒𝚗𝚔⟩ for reasoning model early exiting**  
   *Xi Wang, James McInerney, Lequn Wang, Nathan Kallus*. [[pdf](https://arxiv.org/pdf/2509.26522)], [[code](https://github.com/xidulu/EAT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Early_Exit-green)
 - **SIRI: Scaling Iterative Reinforcement Learning with Interleaved Compression**  
@@ -897,6 +897,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Liliang Ren, Congcong Chen, Haoran Xu, Young Jin Kim, Adam Atkinson, Zheng Zhan, Jiankai Sun, Baolin Peng, Liyuan Liu, Shuohang Wang, Hao Cheng, Jianfeng Gao, Weizhu Chen, Yelong Shen*. [[pdf](https://arxiv.org/pdf/2507.06607)], [[code](https://github.com/microsoft/ArchScale)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Think in Blocks: Adaptive Reasoning from Direct Response to Deep Reasoning**  
   *Yekun Zhu, Guang Chen, Chengjun Mao*. [[pdf](https://arxiv.org/pdf/2508.15507)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **A Stitch in Time Saves Nine: Proactive Self-Refinement for Language Models**  
+  *Jinyi Han, Xinyi Wang, Haiquan Zhao, Tingyun li, Zishang Jiang, Sihang Jiang, Jiaqing Liang, Xin Lin, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao*. [[pdf](https://arxiv.org/pdf/2508.12903)], 2025.08. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/PASR-blue) ![](https://img.shields.io/badge/Self--Refinement-green)
 - **Retrieval-of-Thought: Efficient Reasoning via Reusing Thoughts**  
   *Ammar Ahmed, Azal Ahmad Khan, Ayaan Ahmad, Sheng Di, Zirui Liu, Ali Anwar*. [[pdf](https://arxiv.org/pdf/2509.21743)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Intra-request branch orchestration for efficient LLM reasoning**  
