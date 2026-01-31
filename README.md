@@ -203,6 +203,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhenrui Yue, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang*. [[pdf](https://arxiv.org/pdf/2505.18454)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/HRPO-blue)
 - **Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**  
   *Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu*. [[pdf](https://arxiv.org/pdf/2506.08552)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**  
+  *Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan*. [[pdf](https://arxiv.org/pdf/2506.17218)], [[code](https://github.com/UMass-Embodied-AGI/Mirage)], [[homepage](https://vlm-mirage.github.io/)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Mirage-blue) ![](https://img.shields.io/badge/Multimodal-green)
 - **DART: Distilling Autoregressive Reasoning to Silent Thought**  
   *Nan Jiang, Ziming Wu, De-Chuan Zhan, Fuming Lai, Shaobing Lian*. [[pdf](https://arxiv.org/pdf/2506.11752)], 2025.06. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/DART-blue)
 - **Parallel Continuous Chain-of-Thought with Jacobi Iteration**  
@@ -225,20 +227,22 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Minghan Wang, Thuy-Trang Vu, Ehsan Shareghi, Gholamreza Haffari*. [[pdf](https://arxiv.org/pdf/2510.12167)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Analysis-green)
 - **Latent Reasoning in LLMs as a Vocabulary-Space Superposition**  
   *Jingcheng Deng, Liang Pang, Zihao Wei, Shichen Xu, Zenghao Duan, Kun Xu, Yang Song, Huawei Shen, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2510.15522)], [[code](https://github.com/DJC-GO-SOLO/Latent-SFT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space**  
+  *Chao Chen, Zhixin Ma, Yongqi Li, Yupeng Hu, Yinwei Wei, Wenjie Li, Liqiang Nie*. [[pdf](https://arxiv.org/pdf/2510.12603)], [[code](https://github.com/FYYDCC/IVT-LR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/IVT--LR-blue) ![](https://img.shields.io/badge/Multimodal-green)
 - **Continuous Autoregressive Language Models**  
   *Chenze Shao, Darren Li, Fandong Meng, Jie Zhou*. [[pdf](https://arxiv.org/pdf/2510.27688)], [[code](https://github.com/shaochenze/calm)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CALM-blue)
 - **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**  
   *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/abs/2511.08577)], [[code](https://github.com/thu-nics/TaH)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TaH-blue)
 - **Think Consistently, Reason Efficiently: Energy-Based Calibration for Implicit Chain-of-Thought**  
   *Zhikang Chen, Sen Cui, Deheng Ye, Yu Zhang, Yatao Bian, Tingting Zhu*. [[pdf](https://arxiv.org/pdf/2511.07124)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EBM--CoT-blue)
+- **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**  
+  *Zhi Zheng, Yu Gu, Wei Liu, Yee Whye Teh, Wee Sun Lee*. [[pdf](https://arxiv.org/pdf/2511.06411)], [[code](https://github.com/zz1358m/SofT-GRPO-master)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SofT--GRPO-blue)
+- **Mull-Tokens: Modality-Agnostic Latent Thinking**  
+*Arijit Ray, Ahmed Abdelkader, Chengzhi Mao, Bryan A. Plummer, Kate Saenko, Ranjay Krishna, Leonidas Guibas, Wen-Sheng Chu*. [[pdf](https://arxiv.org/pdf/2512.10941)], [[homepage](https://arijitray.com/multimodal_thinking/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Mull--Tokens-blue) ![](https://img.shields.io/badge/Multimodal-green)
 - **Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space**  
-  *Chengzhi Liu, Yuzhe Yang, Yue Fan, Qingyue Wei, Sheng Liu, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2512.12623)], [[homepage](https://mllm-dmlr.github.io/)], [[code](https://github.com/eric-ai-lab/DMLR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DMLR-blue)
- - **Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space**
-  *Chao Chen, Zhixin Ma, Yongqi Li, Yupeng Hu, Yinwei Wei, Wenjie Li, Liqiang Nie*. [[pdf](https://arxiv.org/pdf/2510.12603), [code](https://github.com/FYYDCC/IVT-LR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/IVT--LR-blue) ![](https://img.shields.io/badge/Multimodal-green)
-- **Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**
-  *Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan*. [[pdf](https://arxiv.org/pdf/2506.17218), [code](https://github.com/UMass-Embodied-AGI/Mirage), [project](https://vlm-mirage.github.io/)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Mirage-blue) ![](https://img.shields.io/badge/Multimodal-green)
-- **Mull-Tokens: Modality-Agnostic Latent Thinking**
-*Arijit Ray, Ahmed Abdelkader, Chengzhi Mao, Bryan A. Plummer, Kate Saenko, Ranjay Krishna, Leonidas Guibas, Wen-Sheng Chu*. [[pdf](https://arxiv.org/pdf/2512.10941), [project](https://arijitray.com/multimodal_thinking/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Mull--Tokens-blue) ![](https://img.shields.io/badge/Multimodal-green)
+*Chengzhi Liu, Yuzhe Yang, Yue Fan, Qingyue Wei, Sheng Liu, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2512.12623)], [[homepage](https://mllm-dmlr.github.io/)], [[code](https://github.com/eric-ai-lab/DMLR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DMLR-blue)
+- **Beyond Imitation: Reinforcement Learning for Active Latent Planning**  
+*Zhi Zheng, Wee Sun Lee*. [[pdf](https://arxiv.org/pdf/2601.21598)], [[code](https://github.com/zz1358m/ATP-Latent-master)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ATP--Latent-blue)
 
 ### Long-to-Short Chain-of-Thought
 
