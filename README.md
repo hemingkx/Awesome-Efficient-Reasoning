@@ -516,6 +516,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhengyi Zhao, Shubo Zhang, Yuxi Zhang, Huimin Wang, Binyang Li, Kam-Fai Wong*. [[pdf](https://arxiv.org/pdf/2512.15358)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Beyond Model Scaling: Test-Time Intervention for Efficient Deep Reasoning**  
   *Qianyue Wang, Jinwu Hu, Yufeng Wang, Huanxiang Lin, Bolin Chen, Zhiquan Wen, Yaofo Chen, Mingkui Tan*. [[pdf](https://arxiv.org/pdf/2601.11252)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
+- **FROST: Filtering Reasoning Outliers with Attention for Efficient Reasoning**  
+  *Haozheng Luo, Zhuolin Jiang, Md Zahid Hasan, Yan Chen, Soumalya Sarkar*. [[pdf](https://arxiv.org/pdf/2601.19001)], [[code](https://github.com/robinzixuan/FROST)], 2026.01. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/FROST-blue)
 
 ### Adaptive Thinking
 
