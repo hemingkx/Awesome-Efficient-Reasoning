@@ -251,7 +251,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 ### Long-to-Short Chain-of-Thought
 
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**  
-  *Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang*. [[pdf](https://arxiv.org/pdf/2305.10276)], [[code](https://github.com/hanxuhu/chain-of-symbol-planning)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang*. [[pdf](https://arxiv.org/pdf/2305.10276)], [[code](https://github.com/hanxuhu/chain-of-symbol-planning)], 2023.05. ![](https://img.shields.io/badge/COLM2024-orange)
 - **The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models**  
   *Matthew Renze, Erhan Guven*. [[pdf](https://arxiv.org/pdf/2401.05618)], [[code](https://github.com/matthewrenze/jhu-concise-cot)], 2024.01. ![](https://img.shields.io/badge/FLLM2024-orange) ![](https://img.shields.io/badge/CCoT-blue)
 - **Efficiently Serving LLM Reasoning Programs with Certaindex**  
@@ -283,7 +283,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach**  
   *Ayeong Lee, Ethan Che, Tianyi Peng*. [[pdf](https://arxiv.org/pdf/2503.01141)], [[code](https://github.com/Compressed-CoT/compressed-cot)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prompt-green)
 - **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching**  
-  *Simon A. Aytes, Jinheon Baek, Sung Ju Hwang*. [[pdf](https://arxiv.org/pdf/2503.05179)], [[code](https://github.com/SimonAytes/SoT)], 2025.03. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/SoT-blue) ![](https://img.shields.io/badge/Prompt-green)
+  *Simon A. Aytes, Jinheon Baek, Sung Ju Hwang*. [[pdf](https://arxiv.org/pdf/2503.05179)], [[code](https://github.com/SimonAytes/SoT)], 2025.03. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/SoT-blue) ![](https://img.shields.io/badge/Route--and--Prompt-green)
 - **Adaptive Group Policy Optimization: Towards Stable Training and Token-Efficient Reasoning**  
   *Chen Li, Nazhou Liu, Kai Yang*. [[pdf](https://arxiv.org/pdf/2503.15952)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AGPO-blue) ![](https://img.shields.io/badge/length--based_reward-green)
 - **Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**  
@@ -494,8 +494,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Hao Zeng, Jianguo Huang, Bingyi Jing, Hongxin Wei, Bo An*. [[pdf](https://arxiv.org/pdf/2510.09133)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Stop When Enough: Adaptive Early-Stopping for Chain-of-Thought Reasoning**  
   *Renliang Sun, Wei Cheng, Dawei Li, Haifeng Chen, Wei Wang*. [[pdf](https://arxiv.org/pdf/2510.10103)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Merlin's Whisper: Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting**  
-  *Heming Xia, Cunxiao Du, Rui Li, Chak Tou Leong, Yongqi Li, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2510.10528)], [[code](https://github.com/hemingkx/AdvPrompt)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prompting-green) ![](https://img.shields.io/badge/AdvPrompt-blue)
+- **Merlin's Whisper: Enabling Efficient Reasoning in LLMs via Black-box Persuasive Prompting**  
+  *Heming Xia, Cunxiao Du, Rui Li, Chak Tou Leong, Yongqi Li, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2510.10528)], [[code](https://github.com/hemingkx/Whisper)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prompting-green) ![](https://img.shields.io/badge/Whisper-blue)
 - **Adaptive Dual Reasoner: Large Reasoning Models Can Think Efficiently by Hybrid Reasoning**  
   *Yujian Zhang, Keyu Chen, Zhifeng Shen, Ruizhi Qiao, Xing Sun*. [[pdf](https://arxiv.org/pdf/2510.10207)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Concise Reasoning in the Lens of Lagrangian Optimization**  
