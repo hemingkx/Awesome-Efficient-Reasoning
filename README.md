@@ -724,7 +724,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **A2R: An Asymmetric Two-Stage Reasoning Framework for Parallel Reasoning**  
   *Ziqi Wang, Boye Niu, Zhongli Li, Linghui Meng, Jing Liu, Zhi Zheng, Tong Xu, Hua Wu, Haifeng Wang, Enhong Chen*. [[pdf](https://arxiv.org/pdf/2509.22044)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching**
-  *Zicheng Xu, Xiuyi Lou, Guanchu Wang, Yu-Neng Chuang, Feng Luo, Guangyao Zheng, Alexander S. Szalay, Zirui Liu, Vladimir Braverman*. [[pdf](https://arxiv.org/pdf/2511.00640)], 2026.02. [[code](https://github.com/ZichengXu/Decoding-Tree-Sketching)] [[colab](https://colab.research.google.com/github/ZichengXu/Decoding-Tree-Sketching/blob/main/notebooks/example_DeepSeek_R1_Distill_Qwen_1_5B.ipynb)]
+  *Zicheng Xu, Xiuyi Lou, Guanchu Wang, Yu-Neng Chuang, Feng Luo, Guangyao Zheng, Alexander S. Szalay, Zirui Liu, Vladimir Braverman*. [[pdf](https://arxiv.org/pdf/2511.00640)] ![](https://img.shields.io/badge/Arxiv-orange) [[code](https://github.com/ZichengXu/Decoding-Tree-Sketching)] [[colab](https://colab.research.google.com/github/ZichengXu/Decoding-Tree-Sketching/blob/main/notebooks/example_DeepSeek_R1_Distill_Qwen_1_5B.ipynb)], 2026.02.
   
 ### Sparse Attention & KV Cache
 
