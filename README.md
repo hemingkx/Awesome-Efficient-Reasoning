@@ -301,7 +301,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Dynamic Early Exit in Reasoning Models**  
   *Chenxu Yang, Qingyi Si, Yongjie Duan, Zheliang Zhu, Chenyu Zhu, Zheng Lin, Li Cao, Weiping Wang*. [[pdf](https://arxiv.org/pdf/2504.15895)], 2025.04. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/DEER-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization**  
-  *Haotian Luo, Haiying He, Yibo Wang, Jinluan Yang, Rui Liu, Naiqiang Tan, Xiaochun Cao, Dacheng Tao, Li Shen*. [[pdf](https://arxiv.org/pdf/2504.21659)], [[code](https://github.com/StarDewXXX/AdaR1)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaR1-blue)
+  *Haotian Luo, Haiying He, Yibo Wang, Jinluan Yang, Rui Liu, Naiqiang Tan, Xiaochun Cao, Dacheng Tao, Li Shen*. [[pdf](https://arxiv.org/pdf/2504.21659)], [[code](https://github.com/StarDewXXX/AdaR1)], 2025.04. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/AdaR1-blue)
 - **Concise Reasoning via Reinforcement Learning**  
   *Mehdi Fatemi, Banafsheh Rafiee, Mingjie Tang, Kartik Talamadupula*. [[pdf](https://arxiv.org/pdf/2504.05185)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models**  
@@ -309,7 +309,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning**  
   *Ziqing Qiao, Yongheng Deng, Jiali Zeng, Dong Wang, Lai Wei, Fandong Meng, Jie Zhou, Ju Ren, Yaoxue Zhang*. [[pdf](https://arxiv.org/pdf/2505.04881)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/ConCISE-blue)
 - **Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens**  
-  *Xixian Yong, Xiao Zhou, Yingying Zhang, Jinlin Li, Yefeng Zheng, Xian Wu*. [[pdf](https://arxiv.org/pdf/2505.04881)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
+  *Xixian Yong, Xiao Zhou, Yingying Zhang, Jinlin Li, Yefeng Zheng, Xian Wu*. [[pdf](https://arxiv.org/pdf/2505.18237)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Activation-Guided Consensus Merging for Large Language Models**  
   *Yuxuan Yao, Shuqi Liu, Zehua Liu, Qintong Li, Mingyang Liu, Xiongwei Han, Zhijiang Guo, Han Wu, Linqi Song*. [[pdf](https://arxiv.org/pdf/2505.14009)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Scalable Chain of Thoughts via Elastic Reasoning**  
@@ -373,7 +373,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Stable Reinforcement Learning for Efficient Reasoning**  
   *Muzhi Dai, Shixuan Liu, Qingyi Si*. [[pdf](https://arxiv.org/pdf/2505.18086)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
 - **Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models**  
-  *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+  *Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh*. [[pdf](https://arxiv.org/pdf/2505.21765)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/DTO-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **LLMs Can Reason Faster Only If We Let Them**  
   *Bilgehan Sel, Lifu Huang, Naren Ramakrishnan, Ruoxi Jia, Ming Jin*. [[pdf](https://openreview.net/pdf?id=uTv5rOPZr4)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange)
 - **DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per Token via Reinforcement Learning**  
@@ -395,7 +395,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**  
   *Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2506.08343)], 2025.06. ![](https://img.shields.io/badge/EMNLP2025--findings-orange) ![](https://img.shields.io/badge/NoWait-blue)
 - **Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning**  
-  *Xiangning Yu, Zhuohan Wang, Linyi Yang, Haoxuan Li, Anjie Liu, Xiao Xue, Jun Wang, Mengyue Yang*. [[pdf](https://arxiv.org/pdf/2506.09853)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/In--context_Learning&SFT-green)
+  *Xiangning Yu, Zhuohan Wang, Linyi Yang, Haoxuan Li, Anjie Liu, Xiao Xue, Jun Wang, Mengyue Yang*. [[pdf](https://arxiv.org/pdf/2506.09853)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/In--context_Learning&SFT-green)
 - **PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models**  
   *Ye Yu, Yaoning Yu, Haohan Wang*. [[pdf](https://arxiv.org/pdf/2506.10716)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prompting-green)
 - **Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**  
