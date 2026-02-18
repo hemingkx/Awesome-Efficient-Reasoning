@@ -433,7 +433,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**  
   *Joonwon Jang, Jaehee Kim, Wonbin Kweon, Seonghyeon Lee, Hwanjo Yu*. [[pdf](https://aclanthology.org/2025.findings-acl.1068.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025--findings-orange)
 - **Test-time Prompt Intervention**  
-  *Chenxu Yang, Qingyi Si, Muzhi Dai, Dingyu Yao, Mingyu Zheng, Minghui Chen, Zheng Lin, Weiping Wang*. [[pdf](https://arxiv.org/pdf/2508.02511)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PI-blue)
+  *Chenxu Yang, Qingyi Si, Muzhi Dai, Dingyu Yao, Mingyu Zheng, Minghui Chen, Zheng Lin, Weiping Wang*. [[pdf](https://arxiv.org/pdf/2508.02511)], 2025.08. ![](https://img.shields.io/badge/AAAI2026-orange) ![](https://img.shields.io/badge/PI-blue)
 - **Reconsidering Overthinking: Penalizing Internal and External Redundancy in CoT Reasoning**  
   *Jialiang Hong, Taihang Zhen, Kai Chen, Jiaheng Liu, Wenpeng Zhu, Jing Huo, Yang Gao, Depeng Wang, Haitao Wan, Xi Yang, Boyan Wang, Fanyu Meng*. [[pdf](https://www.arxiv.org/pdf/2508.02178)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Compressing Chain-of-Thought in LLMs via Step Entropy**  
