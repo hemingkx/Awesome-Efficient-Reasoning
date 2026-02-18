@@ -437,9 +437,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Reconsidering Overthinking: Penalizing Internal and External Redundancy in CoT Reasoning**  
   *Jialiang Hong, Taihang Zhen, Kai Chen, Jiaheng Liu, Wenpeng Zhu, Jing Huo, Yang Gao, Depeng Wang, Haitao Wan, Xi Yang, Boyan Wang, Fanyu Meng*. [[pdf](https://www.arxiv.org/pdf/2508.02178)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Compressing Chain-of-Thought in LLMs via Step Entropy**  
-  *Zeju Li, Jianyuan Zhong, Ziyang Zheng, Xiangyu Wen, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu*. [[pdf](https://arxiv.org/pdf/2508.03346)], [[code](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
+  *Zeju Li, Jianyuan Zhong, Ziyang Zheng, Xiangyu Wen, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu*. [[pdf](https://arxiv.org/pdf/2508.03346)], [[code](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)], 2025.08. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression**  
-  *Jiameng Huang, Baijiong Lin, Guhao Feng, Jierun Chen, Di He, Lu Hou*. [[pdf](https://arxiv.org/pdf/2508.05337)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CGRS-blue)
+  *Jiameng Huang, Baijiong Lin, Guhao Feng, Jierun Chen, Di He, Lu Hou*. [[pdf](https://arxiv.org/pdf/2508.05337)], 2025.08. ![](https://img.shields.io/badge/AAAI2026-orange) ![](https://img.shields.io/badge/CGRS-blue)
 - **Train Long, Think Short: Curriculum Learning for Efficient Reasoning**  
   *Hasan Abed Al Kader Hammoud, Kumail Alhamoud, Abed Hammoud, Elie Bou-Zeid, Marzyeh Ghassemi, Bernard Ghanem*. [[pdf](https://arxiv.org/pdf/2508.08940)], [[code](https://github.com/hammoudhasan/curriculum_grpo)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning**  
