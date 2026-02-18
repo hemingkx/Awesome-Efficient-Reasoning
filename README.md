@@ -247,6 +247,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 *Chengzhi Liu, Yuzhe Yang, Yue Fan, Qingyue Wei, Sheng Liu, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2512.12623)], [[homepage](https://mllm-dmlr.github.io/)], [[code](https://github.com/eric-ai-lab/DMLR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DMLR-blue)
 - **Beyond Imitation: Reinforcement Learning for Active Latent Planning**  
 *Zhi Zheng, Wee Sun Lee*. [[pdf](https://arxiv.org/pdf/2601.21598)], [[code](https://github.com/zz1358m/ATP-Latent-master)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ATP--Latent-blue)
+- **VaLR: Vision-aligned Latent Reasoning for Multi-modal Large Language Model**  
+*Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2602.04476)], [[homepage](https://rootyjeon.github.io/valr/)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VaLR-blue) ![](https://img.shields.io/badge/Multimodal-green)
 
 ### Long-to-Short Chain-of-Thought
 
