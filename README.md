@@ -853,9 +853,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs**  
   *Jitai Hao, Yuke Zhu, Tian Wang, Jun Yu, Xin Xin, Bo Zheng, Zhaochun Ren, Sheng Guo*. [[pdf](https://openreview.net/pdf?id=ulCAPXYXfa)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/OmniKV-blue)
 - **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models**  
-  *Yuchen Yan, Yongliang Shen, Yang Liu, Jin Jiang, Mengdi Zhang, Jian Shao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2503.06692)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/InftyThink-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Summarization-green)
+  *Yuchen Yan, Yongliang Shen, Yang Liu, Jin Jiang, Mengdi Zhang, Jian Shao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2503.06692)], 2025.03. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/InftyThink-blue) ![](https://img.shields.io/badge/Intermediate_CoT_Summarization-green)
 - **DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning**  
   *Hossein Entezari Zarch, Lei Gao, Chaoyi Jiang, Murali Annavarm*. [[pdf](https://arxiv.org/pdf/2510.09883)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Breadcrumbs Reasoning: Memory-Efficient Reasoning with Compression Beacons**  
+  *Giovanni Monea, Yair Feldman, Shankar Padmanabhan, Kianté Brantley, Yoav Artzi*. [[pdf](https://openreview.net/pdf?id=LTvPnm2Oy9)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**  
+  *Yuchen Yan, Liang Jiang, Jin Jiang, Shuaicheng Li, Zujie Wen, Zhiqiang Zhang, Jun Zhou, Jian Shao, Yueting Zhuang, Yongliang Shen*. [[pdf](https://arxiv.org/pdf/2602.06960)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multimodal Reasoning Efficiency
 
