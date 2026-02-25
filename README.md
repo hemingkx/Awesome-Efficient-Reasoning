@@ -883,7 +883,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chenyu Lin, Cheng Chi, Jinlin Wu, Sharon Li, Kaiyang Zhou*. [[pdf](https://arxiv.org/pdf/2511.16670)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ChainV: Atomic Visual Hints Make Multimodal Reasoning Shorter and Better**  
   *Yuan Zhang, Ming Lu, Junwen Pan, Tao Huang, Kuan Cheng, Qi She, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2511.17106)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Thinking with Visual Abstract: Enhancing Multimodal Reasoning via Visual Abstraction**
+- **Thinking with Visual Abstract: Enhancing Multimodal Reasoning via Visual Abstraction**  
   *Dairu Liu, Ziyue Wang, Minyuan Ruan, Fuwen Luo, Chi Chen, Peng Li, Yang Liu*. [[pdf](https://arxiv.org/pdf/2505.20164)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VAT-blue) ![](https://img.shields.io/badge/Multimodal-green)
 
 ### Other Work
