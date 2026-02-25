@@ -293,7 +293,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Think When You Need: Self-Adaptive Chain-of-Thought Learning**  
   *Junjie Yang, Ke Lin, Xing Yu*. [[pdf](https://arxiv.org/pdf/2504.03234)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning**  
-  *Bairu Hou, Yang Zhang, Jiabao Ji, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang*. [[pdf](https://arxiv.org/pdf/2504.01296)], [[code](https://github.com/UCSB-NLP-Chang/ThinkPrune)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkPrune-blue)
+  *Bairu Hou, Yang Zhang, Jiabao Ji, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang*. [[pdf](https://arxiv.org/pdf/2504.01296)], [[code](https://github.com/UCSB-NLP-Chang/ThinkPrune)], 2025.04. ![](https://img.shields.io/badge/TMLR-orange) ![](https://img.shields.io/badge/ThinkPrune-blue)
 - **Reasoning Models Can Be Effective Without Thinking**  
   *Wenjie Ma, Jingxuan He, Charlie Snell, Tyler Griggs, Sewon Min, Matei Zaharia*. [[pdf](https://arxiv.org/pdf/2504.09858)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/NoThinking-blue) ![](https://img.shields.io/badge/Prompt-green)
 - **ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning**  
@@ -313,13 +313,13 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Activation-Guided Consensus Merging for Large Language Models**  
   *Yuxuan Yao, Shuqi Liu, Zehua Liu, Qintong Li, Mingyang Liu, Xiongwei Han, Zhijiang Guo, Han Wu, Linqi Song*. [[pdf](https://arxiv.org/pdf/2505.14009)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Scalable Chain of Thoughts via Elastic Reasoning**  
-  *Yuhui Xu, Hanze Dong, Lei Wang, Doyen Sahoo, Junnan Li, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2505.05315)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Elastic_Reasoning-blue) ![](https://img.shields.io/badge/Length_Control-green)
+  *Yuhui Xu, Hanze Dong, Lei Wang, Doyen Sahoo, Junnan Li, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2505.05315)], 2025.05. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Elastic_Reasoning-blue) ![](https://img.shields.io/badge/Length_Control-green)
 - **Let LRMs Break Free from Overthinking via Self-Braking Tuning**  
   *Haoran Zhao, Yuchen Yan, Yongliang Shen, Haolei Xu, Wenqi Zhang, Kaitao Song, Jian Shao, Weiming Lu, Jun Xiao, Yueting Zhuang*. [[pdf](https://arxiv.org/pdf/2505.14604)], [[code](https://github.com/ZJU-REAL/Self-Braking-Tuning)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Self--Braking--Tuning-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**  
   *Junyu Zhang, Runpei Dong, Han Wang, Xuying Ning, Haoran Geng, Peihao Li, Xialin He, Yutong Bai, Jitendra Malik, Saurabh Gupta, Huan Zhang*. [[pdf](https://arxiv.org/pdf/2505.24863)], [[homepage](https://alphaone-project.github.io/)], [[code](https://github.com/ASTRAL-Group/AlphaOne)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/AlphaOne-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**  
-  *Muzhi Dai, Chenxu Yang, Qingyi Si*. [[pdf](https://arxiv.org/pdf/2505.07686)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S--GRPO-blue) ![](https://img.shields.io/badge/Early_Exit-green)
+  *Muzhi Dai, Chenxu Yang, Qingyi Si*. [[pdf](https://arxiv.org/pdf/2505.07686)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/S--GRPO-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement**  
   *Xuechen Zhang, Zijian Huang, Chenchun Ni, Ziyang Xiong, Jiasi Chen, Samet Oymak*. [[pdf](https://arxiv.org/pdf/2505.07961)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
 - **Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**  
@@ -349,7 +349,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**  
   *Gengyang Li, Yifeng Gao, Yuming Li, Yunfang Wu*. [[pdf](https://arxiv.org/pdf/2505.15684)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/ThinkLess-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**  
-  *Wei Liu, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He*. [[pdf](https://arxiv.org/pdf/2505.15612)], [[code](https://github.com/hkust-nlp/Laser)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Laser-blue)
+  *Wei Liu, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He*. [[pdf](https://arxiv.org/pdf/2505.15612)], [[code](https://github.com/hkust-nlp/Laser)], 2025.05. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Laser-blue)
 - **R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**  
   *Yibo Wang, Li Shen, Huanjin Yao, Tiansheng Huang, Rui Liu, Naiqiang Tan, Jiaxing Huang, Kai Zhang, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2505.16838)], [[code](https://github.com/w-yibo/R1-Compress)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R1--Compress-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
 - **Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning**  
@@ -443,7 +443,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Train Long, Think Short: Curriculum Learning for Efficient Reasoning**  
   *Hasan Abed Al Kader Hammoud, Kumail Alhamoud, Abed Hammoud, Elie Bou-Zeid, Marzyeh Ghassemi, Bernard Ghanem*. [[pdf](https://arxiv.org/pdf/2508.08940)], [[code](https://github.com/hammoudhasan/curriculum_grpo)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning**  
-  *Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, Shivam Garg, Harkirat Behl, Dimitris Papailiopoulos*. [[pdf](https://arxiv.org/pdf/2508.09726)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GFPO-blue)
+  *Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, Shivam Garg, Harkirat Behl, Dimitris Papailiopoulos*. [[pdf](https://arxiv.org/pdf/2508.09726)], 2025.08. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/GFPO-blue)
 - **SABER: Switchable and Balanced Training for Efficient LLM Reasoning**  
   *Kai Zhao, Yanjun Zhao, Jiaming Song, Shien He, Lusheng Zhang, Qiang Zhang, Tianjiao Li*. [[pdf](https://arxiv.org/pdf/2508.10026)], 2025.08. ![](https://img.shields.io/badge/AAAI2026-orange) ![](https://img.shields.io/badge/SABER-blue)
 - **Promoting Efficient Reasoning with Verifiable Stepwise Reward**  
@@ -487,7 +487,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Think Right: Learning to Mitigate Under-Over Thinking via Adaptive, Attentive Compression**  
   *Joykirat Singh, Justin Chih-Yao Chen, Archiki Prasad, Elias Stengel-Eskin, Akshay Nambi, Mohit Bansal*. [[pdf](https://arxiv.org/pdf/2510.01581)], [[code](https://github.com/joykirat18/TRAAC)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Step_Shortcut-green) ![](https://img.shields.io/badge/TRAAC-blue)
 - **DRPO: Efficient Reasoning via Decoupled Reward Policy Optimization**  
-  *Gang Li, Yan Chen, Ming Lin, Tianbao Yang*. [[pdf](https://arxiv.org/pdf/2510.04474)], [[code](https://github.com/Optimization-AI/DRPO)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DRPO-blue)
+  *Gang Li, Yan Chen, Ming Lin, Tianbao Yang*. [[pdf](https://arxiv.org/pdf/2510.04474)], [[code](https://github.com/Optimization-AI/DRPO)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/DRPO-blue)
 - **Upfront Chain-of-Thought: A Cooperative Framework for Chain-of-Thought Compression**  
   *Chengzhengxu Li, Xiaoming Liu, Zhaohan Zhang, Shaochu Zhang, Shengchao Liu, Guoxin Ma, Yu Lan, Chao Shen*. [[pdf](https://arxiv.org/pdf/2510.04474)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/UCoT-blue)
 - **Mitigating Overthinking through Reasoning Shaping**  
