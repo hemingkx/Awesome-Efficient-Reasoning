@@ -127,7 +127,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **RollPacker: Mitigating Long-Tail Rollouts for Fast, Synchronous RL Post-Training**  
   *Wei Gao, Yuheng Zhao, Dakai An, Tianyuan Wu, Lunxi Cao, Shaopan Xiong, Ju Huang, Weixun Wang, Siran Yang, Wenbo Su, Jiamang Wang, Lin Qu, Bo Zheng, Wei Wang*. [[pdf](https://arxiv.org/pdf/2509.21009)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RollPacker-blue)
 - **Self-Aligned Reward: Towards Effective and Efficient Reasoners**  
-  *Peixuan Han, Adit Krishnan, Gerald Friedland, Jiaxuan You, Chris Kong*. [[pdf](https://arxiv.org/pdf/2509.05489)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SAR-blue)
+  *Peixuan Han, Adit Krishnan, Gerald Friedland, Jiaxuan You, Chris Kong*. [[pdf](https://arxiv.org/pdf/2509.05489)], 2025.09. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/SAR-blue)
 - **CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models**  
   *Runpeng Dai, Linfeng Song, Haolin Liu, Zhenwen Liang, Dian Yu, Haitao Mi, Zhaopeng Tu, Rui Liu, Tong Zheng, Hongtu Zhu, Dong Yu*. [[pdf](https://arxiv.org/pdf/2509.09675)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CDE-blue)
 - **On Predictability of Reinforcement Learning Dynamics for Large Language Models**  
@@ -725,8 +725,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qihang Ai, Haiyun Jiang*. [[pdf](https://arxiv.org/pdf/2509.20744)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **A2R: An Asymmetric Two-Stage Reasoning Framework for Parallel Reasoning**  
   *Ziqi Wang, Boye Niu, Zhongli Li, Linghui Meng, Jing Liu, Zhi Zheng, Tong Xu, Hua Wu, Haifeng Wang, Enhong Chen*. [[pdf](https://arxiv.org/pdf/2509.22044)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Parallel-R1: Towards Parallel Thinking via Reinforcement Learning**  
+  *Tong Zheng, Hongming Zhang, Wenhao Yu, Xiaoyang Wang, He Xing, Runpeng Dai, Rui Liu, Huiwen Bao, Chengsong Huang, Heng Huang, Dong Yu*. [[pdf](https://openreview.net/pdf?id=wOmjeBN6hP)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange)
 - **DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching**  
-  *Zicheng Xu, Xiuyi Lou, Guanchu Wang, Yu-Neng Chuang, Feng Luo, Guangyao Zheng, Alexander S. Szalay, Zirui Liu, Vladimir Braverman*. [[pdf](https://arxiv.org/pdf/2511.00640)] [[code](https://github.com/ZichengXu/Decoding-Tree-Sketching)] [[colab](https://colab.research.google.com/github/ZichengXu/Decoding-Tree-Sketching/blob/main/notebooks/example_DeepSeek_R1_Distill_Qwen_1_5B.ipynb)], 2026.02.  ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Zicheng Xu, Xiuyi Lou, Guanchu Wang, Yu-Neng Chuang, Feng Luo, Guangyao Zheng, Alexander S. Szalay, Zirui Liu, Vladimir Braverman*. [[pdf](https://arxiv.org/pdf/2511.00640)], [[code](https://github.com/ZichengXu/Decoding-Tree-Sketching)], [[colab](https://colab.research.google.com/github/ZichengXu/Decoding-Tree-Sketching/blob/main/notebooks/example_DeepSeek_R1_Distill_Qwen_1_5B.ipynb)], 2026.02.  ![](https://img.shields.io/badge/Arxiv-orange) 
 ### Sparse Attention & KV Cache
 
 - **R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration**  
@@ -847,6 +849,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Colin Hong, Xu Guo, Anand Chaanan Singh, Esha Choukse, Dmitrii Ustiugov*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Slim--SC-blue)
 - **Optimal Self-Consistency for Efficient Reasoning with Large Language Models**  
   *Austin Feng, Marius Alonso, Ambroise Odonnat*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing**  
+  *Tong Zheng, Chengsong Huang, Runpeng Dai, Yun He, Rui Liu, Xin Ni, Huiwen Bao, Kaishen Wang, Hongtu Zhu, Jiaxin Huang, Furong Huang, Heng Huang*. [[pdf](https://arxiv.org/pdf/2602.03845)], [[code](https://github.com/zhengkid/Parallel-Probe)], 2026.02.  ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Long-Context Reasoning Efficiency
 
