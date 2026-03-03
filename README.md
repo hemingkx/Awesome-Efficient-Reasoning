@@ -522,6 +522,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qianyue Wang, Jinwu Hu, Yufeng Wang, Huanxiang Lin, Bolin Chen, Zhiquan Wen, Yaofo Chen, Mingkui Tan*. [[pdf](https://arxiv.org/pdf/2601.11252)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **FROST: Filtering Reasoning Outliers with Attention for Efficient Reasoning**  
   *Haozheng Luo, Zhuolin Jiang, Md Zahid Hasan, Yan Chen, Soumalya Sarkar*. [[pdf](https://arxiv.org/pdf/2601.19001)], [[code](https://github.com/robinzixuan/FROST)], 2026.01. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/FROST-blue)
+- **Anti-Length Shift: Dynamic Outlier Truncation for Training Efficient Reasoning Models**  
+  *Wei Wu, Liyi Chen, Congxi Xiao, Tianfu Wang, Qimeng Wang, Chengqiang Lu, Yan Gao, Yi Wu, Yao Hu, Hui Xiong*. [[pdf](https://arxiv.org/pdf/2601.03969)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Adaptive Thinking
 
@@ -851,6 +853,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Colin Hong, Xu Guo, Anand Chaanan Singh, Esha Choukse, Dmitrii Ustiugov*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Slim--SC-blue)
 - **Optimal Self-Consistency for Efficient Reasoning with Large Language Models**  
   *Austin Feng, Marius Alonso, Ambroise Odonnat*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning**  
+  *Junseok Kim, Nakyeong Yang, Kyungmin Min, Kyomin Jung*. [[pdf](https://arxiv.org/pdf/2601.02970)], 2026.01.  ![](https://img.shields.io/badge/Arxiv-orange)
 - **Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing**  
   *Tong Zheng, Chengsong Huang, Runpeng Dai, Yun He, Rui Liu, Xin Ni, Huiwen Bao, Kaishen Wang, Hongtu Zhu, Jiaxin Huang, Furong Huang, Heng Huang*. [[pdf](https://arxiv.org/pdf/2602.03845)], [[code](https://github.com/zhengkid/Parallel-Probe)], 2026.02.  ![](https://img.shields.io/badge/Arxiv-orange)
 
@@ -895,6 +899,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yuan Zhang, Ming Lu, Junwen Pan, Tao Huang, Kuan Cheng, Qi She, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2511.17106)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Efficient Test-Time Scaling for Small Vision-Language Models**  
   *Mehmet Onurcan Kaya, Desmond Elliott, Dim Papadopoulos*. [[pdf](https://openreview.net/pdf?id=rClkte0ZTp)], [[code](https://github.com/monurcan/efficient_test_time_scaling)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Test--Time_Scaling-green)
+- **SketchThinker-R1: Towards Efficient Sketch-Style Reasoning in Large Multimodal Models**  
+  *Ruiyang Zhang, Dongzhan Zhou, Zhedong Zheng*. [[pdf](https://arxiv.org/pdf/2601.02825)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Other Work
 
