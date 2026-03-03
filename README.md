@@ -249,6 +249,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 *Chengzhi Liu, Yuzhe Yang, Yue Fan, Qingyue Wei, Sheng Liu, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2512.12623)], [[homepage](https://mllm-dmlr.github.io/)], [[code](https://github.com/eric-ai-lab/DMLR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DMLR-blue)
 - **Beyond Imitation: Reinforcement Learning for Active Latent Planning**  
 *Zhi Zheng, Wee Sun Lee*. [[pdf](https://arxiv.org/pdf/2601.21598)], [[code](https://github.com/zz1358m/ATP-Latent-master)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ATP--Latent-blue)
+- **Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**  
+*Chi-Pin Huang, Yunze Man, Zhiding Yu, Min-Hung Chen, Jan Kautz, Yu-Chiang Frank Wang, Fu-En Yang*. [[pdf](https://arxiv.org/pdf/2601.09708)], [[homepage](https://jasper0314-huang.github.io/fast-thinkact/)], 2025.12. ![](https://img.shields.io/badge/CVPR2026-orange) ![](https://img.shields.io/badge/Multimodal-green)
 - **VaLR: Vision-aligned Latent Reasoning for Multi-modal Large Language Model**  
 *Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2602.04476)], [[homepage](https://rootyjeon.github.io/valr/)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VaLR-blue) ![](https://img.shields.io/badge/Multimodal-green)
 
@@ -751,6 +753,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Akshat Ramachandran, Marina Neseem, Charbel Sakr, Rangharajan Venkatesan, Brucek Khailany, Tushar Krishna*. [[pdf](https://arxiv.org/pdf/2510.01290)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Which Heads Matter for Reasoning? RL-Guided KV Cache Compression**  
   *Wenjie Du, Li Jiang, Keda Tao, Xue Liu, Huan Wang*. [[pdf](https://arxiv.org/pdf/2510.08525)], [[homepage](https://kurt232.github.io/RLKV_Web/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Dynamic Thinking-Token Selection for Efficient Reasoning in Large Reasoning Models**  
+  *Zhenyuan Guo, Tong Chen, Wenlong Meng, Chen Gong, Xin Yu, Chengkun Wei, Wenzhi Chen*. [[pdf](https://arxiv.org/pdf/2601.18383)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Optimal Test-Time Scaling
 
@@ -859,6 +863,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Austin Feng, Marius Alonso, Ambroise Odonnat*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning**  
   *Junseok Kim, Nakyeong Yang, Kyungmin Min, Kyomin Jung*. [[pdf](https://arxiv.org/pdf/2601.02970)], 2026.01.  ![](https://img.shields.io/badge/Arxiv-orange)
+- **Hidden States as Early Signals: Step-level Trace Evaluation and Pruning for Efficient Test-Time Scaling**  
+  *Zhixiang Liang, Beichen Huang, Zheng Wang, Minjia Zhang*. [[pdf](https://arxiv.org/pdf/2601.09093)], [[code](https://github.com/Supercomputing-System-AI-Lab/STEP)], 2026.01.  ![](https://img.shields.io/badge/Arxiv-orange)
 - **Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing**  
   *Tong Zheng, Chengsong Huang, Runpeng Dai, Yun He, Rui Liu, Xin Ni, Huiwen Bao, Kaishen Wang, Hongtu Zhu, Jiaxin Huang, Furong Huang, Heng Huang*. [[pdf](https://arxiv.org/pdf/2602.03845)], [[code](https://github.com/zhengkid/Parallel-Probe)], 2026.02.  ![](https://img.shields.io/badge/Arxiv-orange)
 
@@ -905,6 +911,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Mehmet Onurcan Kaya, Desmond Elliott, Dim Papadopoulos*. [[pdf](https://openreview.net/pdf?id=rClkte0ZTp)], [[code](https://github.com/monurcan/efficient_test_time_scaling)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Test--Time_Scaling-green)
 - **SketchThinker-R1: Towards Efficient Sketch-Style Reasoning in Large Multimodal Models**  
   *Ruiyang Zhang, Dongzhan Zhou, Zhedong Zheng*. [[pdf](https://arxiv.org/pdf/2601.02825)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**  
+  *Dongxu Zhang, Yiding Sun, Cheng Tan, Wenbiao Yan, Ning Yang, Jihua Zhu, Haijun Zhang*. [[pdf](https://arxiv.org/pdf/2601.13879)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization**  
   *Xingjian Diao, Zheyuan Liu, Chunhui Zhang, Weiyi Wu, Keyi Kong, Lin Shi, Kaize Ding, Soroush Vosoughi, Jiang Gui*. [[pdf](https://arxiv.org/pdf/2601.04442)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 
