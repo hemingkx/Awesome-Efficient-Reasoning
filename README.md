@@ -524,6 +524,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Haozheng Luo, Zhuolin Jiang, Md Zahid Hasan, Yan Chen, Soumalya Sarkar*. [[pdf](https://arxiv.org/pdf/2601.19001)], [[code](https://github.com/robinzixuan/FROST)], 2026.01. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/FROST-blue)
 - **Anti-Length Shift: Dynamic Outlier Truncation for Training Efficient Reasoning Models**  
   *Wei Wu, Liyi Chen, Congxi Xiao, Tianfu Wang, Qimeng Wang, Chengqiang Lu, Yan Gao, Yi Wu, Yao Hu, Hui Xiong*. [[pdf](https://arxiv.org/pdf/2601.03969)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
+- **ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning**  
+  *Minda Hu, Zexuan Qiu, Zenan Xu, Kun Li, Bo Zhou, Irwin King*. [[pdf](https://arxiv.org/pdf/2601.04973)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Adaptive Thinking
 
@@ -681,6 +683,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Byeongchan Lee, Jonghoon Lee, Dongyoung Kim, Jaehyung Kim, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2506.11578)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
   *Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang*. [[pdf](https://arxiv.org/pdf/2507.17307)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts**  
+  *Wenhao Zeng, Xuteng Zhang, Yuling Shi, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu*. [[pdf](https://arxiv.org/pdf/2601.05110)], [[code](https://github.com/Zengwh02/GlimpRouter)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **RelayLLM: Efficient Reasoning via Collaborative Decoding**  
   *Chengsong Huang, Tong Zheng, Langlin Huang, Jinyuan Li, Haolin Liu, Jiaxin Huang*. [[pdf](https://arxiv.org/pdf/2601.05167)], [[code](https://github.com/Chengsong-Huang/RelayLLM)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 
@@ -901,6 +905,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Mehmet Onurcan Kaya, Desmond Elliott, Dim Papadopoulos*. [[pdf](https://openreview.net/pdf?id=rClkte0ZTp)], [[code](https://github.com/monurcan/efficient_test_time_scaling)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Test--Time_Scaling-green)
 - **SketchThinker-R1: Towards Efficient Sketch-Style Reasoning in Large Multimodal Models**  
   *Ruiyang Zhang, Dongzhan Zhou, Zhedong Zheng*. [[pdf](https://arxiv.org/pdf/2601.02825)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization**  
+  *Xingjian Diao, Zheyuan Liu, Chunhui Zhang, Weiyi Wu, Keyi Kong, Lin Shi, Kaize Ding, Soroush Vosoughi, Jiang Gui*. [[pdf](https://arxiv.org/pdf/2601.04442)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Other Work
 
