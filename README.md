@@ -528,6 +528,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Wei Wu, Liyi Chen, Congxi Xiao, Tianfu Wang, Qimeng Wang, Chengqiang Lu, Yan Gao, Yi Wu, Yao Hu, Hui Xiong*. [[pdf](https://arxiv.org/pdf/2601.03969)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning**  
   *Minda Hu, Zexuan Qiu, Zenan Xu, Kun Li, Bo Zhou, Irwin King*. [[pdf](https://arxiv.org/pdf/2601.04973)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression**  
+  *Yuntian Tang, Bohan Jia, Wenxuan Huang, Lianyue Zhang, Jiao Xie, Wenxi Li, Rongrong Ji, Shaohui Lin*. [[pdf](https://arxiv.org/pdf/2602.08324)], [[code](https://github.com/Mwie1024/Extra-CoT)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **On-Policy Supervised Fine-Tuning for Efficient Reasoning**  
+  *Anhao Zhao, Ziyang Chen, Junlong Tong, Yingqi Fan, Fanghua Ye, Shuhao Li, Yunpu Ma, Wenjie Li, Xiaoyu Shen*. [[pdf](https://arxiv.org/pdf/2602.13407)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **The Art of Efficient Reasoning: Data, Reward, and Optimization**  
+  *Taiqiang Wu, Zenan Xu, Bo Zhou, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2602.20945)], [[homepage](https://wutaiqiang.github.io/project/Art)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Adaptive Thinking
 
@@ -814,6 +820,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Martina G. Vilas, Safoora Yousefi, Besmira Nushi, Eric Horvitz, Vidhisha Balachandran*. [[pdf](https://arxiv.org/pdf/2510.10494)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Seer Self-Consistency: Advance Budget Estimation for Adaptive Test-Time Scaling**  
   *Shiyu Ji, Yixuan Wang, Yijun Liu, Qingfu Zhu, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2510.10494)], [[code](https://github.com/noforit/SeerSC)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens**  
+  *Wei-Lin Chen, Liqian Peng, Tian Tan, Chao Zhao, Blake JianHang Chen, Ziqian Lin, Alec Go, Yu Meng*. [[pdf](https://arxiv.org/pdf/2602.13517)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 ### Efficient Sampling
 
 - **Fast Best-of-N Decoding via Speculative Rejection**  
