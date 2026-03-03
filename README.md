@@ -136,8 +136,10 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qiaoling Chen, Zijun Liu, Peng Sun, Shenggui Li, Guoteng Wang, Ziming Liu, Yonggang Wen, Siyuan Feng, Tianwei Zhang*. [[pdf](https://arxiv.org/pdf/2510.26475)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ReSpec-blue)
 - **CurES: From Gradient Analysis to Efficient Curriculum Learning for Reasoning LLMs**  
   *Yongcheng Zeng, Zexu Sun, Bokai Ji, Erxue Min, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Haifeng Zhang, Xu Chen, Jun Wang*. [[pdf](https://arxiv.org/pdf/2510.01037)], [[code](https://github.com/ZexuSun/CurES)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/CurES-blue)
+- **Training Large Reasoning Models Efficiently via Progressive Thought Encoding**  
+  *Zeliang Zhang, Xiaodong Liu, Hao Cheng, Hao Sun, Chenliang Xu, Jianfeng Gao*. [[pdf](https://openreview.net/pdf?id=q4iJxp47CT)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange)
 - **SRT: Accelerating Reinforcement Learning via Speculative Rollout with Tree-Structured Cache**  
-  *Chi-Chih Chang, Siqi Zhu, Zhichen Zeng, Haibin Lin, Xin Liu, Jiaxuan You, Mohamed S. Abdelfattah, Ziheng Jiang, Xuehai Qian*. [[pdf](https://openreview.net/attachment?id=UpEKKJStAY&name=pdf)], 2025.10.
+  *Chi-Chih Chang, Siqi Zhu, Zhichen Zeng, Haibin Lin, Xin Liu, Jiaxuan You, Mohamed S. Abdelfattah, Ziheng Jiang, Xuehai Qian*. [[pdf](https://openreview.net/attachment?id=UpEKKJStAY&name=pdf)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**  
   *Ruoyu Qin, Weiran He, Weixiao Huang, Yangkun Zhang, Yikai Zhao, Bo Pang, Xinran Xu, Yingdi Shan, Yongwei Wu, Mingxing Zhang*. [[pdf](https://arxiv.org/pdf/2511.14617)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Seer-blue)
 - **Beat the long tail: Distribution-Aware Speculative Decoding for RL Training**  
@@ -791,7 +793,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute**  
   *Hao Wen, Yifan Su, Feifei Zhang, Yunxin Liu, Yunhao Liu, Ya-Qin Zhang, Yuanchun Li*. [[pdf](https://arxiv.org/pdf/2509.04475)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ParaThinker-blue)
 - **A1: Asynchronous Test-Time Scaling via Conformal Prediction**  
-  *Jing Xiong, Qiujiang Chen, Fanghua Ye, Zhongwei Wan, Chuanyang Zheng, Chenyang Zhao, Hui Shen, Alexander Hanbo Li, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Lingpeng Kong, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2509.15148)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Jing Xiong, Qiujiang Chen, Fanghua Ye, Zhongwei Wan, Chuanyang Zheng, Chenyang Zhao, Hui Shen, Alexander Hanbo Li, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Lingpeng Kong, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2509.15148)], 2025.09. ![](https://img.shields.io/badge/ICLR2026-orange)
 - **AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding**  
   *Shuqing Luo, Yilin Guan, Pingzhi Li, Hanrui Wang, Tianlong Chen*. [[pdf](https://arxiv.org/pdf/2510.07486)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **DeepPrune: Parallel Scaling without Inter-trace Redundancy**  
