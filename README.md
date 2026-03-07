@@ -826,16 +826,12 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Hanshi Sun, Momin Haider, Ruiqi Zhang, Huitao Yang, Jiahao Qiu, Ming Yin, Mengdi Wang, Peter Bartlett, Andrea Zanette*. [[pdf](https://openreview.net/pdf?id=348hfcprUs)], [[code](https://github.com/Zanette-Labs/SpeculativeRejection)], 2024.10. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Speculative_Rejection-blue) ![](https://img.shields.io/badge/Best--of--N-green)
 - **Non-myopic Generation of Language Models for Reasoning and Planning**  
   *Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong*. [[pdf](https://openreview.net/pdf?id=OoNazl6T7D)], [[code](https://github.com/chang-github-00/LLM-Predictive-Decoding)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Predictive--Decoding-blue)
-- **FastMCTS: A Simple Sampling Strategy for Data Synthesis**  
-  *Peiji Li, Kai Lv, Yunfan Shao, Yichuan Ma, Linyang Li, Xiaoqing Zheng, Xipeng Qiu, Qipeng Guo*. [[pdf](https://www.arxiv.org/pdf/2502.11476)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FastMCTS-blue)
 - **Dynamic Parallel Tree Search for Efficient LLM Reasoning**  
   *Yifu Ding, Wentao Jiang, Shunyu Liu, Yongcheng Jing, Jinyang Guo, Yingjie Wang, Jing Zhang, Zengmao Wang, Ziwei Liu, Bo Du, Xianglong Liu, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2502.16235)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/DPTS-blue)
 - **Don't Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls**  
   *Ante Wang, Linfeng Song, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu, Jinsong Su, Dong Yu*. [[pdf](https://arxiv.org/pdf/2502.11183)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FETCH-blue)
 - **Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**  
   *Yiming Wang, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang*. [[pdf](https://arxiv.org/pdf/2503.01422)], 2025.03. ![](https://img.shields.io/badge/NIPS2025--spotlight-orange) ![](https://img.shields.io/badge/ST--BoN-blue) ![](https://img.shields.io/badge/Best--of--N-green)
-- **Language Models can Self-Improve at State-Value Estimation for Better Search**  
-  *Ethan Mendes, Alan Ritter*. [[pdf](https://arxiv.org/pdf/2503.02878)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--taught_Lookahead-blue)
 - **ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation**  
   *Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu, Qika Lin, Zhiyong Wu*. [[pdf](https://arxiv.org/pdf/2503.13288)], [[code](https://github.com/xufangzhi/phi-Decoding)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ϕ--Decoding-blue)
 - **Lost at the Beginning of Reasoning**  
@@ -1023,6 +1019,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Applications
 
+- **FastMCTS: A Simple Sampling Strategy for Data Synthesis**  
+  *Peiji Li, Kai Lv, Yunfan Shao, Yichuan Ma, Linyang Li, Xiaoqing Zheng, Xipeng Qiu, Qipeng Guo*. [[pdf](https://www.arxiv.org/pdf/2502.11476)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FastMCTS-blue)
 - **Z1: Efficient Test-time Scaling with Code**  
   *Zhaojian Yu, Yinghao Wu, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang*. [[pdf](https://arxiv.org/pdf/2504.00810)], [[code](https://github.com/efficientscaling/Z1)], 2025.04. ![](https://img.shields.io/badge/EMNLP2025--industry-orange) ![](https://img.shields.io/badge/Z1-blue) ![](https://img.shields.io/badge/Code-green)
 - **Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal**  
