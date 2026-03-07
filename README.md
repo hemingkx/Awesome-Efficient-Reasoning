@@ -766,7 +766,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Optimal Test-Time Scaling
 
-> Towards optimal performance-length tradeoff under limited token budget
+> Towards better test-time scaling performance under limited token budget
 
 - **Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning**  
   *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar*. [[pdf](https://openreview.net/pdf?id=4FWAwZtd2n)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange)
