@@ -782,8 +782,6 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qiyuan Zhang, Fuyuan Lyu, Zexu Sun, Lei Wang, Weixu Zhang, Zhihan Guo, Yufei Wang, Irwin King, Xue Liu, Chen Ma*. [[pdf](https://arxiv.org/pdf/2503.24235)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Survey-green)
 - **When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning**  
   *Nishad Singhi, Hritik Bansal, Arian Hosseini, Aditya Grover, Kai-Wei Chang, Marcus Rohrbach, Anna Rohrbach*. [[pdf](https://arxiv.org/pdf/2504.01005)], [[code](https://github.com/nishadsinghi/sc-genrm-scaling)], 2025.04. ![](https://img.shields.io/badge/COLM2025-orange)
-- **Z1: Efficient Test-time Scaling with Code**  
-  *Zhaojian Yu, Yinghao Wu, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang*. [[pdf](https://arxiv.org/pdf/2504.00810)], [[code](https://github.com/efficientscaling/Z1)], 2025.04. ![](https://img.shields.io/badge/EMNLP2025--industry-orange) ![](https://img.shields.io/badge/Z1-blue)
 - **Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods**  
   *Junlin Wang, Shang Zhu, Jon Saad-Falcon, Ben Athiwaratkun, Qingyang Wu, Jue Wang, Shuaiwen Leon Song, Ce Zhang, Bhuwan Dhingra, James Zou*. [[pdf](https://arxiv.org/pdf/2504.14047)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers**  
@@ -1025,6 +1023,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Applications
 
+- **Z1: Efficient Test-time Scaling with Code**  
+  *Zhaojian Yu, Yinghao Wu, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang*. [[pdf](https://arxiv.org/pdf/2504.00810)], [[code](https://github.com/efficientscaling/Z1)], 2025.04. ![](https://img.shields.io/badge/EMNLP2025--industry-orange) ![](https://img.shields.io/badge/Z1-blue) ![](https://img.shields.io/badge/Code-green)
 - **Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal**  
   *Wenhao Zeng, Yaoning Wang, Chao Hu, Yuling Shi, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu*. [[pdf](https://arxiv.org/pdf/2508.05988)], [[code](https://github.com/Zengwh02/ASAP)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Code-green)
 - **Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning**  
