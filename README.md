@@ -280,6 +280,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2502.12067)], [[code](https://github.com/hemingkx/TokenSkip)], 2025.02. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/TokenSkip-blue) ![](https://img.shields.io/badge/Controllable_Compression-green)
 - **Self-Training Elicits Concise Reasoning in Large Language Models**  
   *Tergel Munkhbat, Namgyu Ho, Seo Hyun Kim, Yongjin Yang, Yujin Kim, Se-Young Yun*. [[pdf](https://arxiv.org/pdf/2502.20122)], [[code](https://github.com/TergelMunkhbat/concise-reasoning)], 2025.02. ![](https://img.shields.io/badge/ACL2025--findings-orange)
+- **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**  
+  *Wenkai Yang, Shuming Ma, Yankai Lin, Furu Wei*. [[pdf](https://arxiv.org/pdf/2502.18080)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Chain of Draft: Thinking Faster by Writing Less**  
   *Silei Xu, Wenhao Xie, Lingxiao Zhao, Pengcheng He*. [[pdf](https://arxiv.org/pdf/2502.18600)], [[code](https://github.com/sileix/chain-of-draft)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoD-blue) ![](https://img.shields.io/badge/Prompt-green)
 - **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**  
@@ -764,16 +766,16 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Optimal Test-Time Scaling
 
+> Towards optimal performance-length tradeoff under limited token budget
+
 - **Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning**  
   *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar*. [[pdf](https://openreview.net/pdf?id=4FWAwZtd2n)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange)
 - **Inference Scaling Laws: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models**  
-  *Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang*. [[pdf](https://arxiv.org/pdf/2408.00724)], [[code](https://github.com/thu-wyz/inference_scaling)], [[homepage](https://thu-wyz.github.io/inference-scaling/)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang*. [[pdf](https://arxiv.org/pdf/2408.00724)], [[code](https://github.com/thu-wyz/inference_scaling)], [[homepage](https://thu-wyz.github.io/inference-scaling/)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange)
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal**  
   *Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2502.12118)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange)
 - **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?**  
   *Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, Yunhua Zhou, Xipeng Qiu*. [[pdf](https://arxiv.org/pdf/2502.12215)], [[code](https://github.com/ZhiYuanZeng/test-time-scaling-eval)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/Over--thinking-green)
-- **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**  
-  *Wenkai Yang, Shuming Ma, Yankai Lin, Furu Wei*. [[pdf](https://arxiv.org/pdf/2502.18080)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**  
   *Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2503.07572)], [[code](https://github.com/CMU-AIRe/MRT)], [[homepage](https://cohenqu.github.io/mrt.github.io/)], 2025.03. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/MRT-blue)
 - **Is Best-of-N the Best of Them? Coverage, Scaling, and Optimality in Inference-Time Alignment**  
