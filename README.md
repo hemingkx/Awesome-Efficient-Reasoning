@@ -862,9 +862,9 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Confidence Improves Self-Consistency in LLMs**  
   *Amir Taubenfeld, Tom Sheffer, Eran Ofek, Amir Feder, Ariel Goldstein, Zorik Gekhman, Gal Yona*. [[pdf](https://arxiv.org/pdf/2502.06233)], 2025.02. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/CISC-blue)
 - **Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**  
-  *Zhi Zhou, Tan Yuhao, Zenan Li, Yuan Yao, Lan-Zhe Guo, Xiaoxing Ma, Yu-Feng Li*. [[pdf](https://arxiv.org/pdf/2502.00511)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RPC-blue)
+  *Zhi Zhou, Tan Yuhao, Zenan Li, Yuan Yao, Lan-Zhe Guo, Xiaoxing Ma, Yu-Feng Li*. [[pdf](https://arxiv.org/pdf/2502.00511)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/RPC-blue)
 - **Slim-SC: Thought Pruning for Efficient Scaling with Self-Consistency**  
-  *Colin Hong, Xu Guo, Anand Chaanan Singh, Esha Choukse, Dmitrii Ustiugov*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Slim--SC-blue)
+  *Colin Hong, Xu Guo, Anand Chaanan Singh, Esha Choukse, Dmitrii Ustiugov*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.09. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/Slim--SC-blue)
 - **Optimal Self-Consistency for Efficient Reasoning with Large Language Models**  
   *Austin Feng, Marius Alonso, Ambroise Odonnat*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning**  
