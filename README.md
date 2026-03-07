@@ -781,7 +781,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**  
   *Qiyuan Zhang, Fuyuan Lyu, Zexu Sun, Lei Wang, Weixu Zhang, Zhihan Guo, Yufei Wang, Irwin King, Xue Liu, Chen Ma*. [[pdf](https://arxiv.org/pdf/2503.24235)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Survey-green)
 - **When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning**  
-  *Nishad Singhi, Hritik Bansal, Arian Hosseini, Aditya Grover, Kai-Wei Chang, Marcus Rohrbach, Anna Rohrbach*. [[pdf](https://arxiv.org/pdf/2504.01005)], [[code](https://github.com/nishadsinghi/sc-genrm-scaling)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Nishad Singhi, Hritik Bansal, Arian Hosseini, Aditya Grover, Kai-Wei Chang, Marcus Rohrbach, Anna Rohrbach*. [[pdf](https://arxiv.org/pdf/2504.01005)], [[code](https://github.com/nishadsinghi/sc-genrm-scaling)], 2025.04. ![](https://img.shields.io/badge/COLM2025-orange)
 - **Z1: Efficient Test-time Scaling with Code**  
   *Zhaojian Yu, Yinghao Wu, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang*. [[pdf](https://arxiv.org/pdf/2504.00810)], [[code](https://github.com/efficientscaling/Z1)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Z1-blue)
 - **Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods**  
@@ -805,7 +805,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute**  
   *Dujian Ding, Ankur Mallick, Shaokun Zhang, Chi Wang, Daniel Madrigal, Mirian Del Carmen Hipolito Garcia, Menglin Xia, Laks V.S. Lakshmanan, Qingyun Wu, Victor Rühle*. [[pdf](https://arxiv.org/pdf/2506.22716)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/BEST--Route-blue)
 - **Deep Think with Confidence**  
-  *Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao*. [[pdf](https://arxiv.org/pdf/2508.15260)], [[homepage](https://jiaweizzhao.github.io/deepconf/)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DeepConf-blue)
+  *Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao*. [[pdf](https://arxiv.org/pdf/2508.15260)], [[homepage](https://jiaweizzhao.github.io/deepconf/)], 2025.08. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/DeepConf-blue)
 - **ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute**  
   *Hao Wen, Yifan Su, Feifei Zhang, Yunxin Liu, Yunhao Liu, Ya-Qin Zhang, Yuanchun Li*. [[pdf](https://arxiv.org/pdf/2509.04475)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ParaThinker-blue)
 - **A1: Asynchronous Test-Time Scaling via Conformal Prediction**  
@@ -835,7 +835,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Don't Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls**  
   *Ante Wang, Linfeng Song, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu, Jinsong Su, Dong Yu*. [[pdf](https://arxiv.org/pdf/2502.11183)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FETCH-blue)
 - **Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**  
-  *Yiming Wang, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang*. [[pdf](https://arxiv.org/pdf/2503.01422)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ST--BoN-blue) ![](https://img.shields.io/badge/Best--of--N-green)
+  *Yiming Wang, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang*. [[pdf](https://arxiv.org/pdf/2503.01422)], 2025.03. ![](https://img.shields.io/badge/NIPS2025--spotlight-orange) ![](https://img.shields.io/badge/ST--BoN-blue) ![](https://img.shields.io/badge/Best--of--N-green)
 - **Language Models can Self-Improve at State-Value Estimation for Better Search**  
   *Ethan Mendes, Alan Ritter*. [[pdf](https://arxiv.org/pdf/2503.02878)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--taught_Lookahead-blue)
 - **ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation**  
