@@ -777,7 +777,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**  
   *Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2503.07572)], [[code](https://github.com/CMU-AIRe/MRT)], [[homepage](https://cohenqu.github.io/mrt.github.io/)], 2025.03. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/MRT-blue)
 - **Is Best-of-N the Best of Them? Coverage, Scaling, and Optimality in Inference-Time Alignment**  
-  *Audrey Huang, Adam Block, Qinghua Liu, Nan Jiang, Dylan J. Foster, Akshay Krishnamurthy*. [[pdf](https://arxiv.org/pdf/2503.21878)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/InferenceTimePessimism-blue)
+  *Audrey Huang, Adam Block, Qinghua Liu, Nan Jiang, Dylan J. Foster, Akshay Krishnamurthy*. [[pdf](https://arxiv.org/pdf/2503.21878)], 2025.03. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/InferenceTimePessimism-blue)
 - **What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**  
   *Qiyuan Zhang, Fuyuan Lyu, Zexu Sun, Lei Wang, Weixu Zhang, Zhihan Guo, Yufei Wang, Irwin King, Xue Liu, Chen Ma*. [[pdf](https://arxiv.org/pdf/2503.24235)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Survey-green)
 - **When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning**  
@@ -794,10 +794,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz*. [[pdf](https://arxiv.org/pdf/2505.17813)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
 - **First Finish Search: Efficient Test-Time Scaling in Large Language Models**  
   *Aradhye Agarwal, Ayan Sengupta, Tanmoy Chakraborty*. [[pdf](https://arxiv.org/pdf/2505.18149)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
-- **LLM-First Search: Self-Guided Exploration of the Solution Space**  
-  *Nathan Herr, Tim Rocktäschel, Roberta Raileanu*. [[pdf](https://arxiv.org/pdf/2506.05213)], [[code](https://github.com/NathanHerr/LLM-First-Search)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LFS-blue)
 - **Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling**  
-  *Xinglin Wang, Yiwei Li, Shaoxiong Feng, Peiwen Yuan, Yueqi Zhang, Jiayi Shi, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li*. [[pdf](https://arxiv.org/pdf/2506.15707)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DORA-blue)
+  *Xinglin Wang, Yiwei Li, Shaoxiong Feng, Peiwen Yuan, Yueqi Zhang, Jiayi Shi, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li*. [[pdf](https://arxiv.org/pdf/2506.15707)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/DORA-blue)
 - **𝚂𝙿𝙴𝙲𝚂: Faster Test-Time Scaling through Speculative Drafts**  
   *Mert Cemri, Nived Rajaraman, Rishabh Tiwari, Xiaoxuan Liu, Kurt Keutzer, Ion Stoica, Kannan Ramchandran, Ahmad Beirami, Ziteng Sun*. [[pdf](https://arxiv.org/pdf/2506.15733)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPECS-blue)
 - **BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute**  
