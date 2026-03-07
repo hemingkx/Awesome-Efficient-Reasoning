@@ -787,7 +787,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods**  
   *Junlin Wang, Shang Zhu, Jon Saad-Falcon, Ben Athiwaratkun, Qingyang Wu, Jue Wang, Shuaiwen Leon Song, Ce Zhang, Bhuwan Dhingra, James Zou*. [[pdf](https://arxiv.org/pdf/2504.14047)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers**  
-  *Kusha Sareen, Morgane M Moss, Alessandro Sordoni, Rishabh Agarwal, Arian Hosseini*. [[pdf](https://arxiv.org/pdf/2505.04842)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Kusha Sareen, Morgane M Moss, Alessandro Sordoni, Rishabh Agarwal, Arian Hosseini*. [[pdf](https://arxiv.org/pdf/2505.04842)], 2025.05. ![](https://img.shields.io/badge/COLM2025-orange)
 - **Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence**  
   *Amirhosein Ghasemabadi, Keith G. Mills, Baochun Li, Di Niu*. [[pdf](https://arxiv.org/abs/2505.20325)], [[code](https://github.com/Amirhosein-gh98/Guided-by-Gut)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Value-Guided Search for Efficient Chain-of-Thought Reasoning**  
@@ -817,7 +817,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **MatryoshkaThinking: Recursive Test-Time Scaling Enables Efficient Reasoning**  
   *Hongwei Chen, Yishu Lei, Dan Zhang, Bo Ke, Danxiang Zhu, Xuyi Chen, Yuxiang Lu, Zhengjie Huang, Shikun Feng, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang*. [[pdf](https://arxiv.org/pdf/2510.10293)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Tracing the Traces: Latent Temporal Signals for Efficient and Accurate Reasoning**  
-  *Martina G. Vilas, Safoora Yousefi, Besmira Nushi, Eric Horvitz, Vidhisha Balachandran*. [[pdf](https://arxiv.org/pdf/2510.10494)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Martina G. Vilas, Safoora Yousefi, Besmira Nushi, Eric Horvitz, Vidhisha Balachandran*. [[pdf](https://arxiv.org/pdf/2510.10494)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange)
 - **Seer Self-Consistency: Advance Budget Estimation for Adaptive Test-Time Scaling**  
   *Shiyu Ji, Yixuan Wang, Yijun Liu, Qingfu Zhu, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2510.10494)], [[code](https://github.com/noforit/SeerSC)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens**  
