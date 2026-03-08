@@ -887,6 +887,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Multimodal Reasoning Efficiency
 
+- **Fast-Slow Thinking GRPO for Large Vision-Language Model Reasoning**  
+  *Wenyi Xiao, Leilei Gan*. [[pdf](https://openreview.net/pdf?id=MI1uT5rReV)], [[code](https://github.com/Mr-Loevan/FAST)], 2025.04. ![](https://img.shields.io/badge/NeurIPS2025--Spotlight-orange) ![](https://img.shields.io/badge/FAST-blue)
 - **PixelThink: Towards Efficient Chain-of-Pixel Reasoning**  
   *Song Wang, Gongfan Fang, Lingdong Kong, Xiangtai Li, Jianyun Xu, Sheng Yang, Qiang Li, Jianke Zhu, Xinchao Wang*. [[pdf](https://arxiv.org/pdf/2505.23727)], [[code](https://github.com/songw-zju/PixelThink)], [[homepage](https://pixelthink.github.io/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PixelThink-blue)
 - **Thinking with Visual Abstract: Enhancing Multimodal Reasoning via Visual Abstraction**  
