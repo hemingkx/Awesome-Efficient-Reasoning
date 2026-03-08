@@ -919,6 +919,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Dongxu Zhang, Yiding Sun, Cheng Tan, Wenbiao Yan, Ning Yang, Jihua Zhu, Haijun Zhang*. [[pdf](https://arxiv.org/pdf/2601.13879)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization**  
   *Xingjian Diao, Zheyuan Liu, Chunhui Zhang, Weiyi Wu, Keyi Kong, Lin Shi, Kaize Ding, Soroush Vosoughi, Jiang Gui*. [[pdf](https://arxiv.org/pdf/2601.04442)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Bridging Efficiency and Transparency: Explainable CoT Compression in Multimodal Large Reasoning Models**  
+  *Yizhi Wang, Linan Yue, Min-Ling Zhang*. [[pdf](https://arxiv.org/pdf/2602.09485)], [[code](https://github.com/Snowstorm1492/XMCC-Code)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Other Work
 
