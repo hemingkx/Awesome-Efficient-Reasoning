@@ -21,7 +21,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Sparse Attention \& KV Cache](#sparse-attention--kv-cache)
   - [Optimal Test-Time Scaling](#optimal-test-time-scaling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
-  - [Efficient Sampling Method](#efficient-sampling-method)
+  - [Efficient Sampling Methods](#efficient-sampling-methods)
   - [Long-Context Reasoning Efficiency](#long-context-reasoning-efficiency)
   - [Multimodal Reasoning Efficiency](#multimodal-reasoning-efficiency)
   - [Other Work](#other-work)
