@@ -776,6 +776,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong*. [[pdf](https://openreview.net/pdf?id=OoNazl6T7D)], [[code](https://github.com/chang-github-00/LLM-Predictive-Decoding)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Predictive--Decoding-blue)
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal**  
   *Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2502.12118)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange)
+- **Bag of Tricks for Inference-time Computation of LLM Reasoning**  
+  *Fan Liu, Wenshuo Chao, Naiqiang Tan, Hao Liu*. [[pdf](https://arxiv.org/pdf/2502.12118)], 2025.02. ![](https://img.shields.io/badge/NIPS2025-orange)
 - **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?**  
   *Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, Yunhua Zhou, Xipeng Qiu*. [[pdf](https://arxiv.org/pdf/2502.12215)], [[code](https://github.com/ZhiYuanZeng/test-time-scaling-eval)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/Over--thinking-green)
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**  
