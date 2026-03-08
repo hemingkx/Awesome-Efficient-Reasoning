@@ -20,8 +20,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   - [Parallel Thinking](#parallel-thinking)
   - [Sparse Attention \& KV Cache](#sparse-attention--kv-cache)
   - [Optimal Test-Time Scaling](#optimal-test-time-scaling)
-  - [Efficient Sampling](#efficient-sampling)
   - [Efficient Self-Consistency](#efficient-self-consistency)
+  - [Efficient Sampling Method](#efficient-sampling-method)
   - [Long-Context Reasoning Efficiency](#long-context-reasoning-efficiency)
   - [Multimodal Reasoning Efficiency](#multimodal-reasoning-efficiency)
   - [Other Work](#other-work)
@@ -766,12 +766,14 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 
 ### Optimal Test-Time Scaling
 
-> Towards better test-time scaling performance under limited token budget
+> Towards better test-time scaling performance under limited token budgets, prioritizing performance rather than efficiency.
 
 - **Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning**  
   *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar*. [[pdf](https://openreview.net/pdf?id=4FWAwZtd2n)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange)
 - **Inference Scaling Laws: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models**  
   *Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang*. [[pdf](https://arxiv.org/pdf/2408.00724)], [[code](https://github.com/thu-wyz/inference_scaling)], [[homepage](https://thu-wyz.github.io/inference-scaling/)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange)
+- **Non-myopic Generation of Language Models for Reasoning and Planning**  
+  *Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong*. [[pdf](https://openreview.net/pdf?id=OoNazl6T7D)], [[code](https://github.com/chang-github-00/LLM-Predictive-Decoding)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Predictive--Decoding-blue)
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal**  
   *Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar*. [[pdf](https://arxiv.org/pdf/2502.12118)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange)
 - **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?**  
@@ -782,6 +784,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Audrey Huang, Adam Block, Qinghua Liu, Nan Jiang, Dylan J. Foster, Akshay Krishnamurthy*. [[pdf](https://arxiv.org/pdf/2503.21878)], 2025.03. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/InferenceTimePessimism-blue)
 - **What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**  
   *Qiyuan Zhang, Fuyuan Lyu, Zexu Sun, Lei Wang, Weixu Zhang, Zhihan Guo, Yufei Wang, Irwin King, Xue Liu, Chen Ma*. [[pdf](https://arxiv.org/pdf/2503.24235)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Survey-green)
+- **ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation**  
+  *Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu, Qika Lin, Zhiyong Wu*. [[pdf](https://arxiv.org/pdf/2503.13288)], [[code](https://github.com/xufangzhi/phi-Decoding)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ϕ--Decoding-blue)
 - **When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning**  
   *Nishad Singhi, Hritik Bansal, Arian Hosseini, Aditya Grover, Kai-Wei Chang, Marcus Rohrbach, Anna Rohrbach*. [[pdf](https://arxiv.org/pdf/2504.01005)], [[code](https://github.com/nishadsinghi/sc-genrm-scaling)], 2025.04. ![](https://img.shields.io/badge/COLM2025-orange)
 - **Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods**  
@@ -792,57 +796,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Amirhosein Ghasemabadi, Keith G. Mills, Baochun Li, Di Niu*. [[pdf](https://arxiv.org/abs/2505.20325)], [[code](https://github.com/Amirhosein-gh98/Guided-by-Gut)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Value-Guided Search for Efficient Chain-of-Thought Reasoning**  
   *Kaiwen Wang, Jin Peng Zhou, Jonathan Chang, Zhaolin Gao, Nathan Kallus, Kianté Brantley, Wen Sun*. [[pdf](https://arxiv.org/pdf/2505.17373)], [[code](https://github.com/kaiwenw/value-guided-search)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange)
-- **Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning**  
-  *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz*. [[pdf](https://arxiv.org/pdf/2505.17813)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
-- **First Finish Search: Efficient Test-Time Scaling in Large Language Models**  
-  *Aradhye Agarwal, Ayan Sengupta, Tanmoy Chakraborty*. [[pdf](https://arxiv.org/pdf/2505.18149)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
-- **Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling**  
-  *Xinglin Wang, Yiwei Li, Shaoxiong Feng, Peiwen Yuan, Yueqi Zhang, Jiayi Shi, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li*. [[pdf](https://arxiv.org/pdf/2506.15707)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/DORA-blue)
-- **𝚂𝙿𝙴𝙲𝚂: Faster Test-Time Scaling through Speculative Drafts**  
-  *Mert Cemri, Nived Rajaraman, Rishabh Tiwari, Xiaoxuan Liu, Kurt Keutzer, Ion Stoica, Kannan Ramchandran, Ahmad Beirami, Ziteng Sun*. [[pdf](https://arxiv.org/pdf/2506.15733)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPECS-blue)
-- **BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute**  
-  *Dujian Ding, Ankur Mallick, Shaokun Zhang, Chi Wang, Daniel Madrigal, Mirian Del Carmen Hipolito Garcia, Menglin Xia, Laks V.S. Lakshmanan, Qingyun Wu, Victor Rühle*. [[pdf](https://arxiv.org/pdf/2506.22716)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/BEST--Route-blue)
-- **Deep Think with Confidence**  
-  *Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao*. [[pdf](https://arxiv.org/pdf/2508.15260)], [[homepage](https://jiaweizzhao.github.io/deepconf/)], 2025.08. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/DeepConf-blue)
-- **ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute**  
-  *Hao Wen, Yifan Su, Feifei Zhang, Yunxin Liu, Yunhao Liu, Ya-Qin Zhang, Yuanchun Li*. [[pdf](https://arxiv.org/pdf/2509.04475)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ParaThinker-blue)
-- **A1: Asynchronous Test-Time Scaling via Conformal Prediction**  
-  *Jing Xiong, Qiujiang Chen, Fanghua Ye, Zhongwei Wan, Chuanyang Zheng, Chenyang Zhao, Hui Shen, Alexander Hanbo Li, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Lingpeng Kong, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2509.15148)], 2025.09. ![](https://img.shields.io/badge/ICLR2026-orange)
-- **AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding**  
-  *Shuqing Luo, Yilin Guan, Pingzhi Li, Hanrui Wang, Tianlong Chen*. [[pdf](https://arxiv.org/pdf/2510.07486)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
-- **DeepPrune: Parallel Scaling without Inter-trace Redundancy**  
-  *Shangqing Tu, Yaxuan Li, Yushi Bai, Lei Hou, Juanzi Li*. [[pdf](https://arxiv.org/pdf/2510.07486)], [[code](https://github.com/THU-KEG/DeepPrune)], [[homepage](https://deepprune.github.io/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DeepPrune-blue)
-- **MatryoshkaThinking: Recursive Test-Time Scaling Enables Efficient Reasoning**  
-  *Hongwei Chen, Yishu Lei, Dan Zhang, Bo Ke, Danxiang Zhu, Xuyi Chen, Yuxiang Lu, Zhengjie Huang, Shikun Feng, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang*. [[pdf](https://arxiv.org/pdf/2510.10293)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Tracing the Traces: Latent Temporal Signals for Efficient and Accurate Reasoning**  
-  *Martina G. Vilas, Safoora Yousefi, Besmira Nushi, Eric Horvitz, Vidhisha Balachandran*. [[pdf](https://arxiv.org/pdf/2510.10494)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange)
-- **Seer Self-Consistency: Advance Budget Estimation for Adaptive Test-Time Scaling**  
-  *Shiyu Ji, Yixuan Wang, Yijun Liu, Qingfu Zhu, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2510.10494)], [[code](https://github.com/noforit/SeerSC)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens**  
   *Wei-Lin Chen, Liqian Peng, Tian Tan, Chao Zhao, Blake JianHang Chen, Ziqian Lin, Alec Go, Yu Meng*. [[pdf](https://arxiv.org/pdf/2602.13517)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
-### Efficient Sampling
-
-- **Fast Best-of-N Decoding via Speculative Rejection**  
-  *Hanshi Sun, Momin Haider, Ruiqi Zhang, Huitao Yang, Jiahao Qiu, Ming Yin, Mengdi Wang, Peter Bartlett, Andrea Zanette*. [[pdf](https://openreview.net/pdf?id=348hfcprUs)], [[code](https://github.com/Zanette-Labs/SpeculativeRejection)], 2024.10. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Speculative_Rejection-blue) ![](https://img.shields.io/badge/Best--of--N-green)
-- **Non-myopic Generation of Language Models for Reasoning and Planning**  
-  *Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong*. [[pdf](https://openreview.net/pdf?id=OoNazl6T7D)], [[code](https://github.com/chang-github-00/LLM-Predictive-Decoding)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Predictive--Decoding-blue)
-- **Dynamic Parallel Tree Search for Efficient LLM Reasoning**  
-  *Yifu Ding, Wentao Jiang, Shunyu Liu, Yongcheng Jing, Jinyang Guo, Yingjie Wang, Jing Zhang, Zengmao Wang, Ziwei Liu, Bo Du, Xianglong Liu, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2502.16235)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/DPTS-blue)
-- **Don't Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls**  
-  *Ante Wang, Linfeng Song, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu, Jinsong Su, Dong Yu*. [[pdf](https://arxiv.org/pdf/2502.11183)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FETCH-blue)
-- **Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**  
-  *Yiming Wang, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang*. [[pdf](https://arxiv.org/pdf/2503.01422)], 2025.03. ![](https://img.shields.io/badge/NIPS2025--spotlight-orange) ![](https://img.shields.io/badge/ST--BoN-blue) ![](https://img.shields.io/badge/Best--of--N-green)
-- **ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation**  
-  *Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu, Qika Lin, Zhiyong Wu*. [[pdf](https://arxiv.org/pdf/2503.13288)], [[code](https://github.com/xufangzhi/phi-Decoding)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ϕ--Decoding-blue)
-- **Lost at the Beginning of Reasoning**  
-  *Baohao Liao, Xinyi Chen, Sara Rajaee, Yuhui Xu, Christian Herold, Anders Søgaard, Maarten de Rijke, Christof Monz*. [[pdf](https://arxiv.org/pdf/2506.22058)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework**  
-  *Zenan Xu, Zexuan Qiu, Guanhua Huang, Kun Li, Siheng Li, Chenchen Zhang, Kejiao Li, Qi Yi, Yuhao Jiang, Bo Zhou, Fengzong Lian, Zhanhui Kang*. [[pdf](https://arxiv.org/pdf/2507.06829)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
-- **MUR: Momentum Uncertainty guided Reasoning for Large Language Models**  
-  *Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, Qika Lin, Jun Liu*. [[pdf](https://arxiv.org/pdf/2507.14958)], [[code](https://github.com/yayayacc/MUR)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Parallel Loop Transformer for Efficient Test-Time Computation Scaling**  
-  *Bohong Wu, Mengzhao Chen, Xiang Luo, Shen Yan, Qifan Yu, Fan Xia, Tianqi Zhang, Hongrui Zhan, Zheng Zhong, Xun Zhou, Siyuan Qiao, Xingyan Bin*. [[pdf](https://arxiv.org/pdf/2510.24824)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
-
 ### Efficient Self-Consistency
 
 - **Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning**  
@@ -859,8 +814,18 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Amir Taubenfeld, Tom Sheffer, Eran Ofek, Amir Feder, Ariel Goldstein, Zorik Gekhman, Gal Yona*. [[pdf](https://arxiv.org/pdf/2502.06233)], 2025.02. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/CISC-blue)
 - **Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**  
   *Zhi Zhou, Tan Yuhao, Zenan Li, Yuan Yao, Lan-Zhe Guo, Xiaoxing Ma, Yu-Feng Li*. [[pdf](https://arxiv.org/pdf/2502.00511)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/RPC-blue)
+- **Lost at the Beginning of Reasoning**  
+  *Baohao Liao, Xinyi Chen, Sara Rajaee, Yuhui Xu, Christian Herold, Anders Søgaard, Maarten de Rijke, Christof Monz*. [[pdf](https://arxiv.org/pdf/2506.22058)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Deep Think with Confidence**  
+  *Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao*. [[pdf](https://arxiv.org/pdf/2508.15260)], [[homepage](https://jiaweizzhao.github.io/deepconf/)], 2025.08. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/DeepConf-blue)
 - **Slim-SC: Thought Pruning for Efficient Scaling with Self-Consistency**  
   *Colin Hong, Xu Guo, Anand Chaanan Singh, Esha Choukse, Dmitrii Ustiugov*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.09. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/Slim--SC-blue)
+- **DeepPrune: Parallel Scaling without Inter-trace Redundancy**  
+  *Shangqing Tu, Yaxuan Li, Yushi Bai, Lei Hou, Juanzi Li*. [[pdf](https://arxiv.org/pdf/2510.07486)], [[code](https://github.com/THU-KEG/DeepPrune)], [[homepage](https://deepprune.github.io/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DeepPrune-blue)
+- **Tracing the Traces: Latent Temporal Signals for Efficient and Accurate Reasoning**  
+  *Martina G. Vilas, Safoora Yousefi, Besmira Nushi, Eric Horvitz, Vidhisha Balachandran*. [[pdf](https://arxiv.org/pdf/2510.10494)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange)
+- **Seer Self-Consistency: Advance Budget Estimation for Adaptive Test-Time Scaling**  
+  *Shiyu Ji, Yixuan Wang, Yijun Liu, Qingfu Zhu, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2510.10494)], [[code](https://github.com/noforit/SeerSC)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Optimal Self-Consistency for Efficient Reasoning with Large Language Models**  
   *Austin Feng, Marius Alonso, Ambroise Odonnat*. [[pdf](https://arxiv.org/pdf/2509.13990)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning**  
@@ -869,6 +834,41 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Zhixiang Liang, Beichen Huang, Zheng Wang, Minjia Zhang*. [[pdf](https://arxiv.org/pdf/2601.09093)], [[code](https://github.com/Supercomputing-System-AI-Lab/STEP)], 2026.01.  ![](https://img.shields.io/badge/Arxiv-orange)
 - **Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing**  
   *Tong Zheng, Chengsong Huang, Runpeng Dai, Yun He, Rui Liu, Xin Ni, Huiwen Bao, Kaishen Wang, Hongtu Zhu, Jiaxin Huang, Furong Huang, Heng Huang*. [[pdf](https://arxiv.org/pdf/2602.03845)], [[code](https://github.com/zhengkid/Parallel-Probe)], 2026.02.  ![](https://img.shields.io/badge/Arxiv-orange)
+
+### Efficient Sampling Methods
+
+> Other efficient sampling methods beyond efficient self-consistency.
+
+- **Fast Best-of-N Decoding via Speculative Rejection**  
+  *Hanshi Sun, Momin Haider, Ruiqi Zhang, Huitao Yang, Jiahao Qiu, Ming Yin, Mengdi Wang, Peter Bartlett, Andrea Zanette*. [[pdf](https://openreview.net/pdf?id=348hfcprUs)], [[code](https://github.com/Zanette-Labs/SpeculativeRejection)], 2024.10. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Speculative_Rejection-blue) ![](https://img.shields.io/badge/Best--of--N-green)
+- **Dynamic Parallel Tree Search for Efficient LLM Reasoning**  
+  *Yifu Ding, Wentao Jiang, Shunyu Liu, Yongcheng Jing, Jinyang Guo, Yingjie Wang, Jing Zhang, Zengmao Wang, Ziwei Liu, Bo Du, Xianglong Liu, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2502.16235)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/DPTS-blue)
+- **Don't Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls**  
+  *Ante Wang, Linfeng Song, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu, Jinsong Su, Dong Yu*. [[pdf](https://arxiv.org/pdf/2502.11183)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FETCH-blue)
+- **Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**  
+  *Yiming Wang, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang*. [[pdf](https://arxiv.org/pdf/2503.01422)], 2025.03. ![](https://img.shields.io/badge/NIPS2025--spotlight-orange) ![](https://img.shields.io/badge/ST--BoN-blue) ![](https://img.shields.io/badge/Best--of--N-green)
+- **Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning**  
+  *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz*. [[pdf](https://arxiv.org/pdf/2505.17813)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
+- **First Finish Search: Efficient Test-Time Scaling in Large Language Models**  
+  *Aradhye Agarwal, Ayan Sengupta, Tanmoy Chakraborty*. [[pdf](https://arxiv.org/pdf/2505.18149)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Shortest_N-green)
+- **Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling**  
+  *Xinglin Wang, Yiwei Li, Shaoxiong Feng, Peiwen Yuan, Yueqi Zhang, Jiayi Shi, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li*. [[pdf](https://arxiv.org/pdf/2506.15707)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/DORA-blue)
+- **OptScale: Probabilistic Optimality for Inference-time Scaling**  
+  *Youkang Wang, Jian Wang, Rubing Chen, Xiao-Yong Wei*. [[pdf](https://arxiv.org/pdf/2506.22376)], 2025.06. ![](https://img.shields.io/badge/AAAI2026-orange)
+- **Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework**  
+  *Zenan Xu, Zexuan Qiu, Guanhua Huang, Kun Li, Siheng Li, Chenchen Zhang, Kejiao Li, Qi Yi, Yuhao Jiang, Bo Zhou, Fengzong Lian, Zhanhui Kang*. [[pdf](https://arxiv.org/pdf/2507.06829)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **MUR: Momentum Uncertainty guided Reasoning for Large Language Models**  
+  *Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, Qika Lin, Jun Liu*. [[pdf](https://arxiv.org/pdf/2507.14958)], [[code](https://github.com/yayayacc/MUR)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute**  
+  *Dujian Ding, Ankur Mallick, Shaokun Zhang, Chi Wang, Daniel Madrigal, Mirian Del Carmen Hipolito Garcia, Menglin Xia, Laks V.S. Lakshmanan, Qingyun Wu, Victor Rühle*. [[pdf](https://arxiv.org/pdf/2506.22716)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/BEST--Route-blue) ![](https://img.shields.io/badge/BoN-green)
+- **A1: Asynchronous Test-Time Scaling via Conformal Prediction**  
+  *Jing Xiong, Qiujiang Chen, Fanghua Ye, Zhongwei Wan, Chuanyang Zheng, Chenyang Zhao, Hui Shen, Alexander Hanbo Li, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Lingpeng Kong, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2509.15148)], 2025.09. ![](https://img.shields.io/badge/ICLR2026-orange)
+- **MatryoshkaThinking: Recursive Test-Time Scaling Enables Efficient Reasoning**  
+  *Hongwei Chen, Yishu Lei, Dan Zhang, Bo Ke, Danxiang Zhu, Xuyi Chen, Yuxiang Lu, Zhengjie Huang, Shikun Feng, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang*. [[pdf](https://arxiv.org/pdf/2510.10293)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding**  
+  *Shuqing Luo, Yilin Guan, Pingzhi Li, Hanrui Wang, Tianlong Chen*. [[pdf](https://arxiv.org/pdf/2510.07486)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Parallel Loop Transformer for Efficient Test-Time Computation Scaling**  
+  *Bohong Wu, Mengzhao Chen, Xiang Luo, Shen Yan, Qifan Yu, Fan Xia, Tianqi Zhang, Hongrui Zhan, Zheng Zhong, Xun Zhou, Siyuan Qiao, Xingyan Bin*. [[pdf](https://arxiv.org/pdf/2510.24824)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Long-Context Reasoning Efficiency
 
