@@ -894,15 +894,15 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning**  
   *Ziyang Wang, Jaehong Yoon, Shoubin Yu, Md Mohaiminul Islam, Gedas Bertasius, Mohit Bansal*. [[pdf](https://aclanthology.org/2025.emnlp-main.1428.pdf)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/Test--Time_Scaling-green)
 - **R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**  
-  *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*. [[pdf](https://arxiv.org/pdf/2508.21113)], [[code](https://github.com/yannqi/R-4B)], [[huggingface](https://huggingface.co/YannQi/R-4B)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--4B-blue)
+  *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*. [[pdf](https://arxiv.org/pdf/2508.21113)], [[code](https://github.com/yannqi/R-4B)], [[huggingface](https://huggingface.co/YannQi/R-4B)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--4B-blue) ![](https://img.shields.io/badge/Adaptive_Thinking-green)
 - **Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models**  
   *Zhichao Sheng, Shilin Zhou, Chen Gong, Zhenghua Li*. [[pdf](https://arxiv.org/pdf/2509.21960)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision**  
-  *Luozheng Qin, Jia Gong, Yuqing Sun, Tianjiao Li, Mengping Yang, Xiaomeng Yang, Chao Qu, Zhiyu Tan, Hao Li*. [[pdf](https://arxiv.org/pdf/2508.05606)], [[code](https://github.com/Fr0zenCrane/UniCoT)], [[homepage](https://sais-fuxi.github.io/projects/uni-cot/)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Uni--cot-blue)
+  *Luozheng Qin, Jia Gong, Yuqing Sun, Tianjiao Li, Mengping Yang, Xiaomeng Yang, Chao Qu, Zhiyu Tan, Hao Li*. [[pdf](https://arxiv.org/pdf/2508.05606)], [[code](https://github.com/Fr0zenCrane/UniCoT)], [[homepage](https://sais-fuxi.github.io/projects/uni-cot/)], 2025.09. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Uni--cot-blue)
 - **ARM2: Adaptive Reasoning Model with Vision Understanding and Executable Code**  
   *Jian Xie, Zhendong Chu, Aoxiao Zhong, Kai Zhang, Mingzhe Han, Xing Fan, Jialie Shen, Qingsong Wen*. [[pdf](https://arxiv.org/pdf/2510.08163)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ARM2-blue)
 - **ARES: Multimodal Adaptive Reasoning via Difficulty-Aware Token-Level Entropy Shaping**  
-  *Shuang Chen, Yue Guo, Yimeng Ye, Shijue Huang, Wenbo Hu, Haoxi Li, Manyuan Zhang, Jiayu Chen, Song Guo, Nanyun Peng*. [[pdf](https://arxiv.org/pdf/2510.08457)], [[code](https://github.com/shawn0728/ARES)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ARES-blue)
+  *Shuang Chen, Yue Guo, Yimeng Ye, Shijue Huang, Wenbo Hu, Haoxi Li, Manyuan Zhang, Jiayu Chen, Song Guo, Nanyun Peng*. [[pdf](https://arxiv.org/pdf/2510.08457)], [[code](https://github.com/shawn0728/ARES)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/ARES-blue)
 - **Towards Efficient Multimodal Unified Reasoning Model via Model Merging**  
   *Qixiang Yin, Huanjin Yao, Jianghao Chen, Jiaxing Huang, Zhicheng Zhao, Fei Su*. [[pdf](https://arxiv.org/pdf/2510.08987)], [[code](https://github.com/buptyqx/Tiny-R1V)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Learning to Think Fast and Slow for Visual Language Models**  
@@ -912,7 +912,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Efficient Test-Time Scaling for Small Vision-Language Models**  
   *Mehmet Onurcan Kaya, Desmond Elliott, Dim Papadopoulos*. [[pdf](https://openreview.net/pdf?id=rClkte0ZTp)], [[code](https://github.com/monurcan/efficient_test_time_scaling)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Test--Time_Scaling-green)
 - **SketchThinker-R1: Towards Efficient Sketch-Style Reasoning in Large Multimodal Models**  
-  *Ruiyang Zhang, Dongzhan Zhou, Zhedong Zheng*. [[pdf](https://arxiv.org/pdf/2601.02825)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Ruiyang Zhang, Dongzhan Zhou, Zhedong Zheng*. [[pdf](https://arxiv.org/pdf/2601.02825)], 2026.01. ![](https://img.shields.io/badge/ICLR2026-orange)
 - **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**  
   *Dongxu Zhang, Yiding Sun, Cheng Tan, Wenbiao Yan, Ning Yang, Jihua Zhu, Haijun Zhang*. [[pdf](https://arxiv.org/pdf/2601.13879)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization**  
