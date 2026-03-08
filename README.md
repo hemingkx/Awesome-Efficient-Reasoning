@@ -678,7 +678,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 ### Small & Large Reasoning Model Collaboration
 
 - **Hawkeye: Efficient Reasoning with Model Collaboration**  
-  *Jianshu She, Zhuohao Li, Zhemin Huang, Qi Li, Peiran Xu, Haonan Li, Qirong Ho*. [[pdf](https://arxiv.org/pdf/2504.00424)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Hawkeye-blue)
+  *Jianshu She, Zhuohao Li, Zhemin Huang, Qi Li, Peiran Xu, Haonan Li, Qirong Ho*. [[pdf](https://arxiv.org/pdf/2504.00424)], 2025.04. ![](https://img.shields.io/badge/COLM2025-orange) ![](https://img.shields.io/badge/Hawkeye-blue)
 - **Guiding Reasoning in Small Language Models with LLM Assistance**  
   *Yujin Kim, Euiin Yi, Minu Kim, Se-Young Yun, Taehyeon Kim*. [[pdf](https://arxiv.org/pdf/2504.09923)], [[code](https://github.com/kimyuji/ScaffoldedReasoning)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SMART-blue)
 - **Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models**  
@@ -686,7 +686,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **SplitReason: Learning To Offload Reasoning**  
   *Yash Akhauri, Anthony Fei, Chi-Chih Chang, Ahmed F. AbouElhamayed, Yueying Li, Mohamed S. Abdelfattah*. [[pdf](https://arxiv.org/pdf/2504.16379)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SplitReason-blue) ![](https://img.shields.io/badge/offloading_challenging_CoT_parts_to_LRMs-green)
 - **ProxyThinker: Test-Time Guidance through Small Visual Reasoners**  
-  *Zilin Xiao, Jaywon Koo, Siru Ouyang, Jefferson Hernandez, Yu Meng, Vicente Ordonez*. [[pdf](https://arxiv.org/pdf/2505.24872)], [[code](https://github.com/MrZilinXiao/ProxyThinker)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ProxyThinker-blue) ![](https://img.shields.io/badge/CoTs_from_Multimodal_SRMs-green)
+  *Zilin Xiao, Jaywon Koo, Siru Ouyang, Jefferson Hernandez, Yu Meng, Vicente Ordonez*. [[pdf](https://arxiv.org/pdf/2505.24872)], [[code](https://github.com/MrZilinXiao/ProxyThinker)], 2025.05. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/ProxyThinker-blue) ![](https://img.shields.io/badge/CoTs_from_Multimodal_SRMs-green)
 - **What makes Reasoning Models Different? Follow the Reasoning Leader for Efficient Decoding**  
   *Ming Li, Zhengyuan Yang, Xiyao Wang, Dianqi Li, Kevin Lin, Tianyi Zhou, Lijuan Wang*. [[pdf](https://arxiv.org/pdf/2506.06998)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FoReaL--Decoding-blue)
 - **Collaborative LLM Inference via Planning for Efficient Reasoning**  
