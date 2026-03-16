@@ -353,7 +353,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning**  
   *Jiwon Song, Dongwon Jo, Yulhwa Kim, Jae-Joon Kim*. [[pdf](https://arxiv.org/pdf/2505.13866)], [[code](https://github.com/jiwonsong-dev/ReasoningPathCompression)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/KV_Cache_Pruning-green)
 - **ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**  
-  *Gengyang Li, Yifeng Gao, Yuming Li, Yunfang Wu*. [[pdf](https://arxiv.org/pdf/2505.15684)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/ThinkLess-blue) ![](https://img.shields.io/badge/Early_Exit-green)
+  *Gengyang Li, Yifeng Gao, Yuming Li, Yunfang Wu*. [[pdf](https://arxiv.org/pdf/2505.15684)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkLess-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 - **Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**  
   *Wei Liu, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He*. [[pdf](https://arxiv.org/pdf/2505.15612)], [[code](https://github.com/hkust-nlp/Laser)], 2025.05. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Laser-blue)
 - **R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**  
