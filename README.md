@@ -536,6 +536,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Anhao Zhao, Ziyang Chen, Junlong Tong, Yingqi Fan, Fanghua Ye, Shuhao Li, Yunpu Ma, Wenjie Li, Xiaoyu Shen*. [[pdf](https://arxiv.org/pdf/2602.13407)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **The Art of Efficient Reasoning: Data, Reward, and Optimization**  
   *Taiqiang Wu, Zenan Xu, Bo Zhou, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2602.20945)], [[homepage](https://wutaiqiang.github.io/project/Art)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Constraint-Rectified Training for Efficient Chain-of-Thought**  
+  *Qinhang Wu, Sen Lin, Ming Zhang, Yingbin Liang, Ness B. Shroff*. [[pdf](https://arxiv.org/pdf/2602.12526)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CRT-blue) ![](https://img.shields.io/badge/Accuracy_Guard-green)
 
 ### Adaptive Thinking
 
