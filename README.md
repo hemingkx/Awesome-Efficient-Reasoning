@@ -73,6 +73,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Ziqi Wang, Boye Niu, Zipeng Gao, Zhi Zheng, Tong Xu, Linghui Meng, Zhongli Li, Jing Liu, Yilong Chen, Chen Zhu, Hua Wu, Haifeng Wang, Enhong Chen*. [[pdf](https://arxiv.org/pdf/2510.12164)], [[paper list](https://github.com/PPPP-kaqiu/Awesome-Parallel-Reasoning)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models**  
   *Chao Wu, Baoheng Li, Mingchen Gao, Zhenyi Wang*. [[pdf](https://arxiv.org/pdf/2511.10788)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook**  
+  *Xinlei Yu, Zhangquan Chen, Yongbo He, Tianyu Fu, Cheng Yang, Chengming Xu, Yue Ma, Xiaobin Hu, Zhe Cao, Jie Xu, Guibin Zhang, Jiale Tao, Jiayi Zhang, Siyuan Ma, Kaituo Feng, Haojie Huang, Youxing Li, Ronghao Chen, Huacan Wang, Chenglin Wu, Zikun Su, Xiaogang Xu, Kelu Yao, Kun Wang, Chen Gao, Yue Liao, Ruqi Huang, Tao Jin, Cheng Tan, Jiangning Zhang, Wenqi Ren, Yanwei Fu, Yong Liu, Yu Wang, Xiangyu Yue, Yu-Gang Jiang, Shuicheng Yan*. [[pdf](https://arxiv.org/pdf/2604.02029)], [[paper list](https://github.com/YU-deep/Awesome-Latent-Space)], 2026.04. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Efficient Training
 
