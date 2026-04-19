@@ -509,9 +509,11 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Stop When Enough: Adaptive Early-Stopping for Chain-of-Thought Reasoning**  
   *Renliang Sun, Wei Cheng, Dawei Li, Haifeng Chen, Wei Wang*. [[pdf](https://arxiv.org/pdf/2510.10103)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Merlin's Whisper: Enabling Efficient Reasoning in LLMs via Black-box Persuasive Prompting**  
-  *Heming Xia, Cunxiao Du, Rui Li, Chak Tou Leong, Yongqi Li, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2510.10528)], [[code](https://github.com/hemingkx/Whisper)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Prompting-green) ![](https://img.shields.io/badge/Whisper-blue)
+  *Heming Xia, Cunxiao Du, Rui Li, Chak Tou Leong, Yongqi Li, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2510.10528)], [[code](https://github.com/hemingkx/Whisper)], 2025.10. ![](https://img.shields.io/badge/ACL2026-orange) ![](https://img.shields.io/badge/Prompting-green) ![](https://img.shields.io/badge/Whisper-blue)
 - **Adaptive Dual Reasoner: Large Reasoning Models Can Think Efficiently by Hybrid Reasoning**  
   *Yujian Zhang, Keyu Chen, Zhifeng Shen, Ruizhi Qiao, Xing Sun*. [[pdf](https://arxiv.org/pdf/2510.10207)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Overthinking Reduction with Decoupled Rewards and Curriculum Data Scheduling**  
+  *Shuyang Jiang, Yusheng Liao, Ya Zhang, Yanfeng Wang, Yu Wang*. [[pdf](https://openreview.net/pdf?id=kdeiRledV6)], [[code](https://github.com/pixas/DECS)], 2025.10. ![](https://img.shields.io/badge/ICLR2026--oral-orange)
 - **Concise Reasoning in the Lens of Lagrangian Optimization**  
   *Chengqian Gao, Haonan Li, Taylor W. Killian, Jianshu She, Renxi Wang, Liqun Ma, Zhoujun Cheng, Shibo Hao, Zhiqiang Xu*. [[pdf](https://arxiv.org/pdf/2510.10168)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Towards Flash Thinking via Decoupled Advantage Policy Optimization**  
