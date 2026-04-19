@@ -393,7 +393,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **A\*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings**  
   *Xiaoang Xu, Shuo Wang, Xu Han, Zhenghao Liu, Huijia Wu, Peipei Li, Zhiyuan Liu, Maosong Sun, Zhaofeng He*. [[pdf](https://arxiv.org/pdf/2505.24550)], [[code](https://github.com/AI9Stars/AStar-Thought)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/A*--Thought-blue)
 - **TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression**  
-  *Zhong-Zhi Li, Xiao Liang, Zihao Tang, Lei Ji, Peijie Wang, Haotian Xu, Xing W, Haizhen Huang, Weiwei Deng, Ying Nian Wu, Yeyun Gong, Zhijiang Guo, Xiao Liu, Fei Yin, Cheng-Lin Liu*. [[pdf](https://arxiv.org/pdf/2506.02678)], [[code](https://github.com/zzli2022/TLDR)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TL;DR-blue)
+  *Zhong-Zhi Li, Xiao Liang, Zihao Tang, Lei Ji, Peijie Wang, Haotian Xu, Xing W, Haizhen Huang, Weiwei Deng, Ying Nian Wu, Yeyun Gong, Zhijiang Guo, Xiao Liu, Fei Yin, Cheng-Lin Liu*. [[pdf](https://arxiv.org/pdf/2506.02678)], [[code](https://github.com/zzli2022/TLDR)], 2025.06. ![](https://img.shields.io/badge/ACL2026-orange) ![](https://img.shields.io/badge/TL;DR-blue)
 - **Answer Convergence as a Signal for Early Stopping in Reasoning**  
   *Xin Liu, Lu Wang*. [[pdf](https://arxiv.org/pdf/2506.02536)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Early_Exit-green)
 - **How Far Are We from Optimal Reasoning Efficiency?**  
@@ -544,6 +544,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Taiqiang Wu, Zenan Xu, Bo Zhou, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2602.20945)], [[homepage](https://wutaiqiang.github.io/project/Art)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Constraint-Rectified Training for Efficient Chain-of-Thought**  
   *Qinhang Wu, Sen Lin, Ming Zhang, Yingbin Liang, Ness B. Shroff*. [[pdf](https://arxiv.org/pdf/2602.12526)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CRT-blue) ![](https://img.shields.io/badge/Accuracy_Guard-green)
+- **ATTNPO: Attention-Guided Process Supervision for Efficient Reasoning**  
+  *Shuaiyi Nie, Siyu Ding, Wenyuan Zhang, Linhao Yu, Tianmeng Yang, Yao Chen, Tingwen Liu, Weichong Yin, Yu Sun, Hua Wu*. [[pdf](https://arxiv.org/pdf/2602.09953)], 2026.02. ![](https://img.shields.io/badge/ACL2026-orange)
 
 ### Adaptive Thinking
 
@@ -868,7 +870,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework**  
   *Zenan Xu, Zexuan Qiu, Guanhua Huang, Kun Li, Siheng Li, Chenchen Zhang, Kejiao Li, Qi Yi, Yuhao Jiang, Bo Zhou, Fengzong Lian, Zhanhui Kang*. [[pdf](https://arxiv.org/pdf/2507.06829)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **MUR: Momentum Uncertainty guided Reasoning for Large Language Models**  
-  *Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, Qika Lin, Jun Liu*. [[pdf](https://arxiv.org/pdf/2507.14958)], [[code](https://github.com/yayayacc/MUR)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, Qika Lin, Jun Liu*. [[pdf](https://arxiv.org/pdf/2507.14958)], [[code](https://github.com/yayayacc/MUR)], 2025.07. ![](https://img.shields.io/badge/ACL2026-orange)
 - **BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute**  
   *Dujian Ding, Ankur Mallick, Shaokun Zhang, Chi Wang, Daniel Madrigal, Mirian Del Carmen Hipolito Garcia, Menglin Xia, Laks V.S. Lakshmanan, Qingyun Wu, Victor Rühle*. [[pdf](https://arxiv.org/pdf/2506.22716)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/BEST--Route-blue) ![](https://img.shields.io/badge/BoN-green)
 - **A1: Asynchronous Test-Time Scaling via Conformal Prediction**  
