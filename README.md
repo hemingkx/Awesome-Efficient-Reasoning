@@ -237,6 +237,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Chao Chen, Zhixin Ma, Yongqi Li, Yupeng Hu, Yinwei Wei, Wenjie Li, Liqiang Nie*. [[pdf](https://arxiv.org/pdf/2510.12603)], [[code](https://github.com/FYYDCC/IVT-LR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/IVT--LR-blue) ![](https://img.shields.io/badge/Multimodal-green)
 - **Continuous Autoregressive Language Models**  
   *Chenze Shao, Darren Li, Fandong Meng, Jie Zhou*. [[pdf](https://arxiv.org/pdf/2510.27688)], [[code](https://github.com/shaochenze/calm)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CALM-blue)
+- **Rethinking LLM Reasoning: From Explicit Trajectories to Latent Representations**  
+  *Cong Jiang, Xiaofeng Zhang, Fangzhi Zhu, XiaoWei Chen, Junxiong Zhu, Zheng Zhang*. [[pdf](https://openreview.net/pdf?id=CbK7lYbmv8)], [[code](https://github.com/MobiusDai/LRT)], 2025.09. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/LRT-blue)
 - **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**  
   *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/abs/2511.08577)], [[code](https://github.com/thu-nics/TaH)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TaH-blue)
 - **Think Consistently, Reason Efficiently: Energy-Based Calibration for Implicit Chain-of-Thought**  
