@@ -548,7 +548,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Qinhang Wu, Sen Lin, Ming Zhang, Yingbin Liang, Ness B. Shroff*. [[pdf](https://arxiv.org/pdf/2602.12526)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CRT-blue) ![](https://img.shields.io/badge/Accuracy_Guard-green)
 - **ATTNPO: Attention-Guided Process Supervision for Efficient Reasoning**  
   *Shuaiyi Nie, Siyu Ding, Wenyuan Zhang, Linhao Yu, Tianmeng Yang, Yao Chen, Tingwen Liu, Weichong Yin, Yu Sun, Hua Wu*. [[pdf](https://arxiv.org/pdf/2602.09953)], 2026.02. ![](https://img.shields.io/badge/ACL2026-orange)
-- **Early Stopping for Large Reasoning Models via Confidence Dynamics**
+- **Early Stopping for Large Reasoning Models via Confidence Dynamics**   
   *Parsa Hosseini, Sumit Nawathe, Mahdi Salmani, Meisam Razaviyayn, Soheil Feizi*. [[pdf](https://arxiv.org/pdf/2604.04930)], [[code](https://github.com/sudoparsa/CoDE-Stop)], 2026.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoDE--Stop-blue) ![](https://img.shields.io/badge/Early_Exit-green)
 
 ### Adaptive Thinking
