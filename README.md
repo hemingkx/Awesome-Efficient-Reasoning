@@ -1074,6 +1074,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - [EIT-NLP/Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 - [yzhangchuck/awesome-llm-reasoning-long2short-papers](https://github.com/yzhangchuck/awesome-llm-reasoning-long2short-papers)
 - [yuelinan/Awesome-Efficient-R1-style-LRMs](https://github.com/yuelinan/Awesome-Efficient-R1-style-LRMs)
+- [matinaghaei/awesome-latent-refinement](https://github.com/matinaghaei/awesome-latent-refinement)
 
 ## Contributors
 
