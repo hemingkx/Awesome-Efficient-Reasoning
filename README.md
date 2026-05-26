@@ -729,7 +729,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Accelerated Test-Time Scaling with Model-Free Speculative Sampling**  
   *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.04708)], 2025.06. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/STAND-blue)
 - **Scaling Speculative Decoding with Lookahead Reasoning**  
-  *Yichao Fu, Rui Ge, Zelei Shao, Zhijie Deng, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2506.19830)], [[code](https://github.com/hao-ai-lab/LookaheadReasoning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Yichao Fu, Rui Ge, Zelei Shao, Zhijie Deng, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2506.19830)], [[code](https://github.com/hao-ai-lab/LookaheadReasoning)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **SpecExit: Accelerating Large Reasoning Model via Speculative Exit**  
   *Rubing Yang, Huajun Bai, Song Liu, Guanghua Yu, Runzhi Fan, Yanbin Dang, Jiejing Zhang, Kai Liu, Jianchen Zhu, Peng Chen*. [[pdf](https://arxiv.org/pdf/2509.24248)], [[code](https://github.com/Tencent/AngelSlim)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecExit-blue)
 - **SpecCoT: Accelerating Chain-of-Thought Reasoning through Speculative Exploration**  
