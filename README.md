@@ -376,6 +376,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen*. [[pdf](https://arxiv.org/pdf/2505.17827)], [[code](https://github.com/Faustrazor/Not-All-Thinking-Tokens)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Skipping-green)
 - **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**  
   *Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2505.19187)], [[code](https://github.com/GAIR-NLP/LIMOPro)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/LIMOPro-blue) ![](https://img.shields.io/badge/Step_Shortcut-green)
+- **Interleaved Reasoning for Large Language Models via Reinforcement Learning**  
+  *Roy Xie, David Qiu, Deepak Gopinath, Dong Lin, Yanchao Sun, Chong Wang, Saloni Potdar, Bhuwan Dhingra*. [[pdf](https://arxiv.org/pdf/2505.19640)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning**  
   *Mingyang Song, Mao Zheng*. [[pdf](https://arxiv.org/pdf/2505.21178)], [[code](https://github.com/nick7nlp/ConciseR)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Length_Penalty-green)
 - **AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting**  
