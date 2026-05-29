@@ -914,7 +914,7 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
 - **Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning**  
   *Ziyang Wang, Jaehong Yoon, Shoubin Yu, Md Mohaiminul Islam, Gedas Bertasius, Mohit Bansal*. [[pdf](https://aclanthology.org/2025.emnlp-main.1428.pdf)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/Test--Time_Scaling-green)
 - **R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**  
-  *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*. [[pdf](https://arxiv.org/pdf/2508.21113)], [[code](https://github.com/yannqi/R-4B)], [[huggingface](https://huggingface.co/YannQi/R-4B)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--4B-blue) ![](https://img.shields.io/badge/Adaptive_Thinking-green)
+  *Jie Jiang, Qi Yang, Bolin Ni, Shiming Xiang, Han Hu, Houwen Peng*. [[pdf](https://arxiv.org/pdf/2508.21113)], [[code](https://github.com/yannqi/R-4B)], [[huggingface](https://huggingface.co/YannQi/R-4B)], 2025.08. ![](https://img.shields.io/badge/CVPR2026-orange) ![](https://img.shields.io/badge/R--4B-blue) ![](https://img.shields.io/badge/Adaptive_Thinking-green)
 - **Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models**  
   *Zhichao Sheng, Shilin Zhou, Chen Gong, Zhenghua Li*. [[pdf](https://arxiv.org/pdf/2509.21960)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision**  
