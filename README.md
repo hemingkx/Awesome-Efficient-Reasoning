@@ -701,6 +701,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Yule Liu, Jingyi Zheng, Zhen Sun, Zifan Peng, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He*. [[pdf](https://arxiv.org/pdf/2504.13626)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Thought_Manipulation-blue) ![](https://img.shields.io/badge/CoTs_from_SRMs-green)
 - **SplitReason: Learning To Offload Reasoning**  
   *Yash Akhauri, Anthony Fei, Chi-Chih Chang, Ahmed F. AbouElhamayed, Yueying Li, Mohamed S. Abdelfattah*. [[pdf](https://arxiv.org/pdf/2504.16379)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SplitReason-blue) ![](https://img.shields.io/badge/offloading_challenging_CoT_parts_to_LRMs-green)
+- **An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation**  
+  *Shubham Gandhi, Atharva Naik, Yiqing Xie, Carolyn Rose*. [[pdf](https://arxiv.org/pdf/2505.20182)], [[code](https://github.com/shubhamrgandhi/codegen-strong-weak-collab)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange)
 - **ProxyThinker: Test-Time Guidance through Small Visual Reasoners**  
   *Zilin Xiao, Jaywon Koo, Siru Ouyang, Jefferson Hernandez, Yu Meng, Vicente Ordonez*. [[pdf](https://arxiv.org/pdf/2505.24872)], [[code](https://github.com/MrZilinXiao/ProxyThinker)], 2025.05. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/ProxyThinker-blue) ![](https://img.shields.io/badge/CoTs_from_Multimodal_SRMs-green)
 - **What makes Reasoning Models Different? Follow the Reasoning Leader for Efficient Decoding**  
