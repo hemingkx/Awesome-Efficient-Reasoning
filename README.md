@@ -1030,6 +1030,8 @@ This repository contains a regularly updated paper list for **Efficient Reasonin
   *Ming Li, Yanhong Li, Tianyi Zhou*. [[pdf](https://aclanthology.org/2025.acl-long.1545/)],  [[code](https://github.com/MingLiiii/Layer_Gradient?tab=readme-ov-file)], 2025.06. ![](https://img.shields.io/badge/ACL2025--Oral-orange)
 - **Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer**  
   *Wenquan Lu, Yuechuan Yang, Kyle Lee, Yanshu Li, Enqi Liu*. [[pdf](https://arxiv.org/pdf/2507.02199)], [[code](https://github.com/wenquanlu/huginn-latent-cot)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation**
+  *Mohsen Hariri, Amirhossein Samandar, Michael Hinczewski, Vipin Chaudhary*. [[pdf](https://arxiv.org/pdf/2510.04265)], [[code](https://github.com/mohsenhariri/scorio)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange) ![](https://img.shields.io/badge/Bayes%40N-green)
 - **First Try Matters: Revisiting the Role of Reflection in Reasoning Models**
   *Liwei Kang, Yue Deng, Yao Xiao, Zhanfeng Mo, Wee Sun Lee, Lidong Bing*. [[pdf](https://arxiv.org/pdf/2510.08308)], [[code](https://github.com/Olafyii/first-try-matters)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Rethinking Thinking Tokens: LLMs as Improvement Operators**
